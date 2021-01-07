@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T07:01:45.194Z" agent="5.0 (X11)" etag="M4d_6PujlxQ6k7VyBSQd" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:16:39.293Z" agent="5.0 (X11)" etag="7uWu42j7ACT9gcxkix9f" version="14.1.2" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="1714" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-16" value="Mode&amp;nbsp; of&amp;nbsp; contract&amp;nbsp; of&amp;nbsp; indemnity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-19" target="8YoVKXTo6qSErMUPWPp3-23">
           <mxGeometry relative="1" as="geometry" />
@@ -143,6 +143,91 @@
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-49" value="person to whom the gurantee is given" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-50" target="8YoVKXTo6qSErMUPWPp3-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-50" value="essentials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-51" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8YoVKXTo6qSErMUPWPp3-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="360" as="sourcePoint" />
+            <mxPoint x="740" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-53" target="8YoVKXTo6qSErMUPWPp3-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-53" value="1. Principal Debt: The purpose of a guarantee being to secure the payment of a debt, the existence of recoverable debt is necessary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="450" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-54" target="8YoVKXTo6qSErMUPWPp3-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-54" value="2. Consideration:&amp;nbsp; Like&amp;nbsp; every&amp;nbsp; other&amp;nbsp; contract,&amp;nbsp; a&amp;nbsp; contract&amp;nbsp; of&amp;nbsp; guarantee&amp;nbsp; should&amp;nbsp; also&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; supported&amp;nbsp;&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp;&amp;nbsp; some&amp;nbsp;&amp;nbsp;&amp;nbsp; consideration." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="510" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-58" target="8YoVKXTo6qSErMUPWPp3-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-58" value="3. Existence&amp;nbsp; of&amp;nbsp; a&amp;nbsp; liability:&amp;nbsp; There&amp;nbsp; must&amp;nbsp; be&amp;nbsp; an existing&amp;nbsp; liability&amp;nbsp; or&amp;nbsp; a&amp;nbsp; promise whose&amp;nbsp;&amp;nbsp; performance&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; guaranteed. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="580" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-59" target="8YoVKXTo6qSErMUPWPp3-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-59" value="&lt;div&gt;4. No&amp;nbsp;&amp;nbsp; misrepresentation&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; concealment:&lt;/div&gt;&lt;div&gt;Guaranty obtained by misrepresentation is invalid &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-60" target="8YoVKXTo6qSErMUPWPp3-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-60" target="8YoVKXTo6qSErMUPWPp3-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-60" target="8YoVKXTo6qSErMUPWPp3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-60" value="5.Writing&amp;nbsp; not&amp;nbsp; necessary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="700" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-61" value="implied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="690" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-62" value="express" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="730" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-68" target="8YoVKXTo6qSErMUPWPp3-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-68" value="&lt;div&gt;6. Joining of&amp;nbsp; the&amp;nbsp; other&amp;nbsp; co-sureties:&lt;/div&gt;upon contract the creditor shall not act on co surety if they do not join.(when there are multiple surety&#39;s if one does not join the contract is invalid)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="760" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-70" target="8YoVKXTo6qSErMUPWPp3-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-70" target="8YoVKXTo6qSErMUPWPp3-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-70" value="Types of guaranty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-77" value="&lt;div&gt;Continuing &lt;br&gt;&lt;/div&gt;&lt;div&gt;Guarantee&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1070" y="930" width="120" height="40" as="geometry">
+            <mxRectangle x="1070" y="930" width="180" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-78" value="A&amp;nbsp; guarantee&amp;nbsp; which&amp;nbsp; extends&amp;nbsp; to&amp;nbsp; a&amp;nbsp; series&amp;nbsp; of&amp;nbsp; transaction&amp;nbsp; is&amp;nbsp; called&amp;nbsp; a&amp;nbsp; continuing&amp;nbsp; guarantee." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8YoVKXTo6qSErMUPWPp3-77">
+          <mxGeometry y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-72" value="&lt;div&gt;Specific &lt;br&gt;&lt;/div&gt;&lt;div&gt;Guarantee&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="930" y="930" width="120" height="40" as="geometry">
+            <mxRectangle x="930" y="930" width="180" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-76" value="&amp;nbsp;A&amp;nbsp; guarantee&amp;nbsp; which extends&amp;nbsp; to&amp;nbsp; a&amp;nbsp; single&amp;nbsp; debt/&amp;nbsp; specific transaction&amp;nbsp; is&amp;nbsp; called&amp;nbsp; a&amp;nbsp; specific&amp;nbsp; guarantee." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8YoVKXTo6qSErMUPWPp3-72">
+          <mxGeometry y="40" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
