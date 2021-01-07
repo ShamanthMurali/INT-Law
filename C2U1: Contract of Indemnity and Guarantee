@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T06:41:55.573Z" agent="5.0 (X11)" etag="K6NfhnrNawbQnjolXAMw" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T06:57:48.450Z" agent="5.0 (X11)" etag="wa6JONloSCEPHhuiq_-6" version="14.1.2" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="2144" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,14 @@
         <mxCell id="8YoVKXTo6qSErMUPWPp3-6" value="&lt;div&gt;Parties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8YoVKXTo6qSErMUPWPp3-7" value="Indemnified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-7" target="8YoVKXTo6qSErMUPWPp3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-7" value="&lt;div&gt;Indemnified/&lt;/div&gt;&lt;div&gt;indemnity holder&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-8" target="8YoVKXTo6qSErMUPWPp3-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-8" value="Indemnifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
@@ -48,6 +54,48 @@
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-14" value="who is promised to be saved against the loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-16" target="8YoVKXTo6qSErMUPWPp3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-16" target="8YoVKXTo6qSErMUPWPp3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-16" value="Mode&amp;nbsp; of&amp;nbsp; contract&amp;nbsp; of&amp;nbsp; indemnity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-19" target="8YoVKXTo6qSErMUPWPp3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-19" value="implied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-20" target="8YoVKXTo6qSErMUPWPp3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-20" value="express" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-23" target="8YoVKXTo6qSErMUPWPp3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-23" value="essentials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-24" target="8YoVKXTo6qSErMUPWPp3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-24" value="&lt;div&gt;a.Offer and acceptance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Intention to create legal obligation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c.Consideration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d.Competency to contract&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.Free consent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f.Lawful object&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g.The&amp;nbsp;&amp;nbsp; agreement&amp;nbsp;&amp;nbsp; must&amp;nbsp;&amp;nbsp; not&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; expressly&amp;nbsp;&amp;nbsp; declared&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; void- eg:&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; agreement in restraint of trade/ marriage etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;h.The terms of the agreement must not be vague or uncertain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i.The&amp;nbsp; agreement&amp;nbsp; must&amp;nbsp; be&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; performance-&amp;nbsp;&amp;nbsp; An&amp;nbsp; agreement&amp;nbsp; to&amp;nbsp; do&amp;nbsp; an impossible act is void.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;j.Legal formalities&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-28" target="8YoVKXTo6qSErMUPWPp3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-28" value="Rights of an Indemnity Holder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-30" value="1) The indemnifier will have to pay damages which the indemnity holder will claim in a suit.&lt;br&gt;&lt;br&gt;2) The indemnity holder can even compel the indemnifier to pay the costs he incurs in litigating the suit.&lt;br&gt;&lt;br&gt;3) If the parties agree to legally compromise the suit, the indemnifier has to pay the compromise amount." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="360" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
