@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T06:57:48.450Z" agent="5.0 (X11)" etag="wa6JONloSCEPHhuiq_-6" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:01:45.194Z" agent="5.0 (X11)" etag="M4d_6PujlxQ6k7VyBSQd" version="14.1.2" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="1763" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,53 @@
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-30" value="1) The indemnifier will have to pay damages which the indemnity holder will claim in a suit.&lt;br&gt;&lt;br&gt;2) The indemnity holder can even compel the indemnifier to pay the costs he incurs in litigating the suit.&lt;br&gt;&lt;br&gt;3) If the parties agree to legally compromise the suit, the indemnifier has to pay the compromise amount." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1000" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-32" target="8YoVKXTo6qSErMUPWPp3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-32" value="&lt;b&gt;Guarantee&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-33" target="8YoVKXTo6qSErMUPWPp3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-33" value="A contract&amp;nbsp; of&amp;nbsp; guarantee&amp;nbsp; is&amp;nbsp; a&amp;nbsp; contract to perform&amp;nbsp; the promise&amp;nbsp; made or discharge the liability, of a third person in case of his default." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-35" value="&lt;div&gt;Parties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-39" target="8YoVKXTo6qSErMUPWPp3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-45" value="On default" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-39" target="8YoVKXTo6qSErMUPWPp3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-39" value="Creditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YoVKXTo6qSErMUPWPp3-40" target="8YoVKXTo6qSErMUPWPp3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-40" value="Surety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-41" value="Principal debtor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-47" value="person who gives the guarantee " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-48" value="person in respect of whose default the guarantee is given" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YoVKXTo6qSErMUPWPp3-49" value="person to whom the gurantee is given" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
