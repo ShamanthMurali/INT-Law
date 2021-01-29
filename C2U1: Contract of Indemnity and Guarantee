@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T15:29:20.974Z" agent="5.0 (X11)" etag="JDmJF1kVf2KhN4Ye6qO9" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T15:30:32.622Z" agent="5.0 (X11)" etag="pqfiPAcuHBJywjHnTVre" version="14.2.7" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="1341" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           <mxGeometry x="160" y="940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-30" value="1) The indemnifier will have to pay damages which the indemnity holder will claim in a suit.&lt;br&gt;&lt;br&gt;2) The indemnity holder can even compel the indemnifier to pay the costs he incurs in litigating the suit.&lt;br&gt;&lt;br&gt;3) If the parties agree to legally compromise the suit, the indemnifier has to pay the compromise amount." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1000" width="360" height="130" as="geometry" />
+          <mxGeometry x="20" y="1000" width="400" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8YoVKXTo6qSErMUPWPp3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8YoVKXTo6qSErMUPWPp3-32" target="8YoVKXTo6qSErMUPWPp3-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
