@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T15:30:32.622Z" agent="5.0 (X11)" etag="pqfiPAcuHBJywjHnTVre" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T15:32:27.472Z" agent="5.0 (X11)" etag="rKoel0HZixEBpiA2Kpvi" version="14.2.7" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
     <mxGraphModel dx="1888" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,7 +267,26 @@
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-2" value="&lt;div&gt;1. surety&amp;nbsp; is&amp;nbsp; liable&amp;nbsp; only&amp;nbsp; on&amp;nbsp; default&amp;nbsp; of&amp;nbsp; principal debtor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. His liability arises immediately on the default by the principal debtor.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. The creditor has a right to sue the surety directly without first proceeding against principal debtor.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1120" y="420" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-3" value="Rights of surety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="420" />
+              <mxPoint x="1400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="420" />
+              <mxPoint x="1680" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-3" value="Rights of surety" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
           <mxGeometry x="1480" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-4" target="s67Lnka-CCu1Nr4J0zmy-8" visible="0">
@@ -563,6 +582,27 @@
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-116" value="Example 36: A guarantees to C payment for iron to be supplied by him to B for&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; `&amp;nbsp; 2,00,000&amp;nbsp; tons.&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; have&amp;nbsp; privately&amp;nbsp; agreed&amp;nbsp; that&amp;nbsp; B&amp;nbsp; should pay five rupees per ton beyond the market price, such excess to be applied in liquidation of an old debt. This agreement is concealed from A. A is not liable as a surety. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-114">
           <mxGeometry y="130" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-124" value="Rights against co-sureties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-125" value="Rights against the principal debtor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-126" target="s67Lnka-CCu1Nr4J0zmy-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-126" target="s67Lnka-CCu1Nr4J0zmy-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-126" value="Rights against the creditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-130" value="Implied&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; indemnify surety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-131" value="Rights&amp;nbsp; of&amp;nbsp; subrogation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
