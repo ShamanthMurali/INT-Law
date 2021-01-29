@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T12:39:38.109Z" agent="5.0 (X11)" etag="_HOrVLDy6yCTM9Mf8U7A" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T12:48:17.624Z" agent="5.0 (X11)" etag="U8k-UXrEy8CTfLGiOFRY" version="14.2.7" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="2092" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,8 +303,17 @@
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-19" value="&amp;nbsp;creditor’s act or omission impairing&amp;nbsp; surety’s eventual remedy " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="490" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-20" target="s67Lnka-CCu1Nr4J0zmy-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-20" target="s67Lnka-CCu1Nr4J0zmy-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-20" target="s67Lnka-CCu1Nr4J0zmy-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-20" value="&amp;nbsp;Creditor gives time&amp;nbsp; to, or agrees not to sue, principal debtor " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="2160" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-21" target="s67Lnka-CCu1Nr4J0zmy-40">
           <mxGeometry relative="1" as="geometry" />
@@ -371,6 +380,37 @@
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-43" value="Example&amp;nbsp; 30: A gives a guarantee to C for goods to be delivered to B. Later on,&amp;nbsp; B&amp;nbsp; contracts&amp;nbsp; with&amp;nbsp; C&amp;nbsp; to&amp;nbsp; assign&amp;nbsp; his&amp;nbsp; property&amp;nbsp; to&amp;nbsp; C&amp;nbsp; in&amp;nbsp; lieu&amp;nbsp; of&amp;nbsp; the&amp;nbsp; debt.&amp;nbsp; B&amp;nbsp; is&amp;nbsp; discharged of his liability and A is discharged of his liability." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-41">
           <mxGeometry y="110" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-49" target="s67Lnka-CCu1Nr4J0zmy-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-49" value="Promise not to sue" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2450" y="620" width="140" height="40" as="geometry">
+            <mxRectangle x="2450" y="620" width="210" height="95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-54" value="&amp;nbsp;If&amp;nbsp; the&amp;nbsp; creditor&amp;nbsp; under&amp;nbsp; an&amp;nbsp; agreement&amp;nbsp; with&amp;nbsp; the&amp;nbsp; principal debtor promises not to sue him, the surety is discharged." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-49">
+          <mxGeometry y="40" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-50" target="s67Lnka-CCu1Nr4J0zmy-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-50" value="Promise to give time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-51" target="s67Lnka-CCu1Nr4J0zmy-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-51" value="Composition" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2130" y="620" width="110" height="40" as="geometry">
+            <mxRectangle x="2130" y="620" width="180" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-52" value="When the creditor varies the contract without the permission of the surety" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-51">
+          <mxGeometry y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-59" value="Exemptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
