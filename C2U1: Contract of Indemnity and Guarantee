@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T12:35:19.897Z" agent="5.0 (X11)" etag="manHBvsdtrYts8G8sTYl" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T12:39:38.109Z" agent="5.0 (X11)" etag="_HOrVLDy6yCTM9Mf8U7A" version="14.2.7" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
     <mxGraphModel dx="2092" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
           <mxGeometry x="1180" y="630" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-6" value="invalidation of the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="2620" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-7" value="conduct of the creditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="440" width="120" height="40" as="geometry" />
@@ -301,13 +301,16 @@
           <mxGeometry x="1370" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-19" value="&amp;nbsp;creditor’s act or omission impairing&amp;nbsp; surety’s eventual remedy " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="480" width="140" height="50" as="geometry" />
+          <mxGeometry x="2420" y="490" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-20" value="&amp;nbsp;Creditor gives time&amp;nbsp; to, or agrees not to sue, principal debtor " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="2070" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-21" target="s67Lnka-CCu1Nr4J0zmy-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-21" value="By release or discharge of principal&amp;nbsp; debtor " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="1810" y="510" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-22" target="s67Lnka-CCu1Nr4J0zmy-27">
           <mxGeometry relative="1" as="geometry" />
@@ -351,6 +354,23 @@
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-36" value="&lt;div&gt;&lt;b&gt;Variation&amp;nbsp; which&amp;nbsp; is&amp;nbsp; not&amp;nbsp; substantial&amp;nbsp; or&amp;nbsp; material&amp;nbsp; or&amp;nbsp; which&amp;nbsp; is&amp;nbsp; beneficial&amp;nbsp; to&amp;nbsp; the&amp;nbsp; surety&amp;nbsp; will&amp;nbsp; not&amp;nbsp; discharge&amp;nbsp; him&amp;nbsp; of&amp;nbsp; his&amp;nbsp; liability. &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; In &lt;b&gt;M.S&amp;nbsp; Anirudhan&amp;nbsp; vThomco’s&amp;nbsp; Bank&amp;nbsp; Ltd.&amp;nbsp; AIR&amp;nbsp; 1963&amp;nbsp; SC&amp;nbsp; 746&lt;/b&gt;,&amp;nbsp; the&amp;nbsp; surety&amp;nbsp; guaranteed&amp;nbsp; the&amp;nbsp; repayment&amp;nbsp; of loan provided by the bank to the principal debtor of only upto ` 25,000. Subsequently, since the bank was willing to provide loan only upto ` 20,000, the principal debtor reduced the amount to ` 20,000 in the guarantee form and&amp;nbsp; without&amp;nbsp; intimation&amp;nbsp; to&amp;nbsp; the&amp;nbsp; surety&amp;nbsp; gave&amp;nbsp; it&amp;nbsp; to&amp;nbsp; the&amp;nbsp; bank&amp;nbsp; which&amp;nbsp; was&amp;nbsp; then&amp;nbsp; accepted. On default by the principal debtor, the court held that the surety’s liability&amp;nbsp; was&amp;nbsp; not&amp;nbsp; discharged&amp;nbsp; as&amp;nbsp; the&amp;nbsp; alteration&amp;nbsp; was&amp;nbsp; beneficial&amp;nbsp; to him and not substantial.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-35">
           <mxGeometry y="40" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-40" target="s67Lnka-CCu1Nr4J0zmy-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-40" value="&lt;div&gt;i.enters&amp;nbsp; into&amp;nbsp; a&amp;nbsp; fresh/&amp;nbsp; new&amp;nbsp; contract&amp;nbsp; with&amp;nbsp; principal&amp;nbsp; debtor;&amp;nbsp; by&amp;nbsp; which&amp;nbsp; the&amp;nbsp; principal debtor is released, or &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii.&amp;nbsp;&amp;nbsp; does any&amp;nbsp; act&amp;nbsp; or&amp;nbsp; omission,&amp;nbsp; the&amp;nbsp; legal&amp;nbsp; consequence&amp;nbsp; of&amp;nbsp; which&amp;nbsp; is&amp;nbsp; the&amp;nbsp; discharge of the principal debtor.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="610" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-41" value="Examples" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1810" y="720" width="120" height="40" as="geometry">
+            <mxRectangle x="1810" y="740" width="460" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-42" value="Example&amp;nbsp; 29:&amp;nbsp; A&amp;nbsp; contracts&amp;nbsp; with&amp;nbsp; B&amp;nbsp; for&amp;nbsp; a&amp;nbsp; fixed&amp;nbsp; price&amp;nbsp; to&amp;nbsp; build&amp;nbsp; a&amp;nbsp; house&amp;nbsp; for&amp;nbsp; B&amp;nbsp; within a stipulated time, B supplying the necessary timber. C guarantees A’s performance&amp;nbsp; of&amp;nbsp; the&amp;nbsp; contract.&amp;nbsp; B&amp;nbsp; omits&amp;nbsp; to&amp;nbsp; supply&amp;nbsp; the&amp;nbsp; timber.&amp;nbsp; C&amp;nbsp; is&amp;nbsp; discharged&amp;nbsp; from his suretyship." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-41">
+          <mxGeometry y="40" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-43" value="Example&amp;nbsp; 30: A gives a guarantee to C for goods to be delivered to B. Later on,&amp;nbsp; B&amp;nbsp; contracts&amp;nbsp; with&amp;nbsp; C&amp;nbsp; to&amp;nbsp; assign&amp;nbsp; his&amp;nbsp; property&amp;nbsp; to&amp;nbsp; C&amp;nbsp; in&amp;nbsp; lieu&amp;nbsp; of&amp;nbsp; the&amp;nbsp; debt.&amp;nbsp; B&amp;nbsp; is&amp;nbsp; discharged of his liability and A is discharged of his liability." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s67Lnka-CCu1Nr4J0zmy-41">
+          <mxGeometry y="110" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
