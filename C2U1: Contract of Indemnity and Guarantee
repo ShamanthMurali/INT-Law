@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T17:42:06.855Z" agent="5.0 (X11)" etag="8hLxP_PYj733Gh5x6xXo" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T19:22:18.888Z" agent="5.0 (X11)" etag="zoCVr7eWc99yFXMLzhAX" version="14.3.0" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
-    <mxGraphModel dx="2084" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,9 +268,6 @@
           <mxGeometry x="1120" y="420" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-125" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1540" y="420" />
@@ -285,6 +282,9 @@
               <mxPoint x="1680" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-3" target="s67Lnka-CCu1Nr4J0zmy-126">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-3" value="Rights of surety" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="1480" y="360" width="120" height="40" as="geometry" />
@@ -583,31 +583,37 @@
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-116" value="Example 36: A guarantees to C payment for iron to be supplied by him to B for&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; `&amp;nbsp; 2,00,000&amp;nbsp; tons.&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; have&amp;nbsp; privately&amp;nbsp; agreed&amp;nbsp; that&amp;nbsp; B&amp;nbsp; should pay five rupees per ton beyond the market price, such excess to be applied in liquidation of an old debt. This agreement is concealed from A. A is not liable as a surety. " style="rounded=0;whiteSpace=wrap;html=1;" parent="s67Lnka-CCu1Nr4J0zmy-114" vertex="1">
           <mxGeometry y="130" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-124" value="Rights against co-sureties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-124" target="Gj0Q4q29IlszM_Wvxt4L-9" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-124" target="Gj0Q4q29IlszM_Wvxt4L-10" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-124" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Rights against co-sureties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1620" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-125" value="Rights against the principal debtor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s67Lnka-CCu1Nr4J0zmy-126" target="s67Lnka-CCu1Nr4J0zmy-134" edge="1" visible="0">
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-125" target="s67Lnka-CCu1Nr4J0zmy-137" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s67Lnka-CCu1Nr4J0zmy-126" target="s67Lnka-CCu1Nr4J0zmy-137" edge="1" visible="0">
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-125" target="s67Lnka-CCu1Nr4J0zmy-134" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s67Lnka-CCu1Nr4J0zmy-126" target="s67Lnka-CCu1Nr4J0zmy-140" edge="1" visible="0">
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s67Lnka-CCu1Nr4J0zmy-125" target="s67Lnka-CCu1Nr4J0zmy-140" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="500" />
-              <mxPoint x="1470" y="500" />
+              <mxPoint x="1420" y="500" />
+              <mxPoint x="1490" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s67Lnka-CCu1Nr4J0zmy-126" value="&amp;nbsp; Rights against the creditor" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-125" value="&amp;nbsp;&amp;nbsp; Rights against the principal debtor" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1340" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s67Lnka-CCu1Nr4J0zmy-126" value="&amp;nbsp; Rights against the creditor" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1480" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-140" value="Examples" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="1410" y="580" width="120" height="40" as="geometry">
+          <mxGeometry x="1430" y="580" width="120" height="40" as="geometry">
             <mxRectangle x="1410" y="580" width="460" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -621,20 +627,67 @@
           <mxGeometry y="220" width="460" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-134" value="  Implied promise&#xa;to indemnify  surety" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="1410" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="1410" y="520" width="290" height="110" as="alternateBounds" />
+          <mxGeometry x="1430" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="1430" y="520" width="290" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-135" value="The&amp;nbsp; surety&amp;nbsp; is&amp;nbsp; entitled&amp;nbsp; to&amp;nbsp; recover&amp;nbsp; from&amp;nbsp; the&amp;nbsp; principal&amp;nbsp; debtor whatever&amp;nbsp; sum&amp;nbsp; he&amp;nbsp; has&amp;nbsp; rightfully&amp;nbsp; paid&amp;nbsp; under&amp;nbsp; the&amp;nbsp; guarantee,&amp;nbsp; but&amp;nbsp; not&amp;nbsp;&amp;nbsp; sums which he paid wrongfully. " style="rounded=0;whiteSpace=wrap;html=1;" parent="s67Lnka-CCu1Nr4J0zmy-134" vertex="1">
           <mxGeometry y="40" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-137" value="Rights of &#xa;subrogation" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="1270" y="520" width="120" height="40" as="geometry">
+          <mxGeometry x="1290" y="520" width="120" height="40" as="geometry">
             <mxRectangle x="1270" y="520" width="280" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s67Lnka-CCu1Nr4J0zmy-138" value="&lt;div&gt;on default of payment and surety pays the creditor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;later the surety steps the shoes of the creditor for the principle debtor and he can recover the amount from him&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="s67Lnka-CCu1Nr4J0zmy-137" vertex="1">
           <mxGeometry y="40" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gj0Q4q29IlszM_Wvxt4L-9" target="Gj0Q4q29IlszM_Wvxt4L-13" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-9" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Co-sureties liable to contribute equall " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1550" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gj0Q4q29IlszM_Wvxt4L-10" target="Gj0Q4q29IlszM_Wvxt4L-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-10" value="Liability&amp;nbsp; of&amp;nbsp; co-sureties&amp;nbsp; bound&amp;nbsp; in&amp;nbsp; different&amp;nbsp; sums" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1690" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gj0Q4q29IlszM_Wvxt4L-13" target="Gj0Q4q29IlszM_Wvxt4L-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-13" value="In the case of co-surety ship the burden shall be paid equally by the partners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1500" y="590" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-14" value="Example 44:&amp;nbsp; A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; are&amp;nbsp; sureties&amp;nbsp; to&amp;nbsp; D&amp;nbsp; for&amp;nbsp; the&amp;nbsp; sum&amp;nbsp; of&amp;nbsp; 1,00,000&amp;nbsp; rupees&amp;nbsp; lent&amp;nbsp; to&amp;nbsp; E,&amp;nbsp; and&amp;nbsp; there&amp;nbsp; is&amp;nbsp; a&amp;nbsp; contract&amp;nbsp; between&amp;nbsp; A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; that&amp;nbsp; A&amp;nbsp; is&amp;nbsp; to&amp;nbsp; be&amp;nbsp; responsible to the extent of one-quarter, B to the extent of one-quarter, and C&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; one-&amp;nbsp;&amp;nbsp; half.&amp;nbsp; E&amp;nbsp; makes&amp;nbsp; default&amp;nbsp; in&amp;nbsp; payment.&amp;nbsp; As&amp;nbsp; between&amp;nbsp; the&amp;nbsp; sureties,&amp;nbsp; A&amp;nbsp; is&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; 25,000&amp;nbsp; rupees,&amp;nbsp; B&amp;nbsp; 25,000&amp;nbsp; rupees,&amp;nbsp; and&amp;nbsp; C&amp;nbsp; 50,000&amp;nbsp; rupees." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1430" y="740" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gj0Q4q29IlszM_Wvxt4L-15" target="Gj0Q4q29IlszM_Wvxt4L-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-15" value="Example 43:&amp;nbsp; A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; are&amp;nbsp; sureties&amp;nbsp; to&amp;nbsp; D&amp;nbsp; for&amp;nbsp; the&amp;nbsp; sum&amp;nbsp; of&amp;nbsp; 3,00,000&amp;nbsp; rupees&amp;nbsp; lent&amp;nbsp; to&amp;nbsp; E.&amp;nbsp; E&amp;nbsp; makes&amp;nbsp; default&amp;nbsp; in&amp;nbsp; payment.&amp;nbsp; A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C&amp;nbsp; are&amp;nbsp; liable,&amp;nbsp; as&amp;nbsp; between&amp;nbsp; themselves, to pay 1,00,000 rupees each. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1430" y="650" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gj0Q4q29IlszM_Wvxt4L-19" target="Gj0Q4q29IlszM_Wvxt4L-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-19" value="The principal&amp;nbsp; of&amp;nbsp; equal&amp;nbsp; contribution&amp;nbsp; is,&amp;nbsp; however,&amp;nbsp; subject&amp;nbsp; to&amp;nbsp; the&amp;nbsp; maximum&amp;nbsp; limit&amp;nbsp; fixed&amp;nbsp; by&amp;nbsp; a&amp;nbsp; surety&amp;nbsp; to&amp;nbsp; his&amp;nbsp; liability.&amp;nbsp;&amp;nbsp;&amp;nbsp; Co-sureties&amp;nbsp; who&amp;nbsp; are&amp;nbsp; bound&amp;nbsp; in&amp;nbsp; different&amp;nbsp; sums&amp;nbsp; are&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; equally&amp;nbsp; as&amp;nbsp; far&amp;nbsp; as&amp;nbsp; the&amp;nbsp; limits&amp;nbsp; of&amp;nbsp; their&amp;nbsp; respective&amp;nbsp; obligations permit." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1567.5" y="590" width="365" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-20" value="Examples" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="1690" y="680" width="120" height="40" as="geometry">
+            <mxRectangle x="1690" y="680" width="470" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-21" value="Example 45: A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C,&amp;nbsp; as&amp;nbsp; sureties&amp;nbsp; for&amp;nbsp; D,&amp;nbsp; enter&amp;nbsp; into&amp;nbsp; three&amp;nbsp; several&amp;nbsp; bonds,&amp;nbsp; each in a different penalty, namely, A in the penalty of 1,00,000 rupees, B in that&amp;nbsp; of&amp;nbsp; 2,00,000&amp;nbsp; rupees,&amp;nbsp; C&amp;nbsp; in&amp;nbsp; that&amp;nbsp; of&amp;nbsp; 4,00,000&amp;nbsp; rupees,&amp;nbsp; conditioned&amp;nbsp; for&amp;nbsp; D’s&amp;nbsp; duly accounting to E. D makes default to the extent of 3,00,000 rupees. A, B and C are each liable to pay 1,00,000 rupees." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gj0Q4q29IlszM_Wvxt4L-20">
+          <mxGeometry y="40" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-23" value="Example 46: A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C,&amp;nbsp; as&amp;nbsp; sureties&amp;nbsp; for&amp;nbsp; D,&amp;nbsp; enter&amp;nbsp; into&amp;nbsp; three&amp;nbsp; several&amp;nbsp; bonds,&amp;nbsp; each in a different penalty, namely, A in the penalty of 1,00,000 rupees, B in that&amp;nbsp; of&amp;nbsp; 2,00,000&amp;nbsp; rupees,&amp;nbsp; C&amp;nbsp; in&amp;nbsp; that&amp;nbsp; of&amp;nbsp; 4,00,000&amp;nbsp; rupees,&amp;nbsp; conditioned&amp;nbsp; for&amp;nbsp; D’s&amp;nbsp; duly accounting to E. D makes default to the extent of 4,00,000 rupees; A is liable to pay 1,00,000 rupees, and B and C 1,50,000 rupees each." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gj0Q4q29IlszM_Wvxt4L-20">
+          <mxGeometry y="130" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0Q4q29IlszM_Wvxt4L-24" value="Example 47:&amp;nbsp; A,&amp;nbsp; B&amp;nbsp; and&amp;nbsp; C,&amp;nbsp; as&amp;nbsp; sureties&amp;nbsp; for&amp;nbsp; D,&amp;nbsp; enter&amp;nbsp; into&amp;nbsp; three&amp;nbsp; several&amp;nbsp; bonds,&amp;nbsp; each in a different penalty, namely, A in the penalty of 1,00,000 rupees, B in that&amp;nbsp; of&amp;nbsp; 2,00,000&amp;nbsp; rupees,&amp;nbsp; C&amp;nbsp; in&amp;nbsp; that&amp;nbsp; of&amp;nbsp; 4,00,000&amp;nbsp; rupees,&amp;nbsp; conditioned&amp;nbsp; for&amp;nbsp; D’s&amp;nbsp; duly accounting to E. D makes default to the extent of 7,00,000 rupees. A, B and C have to pay each the full penalty of his bond." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gj0Q4q29IlszM_Wvxt4L-20">
+          <mxGeometry y="220" width="470" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
