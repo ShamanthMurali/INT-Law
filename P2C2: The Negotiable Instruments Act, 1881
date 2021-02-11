@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T15:42:49.349Z" agent="5.0 (X11)" etag="DL5fwNqFbwX2xM5WMhZz" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T15:56:38.952Z" agent="5.0 (X11)" etag="BnkPxcBh8cYeKzL8aWKV" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="501" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,16 +13,19 @@
         <mxCell id="lYvsD0EjyvOJams9arkX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-2" target="lYvsD0EjyvOJams9arkX-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lYvsD0EjyvOJams9arkX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-2" target="lYvsD0EjyvOJams9arkX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-2" value="Negotiable Instruments is an instrument (the word instrument means a document) which is freely transferable (by customs of trade) from one person to another by mere delivery or by indorsement and delivery." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lYvsD0EjyvOJams9arkX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lYvsD0EjyvOJams9arkX-4" value="Promissory note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lYvsD0EjyvOJams9arkX-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lYvsD0EjyvOJams9arkX-5" value="&lt;div&gt;Cheque&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lYvsD0EjyvOJams9arkX-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lYvsD0EjyvOJams9arkX-6" value="Bill of exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-7" target="lYvsD0EjyvOJams9arkX-6">
@@ -46,6 +49,14 @@
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-7" value="Types of negotiable instruments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvsD0EjyvOJams9arkX-12" value="Essential Elements" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="680" y="70" width="120" height="40" as="geometry">
+            <mxRectangle x="680" y="70" width="510" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYvsD0EjyvOJams9arkX-13" value="&lt;div&gt;1.It is necessarily in writing. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.It should be signed. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.It is free transferable from one person to another. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.Holders title is free from defects. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.It can be transferred any number of times till its satisfaction. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.Every&amp;nbsp; negotiable&amp;nbsp; instrument&amp;nbsp; must&amp;nbsp; contain&amp;nbsp; an unconditional promise&amp;nbsp; or&amp;nbsp; order&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; money.&amp;nbsp; The&amp;nbsp; promise&amp;nbsp; or&amp;nbsp; order&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; must&amp;nbsp; consist&amp;nbsp; of&amp;nbsp; money&amp;nbsp; only.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7.The sum payable, the time of payment, the payee, must be certain.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.The&amp;nbsp; instrument&amp;nbsp; should&amp;nbsp; be&amp;nbsp; delivered.&amp;nbsp; Mere&amp;nbsp; drawing&amp;nbsp; of&amp;nbsp; instrument&amp;nbsp; does&amp;nbsp; not&amp;nbsp; create liability.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lYvsD0EjyvOJams9arkX-12">
+          <mxGeometry y="40" width="510" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
