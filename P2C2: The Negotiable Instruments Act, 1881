@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T19:24:12.315Z" agent="5.0 (X11)" etag="D0fjYfcB7quVAPAELYCk" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T19:29:33.877Z" agent="5.0 (X11)" etag="NFnMlEdfSBQBItxrw0_5" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-16" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="199.99999999999997" y="800" width="120" height="40" as="geometry">
-            <mxRectangle x="199.82999999999998" y="800" width="460" height="330" as="alternateBounds" />
+            <mxRectangle x="199.99999999999997" y="800" width="460" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-17" value="&lt;div&gt;a. In writing-&amp;nbsp;&amp;nbsp; An oral promise to pay is not sufficient. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. There must be an express&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; pay. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. The&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; should&amp;nbsp; be definite&amp;nbsp; and unconditional. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. A promissory note must be signed by the makerotherwise it is incomplete and ineffective.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. Promise to pay money only.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f. Promise to pay a certain sum&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g. The maker and payee must be certain, definite and different persons. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;h.Stamping: A promissory note must be properly stamped in accordance with the&amp;nbsp; provisions&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Indian&amp;nbsp; Stamp&amp;nbsp; Act&amp;nbsp; and&amp;nbsp; such&amp;nbsp; stamp&amp;nbsp; must&amp;nbsp; be&amp;nbsp; duly&amp;nbsp; cancelled by maker&#39;s signatures or initials or otherwise.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-16">
