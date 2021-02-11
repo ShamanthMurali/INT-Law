@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T18:40:22.562Z" agent="5.0 (X11)" etag="WCfaPTVuUl79_IERP4Zo" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T19:24:12.315Z" agent="5.0 (X11)" etag="D0fjYfcB7quVAPAELYCk" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="1243" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-4" target="yUnEY0FOHa-hRLPgcxfa-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYvsD0EjyvOJams9arkX-4" value="Promissory note" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lYvsD0EjyvOJams9arkX-4" value="Promissory note" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-5" value="&lt;div&gt;Cheque&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -61,8 +61,69 @@
         <mxCell id="lYvsD0EjyvOJams9arkX-13" value="&lt;div&gt;1.It is necessarily in writing. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.It should be signed. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.It is free transferable from one person to another. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.Holders title is free from defects. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.It can be transferred any number of times till its satisfaction. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.Every&amp;nbsp; negotiable&amp;nbsp; instrument&amp;nbsp; must&amp;nbsp; contain&amp;nbsp; an unconditional promise&amp;nbsp; or&amp;nbsp; order&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; money.&amp;nbsp; The&amp;nbsp; promise&amp;nbsp; or&amp;nbsp; order&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; must&amp;nbsp; consist&amp;nbsp; of&amp;nbsp; money&amp;nbsp; only.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7.The sum payable, the time of payment, the payee, must be certain.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.The&amp;nbsp; instrument&amp;nbsp; should&amp;nbsp; be&amp;nbsp; delivered.&amp;nbsp; Mere&amp;nbsp; drawing&amp;nbsp; of&amp;nbsp; instrument&amp;nbsp; does&amp;nbsp; not&amp;nbsp; create liability.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="lYvsD0EjyvOJams9arkX-12" vertex="1">
           <mxGeometry y="40" width="510" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-1" target="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://paiementor.com//wp-content/uploads/2018/11/Example-Promissory-note-1024x581.png;" vertex="1" parent="1">
-          <mxGeometry x="39.32" y="300" width="440.68" height="250" as="geometry" />
+          <mxGeometry x="39.660000000000004" y="280" width="440.68" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-3" target="yUnEY0FOHa-hRLPgcxfa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-47.59" y="560" width="615.17" height="210" as="geometry">
+            <mxRectangle x="39.66" y="560" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-15" value="Goods &amp;amp; services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry x="245.33999999999997" y="130" width="119.49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-6" value="Parties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry x="285" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yUnEY0FOHa-hRLPgcxfa-3" source="yUnEY0FOHa-hRLPgcxfa-8" target="yUnEY0FOHa-hRLPgcxfa-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="40" />
+              <mxPoint x="425" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-8" value="&lt;div&gt;&lt;b&gt;Drawer&lt;/b&gt; / debtor&lt;/div&gt;&lt;div&gt;Maker /&amp;nbsp; Payer&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="120" y="80" width="160" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-20" value="The person who makes the promise to pay is called the Maker. He is the debtor and must sign the instrument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-8">
+          <mxGeometry y="40" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yUnEY0FOHa-hRLPgcxfa-3" source="yUnEY0FOHa-hRLPgcxfa-7" target="yUnEY0FOHa-hRLPgcxfa-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="160" />
+              <mxPoint x="180" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-7" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; Drawee &lt;/b&gt;/ creditor&lt;/div&gt;&lt;div&gt;payee / bearer&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry x="365.17" y="80" width="119.66" height="40" as="geometry">
+            <mxRectangle x="365.17" y="80" width="250" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-19" value="Payee is the person to whom the amount on the note is payable." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-7">
+          <mxGeometry y="40" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-14" value="Issue promissory note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-3">
+          <mxGeometry x="245.17000000000002" y="50" width="119.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-16" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="199.99999999999997" y="800" width="120" height="40" as="geometry">
+            <mxRectangle x="199.82999999999998" y="800" width="460" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-17" value="&lt;div&gt;a. In writing-&amp;nbsp;&amp;nbsp; An oral promise to pay is not sufficient. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. There must be an express&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; pay. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. The&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; should&amp;nbsp; be definite&amp;nbsp; and unconditional. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. A promissory note must be signed by the makerotherwise it is incomplete and ineffective.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. Promise to pay money only.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f. Promise to pay a certain sum&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g. The maker and payee must be certain, definite and different persons. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;h.Stamping: A promissory note must be properly stamped in accordance with the&amp;nbsp; provisions&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Indian&amp;nbsp; Stamp&amp;nbsp; Act&amp;nbsp; and&amp;nbsp; such&amp;nbsp; stamp&amp;nbsp; must&amp;nbsp; be&amp;nbsp; duly&amp;nbsp; cancelled by maker&#39;s signatures or initials or otherwise.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-16">
+          <mxGeometry y="40" width="460" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
