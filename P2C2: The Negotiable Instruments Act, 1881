@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T19:46:23.215Z" agent="5.0 (X11)" etag="bodd8TtmWlFa5DXS4vMM" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T20:07:23.944Z" agent="5.0 (X11)" etag="_1c40AKfcZ2VTzvho4m6" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="857" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="592" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,10 @@
         <mxCell id="lYvsD0EjyvOJams9arkX-4" value="Promissory note" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="200" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lYvsD0EjyvOJams9arkX-5" value="&lt;div&gt;Cheque&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-5" target="yUnEY0FOHa-hRLPgcxfa-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvsD0EjyvOJams9arkX-5" value="&lt;div&gt;Cheque&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="520" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-6" target="yUnEY0FOHa-hRLPgcxfa-23" visible="0">
@@ -187,6 +190,86 @@
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-50" value="&lt;div&gt;a)It must be in writing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)Must contain an express order to pay &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c)The order to pay must be definite and unconditional&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d)The drawer must sign the instrument &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e)Drawer, drawee and payee must be certain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f)The sum must be certain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g)The order must be to pay money only &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;h)It must be stamped.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-49">
           <mxGeometry y="40" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-52" target="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1200/0*0X8Z8EXF0mXUSLvB.jpg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="yUnEY0FOHa-hRLPgcxfa-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-56" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="272.42" y="460" width="615.17" height="260" as="geometry">
+            <mxRectangle x="39.66" y="560" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-58" value="Parties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="285" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-69" value="Payee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="407.58000000000004" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yUnEY0FOHa-hRLPgcxfa-56" source="yUnEY0FOHa-hRLPgcxfa-68" target="yUnEY0FOHa-hRLPgcxfa-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-68" value="Drawer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="87.58000000000004" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-71" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yUnEY0FOHa-hRLPgcxfa-56" source="yUnEY0FOHa-hRLPgcxfa-67" target="yUnEY0FOHa-hRLPgcxfa-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-72" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="yUnEY0FOHa-hRLPgcxfa-56" source="yUnEY0FOHa-hRLPgcxfa-67" target="yUnEY0FOHa-hRLPgcxfa-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-67" value="Drawee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="247.58000000000004" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-74" value="The one who draws the cheque" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="87.58" y="30" width="122.42" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-75" value="Can be the Drawer himself or a third party" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="395.77" y="30" width="143.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-76" value="Is always the bank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="245.16000000000003" y="160" width="122.42" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-77" value="The one who pays the money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="246.38000000000005" y="230" width="122.42" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-78" value="The one who receives the money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yUnEY0FOHa-hRLPgcxfa-56">
+          <mxGeometry x="368.8" y="10" width="194.23" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-79" target="yUnEY0FOHa-hRLPgcxfa-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-79" value="Essentials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-83" target="yUnEY0FOHa-hRLPgcxfa-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-83" value="a.all the essential characteristics of a bill of exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-84" target="yUnEY0FOHa-hRLPgcxfa-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-84" value="c.It must be payable on demand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="920" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-85" target="yUnEY0FOHa-hRLPgcxfa-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-85" target="yUnEY0FOHa-hRLPgcxfa-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-85" value="b.Must be drawn on a specified banker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUnEY0FOHa-hRLPgcxfa-87" value="Note: These two additional features distinguish a cheque from&amp;nbsp; bill. Thus,&amp;nbsp; all&amp;nbsp; cheques are bills while all bills are not cheques." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="870" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
