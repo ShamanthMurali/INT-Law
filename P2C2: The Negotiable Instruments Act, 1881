@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T19:55:12.671Z" agent="5.0 (X11)" etag="42FMSwSv5DmNyyThp_ZS" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T20:06:10.493Z" agent="5.0 (X11)" etag="Bpdp3k8pHB_cEqzjhJ1R" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="596" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,9 @@
         <mxCell id="bYQYD7u7GiQVqeG4pW50-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-2" target="bYQYD7u7GiQVqeG4pW50-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-2" target="bYQYD7u7GiQVqeG4pW50-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-2" value="Crossed cheque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="880" width="120" height="40" as="geometry" />
         </mxCell>
@@ -313,7 +316,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-8" value="Bearer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390.01" y="960" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-9" target="bYQYD7u7GiQVqeG4pW50-12">
           <mxGeometry relative="1" as="geometry" />
@@ -325,19 +328,70 @@
           <mxGeometry x="230" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-14" value="anybody who hold the cheque can encash it" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390.01" y="1020" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bYQYD7u7GiQVqeG4pW50-16" value="General Crossing" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-16" target="bYQYD7u7GiQVqeG4pW50-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-16" value="General Crossing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bYQYD7u7GiQVqeG4pW50-17" value="special crossing" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-17" target="bYQYD7u7GiQVqeG4pW50-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-17" value="special crossing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bYQYD7u7GiQVqeG4pW50-18" value="a/c payee" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-18" target="bYQYD7u7GiQVqeG4pW50-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-18" value="a/c payee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bYQYD7u7GiQVqeG4pW50-19" value="not negotiable " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-19" target="bYQYD7u7GiQVqeG4pW50-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-19" value="not negotiable " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-59" target="bYQYD7u7GiQVqeG4pW50-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-59" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees bank account&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1020" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-61" target="bYQYD7u7GiQVqeG4pW50-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-61" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees specifically mentioned bank account&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1020" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-63" target="bYQYD7u7GiQVqeG4pW50-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-63" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to the bank account of the drawee specifically mentioned the cheque&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1020" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-67" target="bYQYD7u7GiQVqeG4pW50-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-67" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees bank account&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. the specified drawee gets a superior title than the rest of the endorsee&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1020" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-69" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-71" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-72" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-75" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Cannot be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-77" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Can be crossed by:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;1. drawer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;2. drawee&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;3. banker&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="890" y="770" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
