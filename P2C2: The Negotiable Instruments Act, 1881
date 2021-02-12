@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T20:22:20.854Z" agent="5.0 (X11)" etag="lEhR5D8OxZicnXZPWODy" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T20:29:13.180Z" agent="5.0 (X11)" etag="kS_SmFiWEFj2cgYOBZ9l" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="863" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="482" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,17 @@
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="yUnEY0FOHa-hRLPgcxfa-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="bYQYD7u7GiQVqeG4pW50-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="bYQYD7u7GiQVqeG4pW50-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="810" />
+              <mxPoint x="560" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-56" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="272.42" y="460" width="615.17" height="260" as="geometry">
             <mxRectangle x="39.66" y="560" width="120" height="40" as="alternateBounds" />
@@ -242,9 +253,6 @@
           <mxGeometry x="368.8" y="10" width="194.23" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-79" target="yUnEY0FOHa-hRLPgcxfa-83" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bYQYD7u7GiQVqeG4pW50-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUnEY0FOHa-hRLPgcxfa-79" target="bYQYD7u7GiQVqeG4pW50-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-79" value="Essentials" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
@@ -290,11 +298,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;div&gt;Types of cheques&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-1">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="520" y="800" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-2" target="bYQYD7u7GiQVqeG4pW50-16" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -403,6 +406,42 @@
         <mxCell id="bYQYD7u7GiQVqeG4pW50-77" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Can be crossed by:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;1. drawer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;2. drawee&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;3. banker&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1080" y="850" width="80" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-80" target="bYQYD7u7GiQVqeG4pW50-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="860" />
+              <mxPoint x="580" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-80" target="bYQYD7u7GiQVqeG4pW50-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="860" />
+              <mxPoint x="580" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-80">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#0000FF;" vertex="1" parent="1">
+            <mxGeometry x="500" y="800" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the paying bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-81">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="500" y="860" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Types of cheques&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="520.01" y="800" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the collecting bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-88">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="500" y="920" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
