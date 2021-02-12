@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T20:29:13.180Z" agent="5.0 (X11)" etag="kS_SmFiWEFj2cgYOBZ9l" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T20:53:18.921Z" agent="5.0 (X11)" etag="7TE5EZFGx5fAZvC10Sjf" version="14.3.0" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="482" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -427,6 +427,9 @@
             <mxGeometry x="500" y="800" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-81" target="bYQYD7u7GiQVqeG4pW50-91" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the paying bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-81">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
             <mxGeometry x="500" y="860" width="160" height="40" as="geometry" />
@@ -438,10 +441,55 @@
           </mxCell>
         </UserObject>
         <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the collecting bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-88">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" vertex="1" parent="1">
             <mxGeometry x="500" y="920" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-91" target="bYQYD7u7GiQVqeG4pW50-92" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-91" target="bYQYD7u7GiQVqeG4pW50-104" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-91" value="&lt;div&gt;1. Cheque&amp;nbsp; payable&amp;nbsp; to&amp;nbsp; order:&lt;/div&gt;&lt;div&gt;do not know &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="855" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-92" target="bYQYD7u7GiQVqeG4pW50-95" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-92" value="&lt;div&gt;2. Cheque&amp;nbsp; payable&amp;nbsp; to&amp;nbsp; bearer:&lt;/div&gt;&lt;div&gt;the bank will pay to whoever is the bearer, true or a stolen. and the bank will not be liable for that.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="920" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-95" target="bYQYD7u7GiQVqeG4pW50-97" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-95" value="&lt;div&gt;3. Payment&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; cheque&amp;nbsp;&amp;nbsp; crossed&amp;nbsp;&amp;nbsp; generally: &lt;br&gt;&lt;/div&gt;&lt;div&gt;the bank shall only pay to another bank&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="990" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-97" target="bYQYD7u7GiQVqeG4pW50-99" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-97" value="&lt;div&gt;4. Payment of cheque crossed specially:&lt;/div&gt;&lt;div&gt;the bank shall only pay to that special specified bank&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="1060" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-99" target="bYQYD7u7GiQVqeG4pW50-100" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-99" value="&lt;div&gt;5. did not understand&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="1130" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-100" value="&lt;div&gt;6. did not understand&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="1200" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="bYQYD7u7GiQVqeG4pW50-104" target="bYQYD7u7GiQVqeG4pW50-106" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-104" value="Excemption" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1040" y="855" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQYD7u7GiQVqeG4pW50-106" value="&lt;div&gt;1. the bank shall not pass and pay a forgery cheque.&lt;/div&gt;&lt;div&gt;2. it is the responsibility of the bank to protect the customer. And check if the signature is correct.&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. in case, if bank passes and pays a forgery cheque, then the &lt;b&gt;bank will be liable for that.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;arcSize=8;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="980" y="930" width="240" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
