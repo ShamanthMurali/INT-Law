@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T11:51:45.923Z" agent="5.0 (X11)" etag="C3TnCkoMWF89A9BjNbsB" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T11:56:04.323Z" agent="5.0 (X11)" etag="JLBh_gHvIXTtb1L6kazq" version="14.3.2" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -504,6 +504,9 @@
             <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-2" target="Nha3_gESL4uwDzSaFb_T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Holder&lt;/div&gt;" treeRoot="1" id="Nha3_gESL4uwDzSaFb_T-2">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
@@ -551,6 +554,9 @@
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-17" value="&lt;div&gt;1) Acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; binds&amp;nbsp; himself&amp;nbsp; to&amp;nbsp; all&amp;nbsp; the&amp;nbsp; subsequent&amp;nbsp; parties&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount of the bill if the drawee does not pay.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) The&amp;nbsp; party&amp;nbsp; for&amp;nbsp; whose&amp;nbsp; honor&amp;nbsp; he&amp;nbsp; accepts&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; and&amp;nbsp; all&amp;nbsp; prior parties&amp;nbsp; are&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; compensate&amp;nbsp; the&amp;nbsp; acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; for&amp;nbsp; all&amp;nbsp; loss&amp;nbsp; or&amp;nbsp; damage&amp;nbsp; sustained&amp;nbsp; by&amp;nbsp; him&amp;nbsp; in&amp;nbsp; consequence&amp;nbsp; of&amp;nbsp; such&amp;nbsp; acceptance.&amp;nbsp; The&amp;nbsp; liability&amp;nbsp; of an acceptor or honor is conditional he is liable only if the drawee fails to pay the bill.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" visible="0" parent="1">
           <mxGeometry x="280" y="740" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is a holder?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;holder anyone than - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) in whos name the NI(negotiable instrument) is entitled&lt;/div&gt;&lt;div&gt;2) who holds the possession of the NI&lt;/div&gt;&lt;div&gt;3) who hold the right/authority to receive and recover the NI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
