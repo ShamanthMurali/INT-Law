@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T11:56:04.323Z" agent="5.0 (X11)" etag="JLBh_gHvIXTtb1L6kazq" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T12:05:33.417Z" agent="5.0 (X11)" etag="f7mkdMLbtnuyB4T5ehcH" version="14.3.2" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,8 +555,87 @@
         <mxCell id="Nha3_gESL4uwDzSaFb_T-17" value="&lt;div&gt;1) Acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; binds&amp;nbsp; himself&amp;nbsp; to&amp;nbsp; all&amp;nbsp; the&amp;nbsp; subsequent&amp;nbsp; parties&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount of the bill if the drawee does not pay.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) The&amp;nbsp; party&amp;nbsp; for&amp;nbsp; whose&amp;nbsp; honor&amp;nbsp; he&amp;nbsp; accepts&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; and&amp;nbsp; all&amp;nbsp; prior parties&amp;nbsp; are&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; compensate&amp;nbsp; the&amp;nbsp; acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; for&amp;nbsp; all&amp;nbsp; loss&amp;nbsp; or&amp;nbsp; damage&amp;nbsp; sustained&amp;nbsp; by&amp;nbsp; him&amp;nbsp; in&amp;nbsp; consequence&amp;nbsp; of&amp;nbsp; such&amp;nbsp; acceptance.&amp;nbsp; The&amp;nbsp; liability&amp;nbsp; of an acceptor or honor is conditional he is liable only if the drawee fails to pay the bill.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" visible="0" parent="1">
           <mxGeometry x="280" y="740" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is a holder?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;holder anyone than - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) in whos name the NI(negotiable instrument) is entitled&lt;/div&gt;&lt;div&gt;2) who holds the possession of the NI&lt;/div&gt;&lt;div&gt;3) who hold the right/authority to receive and recover the NI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is a holder?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;holder is anyone that - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) in whos name the NI(negotiable instrument) is entitled&lt;/div&gt;&lt;div&gt;2) who holds the possession of the NI&lt;/div&gt;&lt;div&gt;3) who hold the right/authority to receive and recover the NI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-21" value="Examples" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="700" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="700" y="280" width="390" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-22" value="&lt;div&gt;Example&amp;nbsp; 9:&amp;nbsp; A&amp;nbsp; person&amp;nbsp; who&amp;nbsp; finds&amp;nbsp; or&amp;nbsp; steals&amp;nbsp; a&amp;nbsp; bearer&amp;nbsp; instrument&amp;nbsp; or&amp;nbsp; takes&amp;nbsp; an&amp;nbsp; instrument under forged indorsement is not holder. The reason is that holder of a negotiable&amp;nbsp; instrument&amp;nbsp; must&amp;nbsp; have&amp;nbsp; right&amp;nbsp; to&amp;nbsp; receive&amp;nbsp; or&amp;nbsp; recover&amp;nbsp; the&amp;nbsp; money&amp;nbsp; thereon&amp;nbsp; from the parties thereto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example&amp;nbsp; 10: An agent holding an instrument for his principal is not a holder.&amp;nbsp; The reason being that, although agent can receive payment of the instrument, he has no right to sue on the instrument in his own name.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nha3_gESL4uwDzSaFb_T-21">
+          <mxGeometry y="40" width="390" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-25" target="Nha3_gESL4uwDzSaFb_T-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-25" value="&lt;u&gt;&lt;b&gt;Who is the holder in due course?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-30" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-35" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-27" value="Drawer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-39" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-28" target="Nha3_gESL4uwDzSaFb_T-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-40" value="Money" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nha3_gESL4uwDzSaFb_T-39">
+          <mxGeometry x="0.2038" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-28" value="Drawee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-36" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-32" target="Nha3_gESL4uwDzSaFb_T-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-32" target="Nha3_gESL4uwDzSaFb_T-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-32" value="Mr.A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-33" target="Nha3_gESL4uwDzSaFb_T-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-33" value="The final payee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-37" value="Finally Endorses the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-34" target="Nha3_gESL4uwDzSaFb_T-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="640" as="sourcePoint" />
+            <mxPoint x="398" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nha3_gESL4uwDzSaFb_T-34" target="Nha3_gESL4uwDzSaFb_T-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-34" value="Mr.B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-41" value="Holder in Due course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-44" value="Bearer/payee/Endorser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-49" value="Holder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
