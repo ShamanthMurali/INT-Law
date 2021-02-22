@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T21:01:31.586Z" agent="5.0 (X11)" etag="ZujeqoN2YYIbt3aW-jwh" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T21:07:17.888Z" agent="5.0 (X11)" etag="gulkEAT9D4lzWocECO3H" version="14.4.2" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="2724" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2724" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,6 +741,9 @@
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-52" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-39">
           <mxGeometry y="40" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-41" target="5drDq3LZ6sMYXzu9rgkf-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-41" value="&lt;div&gt;Ambiguous&lt;/div&gt;&lt;div&gt; Instrument&lt;/div&gt;" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="90" y="440" width="120" height="40" as="geometry">
             <mxRectangle x="20" y="240" width="200" height="110" as="alternateBounds" />
@@ -748,6 +751,14 @@
         </mxCell>
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-42" value="an instrument which is vague and cannot be clearly identified either as a bill of exchange, or as a promissory note, is an ambiguous instrument." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-41">
           <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-60" value="&lt;div&gt;Amounts&lt;br&gt;&lt;/div&gt;&lt;div&gt;misstatement&lt;/div&gt;" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="90" y="500" width="120" height="40" as="geometry">
+            <mxRectangle x="90" y="500" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-61" value="When amount is stated differently in words and in figures (650,six hundred only) then the amount stated in words shall be undertaken to be paid (in above case that would be 600) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-60">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
