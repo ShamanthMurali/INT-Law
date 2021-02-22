@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T19:47:09.618Z" agent="5.0 (X11)" etag="vo43JGyeA7keXTQKJ6Dc" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T21:01:31.586Z" agent="5.0 (X11)" etag="ZujeqoN2YYIbt3aW-jwh" version="14.4.2" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="1711" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2724" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,6 +16,9 @@
         <mxCell id="lYvsD0EjyvOJams9arkX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-2" target="lYvsD0EjyvOJams9arkX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="lYvsD0EjyvOJams9arkX-2" target="5drDq3LZ6sMYXzu9rgkf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-2" value="Negotiable Instruments is an instrument (the word instrument means a document) which is freely transferable (by customs of trade) from one person to another by mere delivery or by indorsement and delivery." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="440" height="60" as="geometry" />
         </mxCell>
@@ -23,19 +26,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-4" value="Promissory note" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-572.41" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1280" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-5" target="yUnEY0FOHa-hRLPgcxfa-52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-5" value="&lt;div&gt;Cheque&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-252.40999999999997" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-6" target="yUnEY0FOHa-hRLPgcxfa-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-6" value="Bill of exchange" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-412.41999999999996" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1120.01" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-7" target="lYvsD0EjyvOJams9arkX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,21 +46,21 @@
         <mxCell id="lYvsD0EjyvOJams9arkX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-7" target="lYvsD0EjyvOJams9arkX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-352.40999999999997" y="220" />
-              <mxPoint x="-512.41" y="220" />
+              <mxPoint x="-1060" y="220" />
+              <mxPoint x="-1220" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYvsD0EjyvOJams9arkX-7" target="lYvsD0EjyvOJams9arkX-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-352.40999999999997" y="220" />
-              <mxPoint x="-192.40999999999997" y="220" />
+              <mxPoint x="-1060" y="220" />
+              <mxPoint x="-900" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-7" value="Types of negotiable instruments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-412.40999999999997" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYvsD0EjyvOJams9arkX-12" value="Essential Elements" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="680" y="70" width="120" height="40" as="geometry">
@@ -71,13 +74,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://paiementor.com//wp-content/uploads/2018/11/Example-Promissory-note-1024x581.png;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-732.75" y="300" width="440.68" height="250" as="geometry" />
+          <mxGeometry x="-1440.3400000000001" y="300" width="440.68" height="250" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-3" target="yUnEY0FOHa-hRLPgcxfa-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-3" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-820" y="580" width="615.17" height="210" as="geometry">
+          <mxGeometry x="-1527.59" y="580" width="615.17" height="210" as="geometry">
             <mxRectangle x="39.66" y="560" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -124,7 +127,7 @@
           <mxGeometry x="245.17000000000002" y="50" width="119.66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-16" value="Essentials" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="-572.41" y="820" width="120" height="40" as="geometry">
+          <mxGeometry x="-1280" y="820" width="120" height="40" as="geometry">
             <mxRectangle x="199.99999999999997" y="800" width="460" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -135,21 +138,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://accountinguide.com/wp-content/uploads/2020/03/Sample-Bill-of-Exchange.png;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-518.0999999999999" y="300" width="331.37" height="130" as="geometry" />
+          <mxGeometry x="-1225.69" y="300" width="331.37" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-35" target="yUnEY0FOHa-hRLPgcxfa-38" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-542.41" y="510" />
-              <mxPoint x="-542.41" y="510" />
+              <mxPoint x="-1250" y="510" />
+              <mxPoint x="-1250" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-35" target="yUnEY0FOHa-hRLPgcxfa-39" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-162.40999999999997" y="510" />
-              <mxPoint x="-162.40999999999997" y="510" />
+              <mxPoint x="-870" y="510" />
+              <mxPoint x="-870" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -157,34 +160,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://paiementor.com//wp-content/uploads/2018/11/Three-main-parties-involved-in-a-bill-of-exchange-1024x536.png;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-524.47" y="460" width="344.12" height="180" as="geometry" />
+          <mxGeometry x="-1232.06" y="460" width="344.12" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-37" target="yUnEY0FOHa-hRLPgcxfa-49" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-37" value="The person who is directed to recive/be paid" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-412.41999999999996" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1120.01" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-38" target="yUnEY0FOHa-hRLPgcxfa-45" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-38" value="The maker of a bill of exchange." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-662.41" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1370" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-39" target="yUnEY0FOHa-hRLPgcxfa-47" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-39" value="The person directed by the drawer to pay" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-162.40999999999997" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="-870" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-45" value="Draws the bill and sends it to Drawee to get it signed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-652.41" y="550" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="550" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-47" value="He signs the bill and sends it to Drawer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-152.40999999999997" y="550" width="100" height="60" as="geometry" />
+          <mxGeometry x="-860" y="550" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-49" value="Essentials" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="-412.41999999999996" y="750" width="120" height="40" as="geometry">
+          <mxGeometry x="-1120.01" y="750" width="120" height="40" as="geometry">
             <mxRectangle x="359.99" y="730" width="300.01" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -195,7 +198,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1200/0*0X8Z8EXF0mXUSLvB.jpg;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-352.40999999999997" y="300" width="320" height="160" as="geometry" />
+          <mxGeometry x="-1060" y="300" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="yUnEY0FOHa-hRLPgcxfa-79" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -206,13 +209,13 @@
         <mxCell id="bYQYD7u7GiQVqeG4pW50-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-56" target="bYQYD7u7GiQVqeG4pW50-80" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-192.40999999999997" y="830" />
-              <mxPoint x="-212.40999999999997" y="830" />
+              <mxPoint x="-900" y="830" />
+              <mxPoint x="-920" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-56" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-499.98999999999995" y="480" width="615.17" height="260" as="geometry">
+          <mxGeometry x="-1207.58" y="480" width="615.17" height="260" as="geometry">
             <mxRectangle x="39.66" y="560" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -256,19 +259,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-79" value="Essentials" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="-252.40999999999997" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-83" target="yUnEY0FOHa-hRLPgcxfa-85" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-83" value="a.all the essential characteristics of a bill of exchange" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-102.40999999999997" y="760" width="280" height="40" as="geometry" />
+          <mxGeometry x="-810" y="760" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-84" target="yUnEY0FOHa-hRLPgcxfa-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-84" value="c.It must be payable on demand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-102.40999999999997" y="880" width="280" height="40" as="geometry" />
+          <mxGeometry x="-810" y="880" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUnEY0FOHa-hRLPgcxfa-85" target="yUnEY0FOHa-hRLPgcxfa-87" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -277,24 +280,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-85" value="b.Must be drawn on a specified banker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-102.40999999999997" y="820" width="280" height="40" as="geometry" />
+          <mxGeometry x="-810" y="820" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yUnEY0FOHa-hRLPgcxfa-87" value="Note: These two additional features distinguish a cheque from&amp;nbsp; bill. Thus,&amp;nbsp; all&amp;nbsp; cheques are bills while all bills are not cheques." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="217.59000000000003" y="830" width="220" height="80" as="geometry" />
+          <mxGeometry x="-490" y="830" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bYQYD7u7GiQVqeG4pW50-1" target="bYQYD7u7GiQVqeG4pW50-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-192.40999999999997" y="880" />
-              <mxPoint x="-402.40999999999997" y="880" />
+              <mxPoint x="-900" y="880" />
+              <mxPoint x="-1110" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bYQYD7u7GiQVqeG4pW50-1" target="bYQYD7u7GiQVqeG4pW50-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-192.40999999999997" y="880" />
-              <mxPoint x="7.590000000000032" y="880" />
+              <mxPoint x="-900" y="880" />
+              <mxPoint x="-700" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -314,7 +317,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-2" value="Crossed cheque" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-52.40999999999997" y="900" width="120" height="40" as="geometry" />
+          <mxGeometry x="-760" y="900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bYQYD7u7GiQVqeG4pW50-3" target="bYQYD7u7GiQVqeG4pW50-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -323,108 +326,108 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-3" value="Open Cheque" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-462.40999999999997" y="900" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1170" y="900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bYQYD7u7GiQVqeG4pW50-8" target="bYQYD7u7GiQVqeG4pW50-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-8" value="Bearer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-402.40999999999997" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1110" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bYQYD7u7GiQVqeG4pW50-9" target="bYQYD7u7GiQVqeG4pW50-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-9" value="order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-542.41" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1250" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-12" value="only the specified payee can encash it" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-542.41" y="1040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1250" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-14" value="anybody who hold the cheque can encash it" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-402.40999999999997" y="1040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1110" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-16" target="bYQYD7u7GiQVqeG4pW50-59" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-16" value="General Crossing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-242.40999999999997" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-950" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-17" target="bYQYD7u7GiQVqeG4pW50-61" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-17" value="special crossing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-102.40999999999997" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-810" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-18" target="bYQYD7u7GiQVqeG4pW50-63" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-18" value="a/c payee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="37.59000000000003" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-670" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-19" target="bYQYD7u7GiQVqeG4pW50-67" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-19" value="not negotiable " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="177.59000000000003" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-530" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-59" target="bYQYD7u7GiQVqeG4pW50-69" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-59" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees bank account&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-242.40999999999997" y="1040" width="120" height="90" as="geometry" />
+          <mxGeometry x="-950" y="1040" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-61" target="bYQYD7u7GiQVqeG4pW50-71" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-61" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees specifically mentioned bank account&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-102.40999999999997" y="1040" width="120" height="100" as="geometry" />
+          <mxGeometry x="-810" y="1040" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-63" target="bYQYD7u7GiQVqeG4pW50-75" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-63" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to the bank account of the drawee specifically mentioned the cheque&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="37.59000000000003" y="1040" width="120" height="110" as="geometry" />
+          <mxGeometry x="-670" y="1040" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-67" target="bYQYD7u7GiQVqeG4pW50-72" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-67" value="&lt;div&gt;1. cash cannot be taken&lt;/div&gt;&lt;div&gt;2. can only be transferred to drawees bank account&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. the specified drawee gets a superior title than the rest of the endorsee&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="177.59000000000003" y="1040" width="120" height="150" as="geometry" />
+          <mxGeometry x="-530" y="1040" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-69" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-222.40999999999997" y="1150" width="80" height="30" as="geometry" />
+          <mxGeometry x="-930" y="1150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-71" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-82.40999999999997" y="1160" width="80" height="30" as="geometry" />
+          <mxGeometry x="-790" y="1160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-72" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Can be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="197.59000000000003" y="1210" width="80" height="30" as="geometry" />
+          <mxGeometry x="-510" y="1210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-75" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Cannot be endorsed&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="57.59000000000003" y="1170" width="80" height="30" as="geometry" />
+          <mxGeometry x="-650" y="1170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-77" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Can be crossed by:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;1. drawer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;2. drawee&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;3. banker&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="307.59000000000003" y="870" width="80" height="100" as="geometry" />
+          <mxGeometry x="-400" y="870" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-80" target="bYQYD7u7GiQVqeG4pW50-81" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-192.40999999999997" y="880" />
-              <mxPoint x="-192.40999999999997" y="880" />
+              <mxPoint x="-900" y="880" />
+              <mxPoint x="-900" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-80" target="bYQYD7u7GiQVqeG4pW50-88" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-192.40999999999997" y="880" />
-              <mxPoint x="-192.40999999999997" y="880" />
+              <mxPoint x="-900" y="880" />
+              <mxPoint x="-900" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-80">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#0000FF;" parent="1" vertex="1" visible="0">
-            <mxGeometry x="-272.40999999999997" y="820" width="120" height="40" as="geometry" />
+            <mxGeometry x="-980" y="820" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-81" target="bYQYD7u7GiQVqeG4pW50-91" edge="1" visible="0">
@@ -432,12 +435,12 @@
         </mxCell>
         <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the paying bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-81">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" parent="1" vertex="1" collapsed="1" visible="0">
-            <mxGeometry x="-272.40999999999997" y="880" width="160" height="40" as="geometry" />
+            <mxGeometry x="-980" y="880" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Types of cheques&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1" visible="0">
-            <mxGeometry x="-252.39999999999998" y="820" width="120" height="40" as="geometry" />
+            <mxGeometry x="-959.99" y="820" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-88" target="bYQYD7u7GiQVqeG4pW50-108" edge="1" visible="0">
@@ -445,7 +448,7 @@
         </mxCell>
         <UserObject label="Protection of liability&lt;br&gt;&lt;div&gt;for the collecting bank&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bYQYD7u7GiQVqeG4pW50-88">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontColor=#FFFFFF;" parent="1" vertex="1" collapsed="1" visible="0">
-            <mxGeometry x="-272.40999999999997" y="940" width="160" height="40" as="geometry" />
+            <mxGeometry x="-980" y="940" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-91" target="bYQYD7u7GiQVqeG4pW50-92" edge="1" visible="0">
@@ -455,74 +458,74 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-91" value="&lt;div&gt;1. Cheque&amp;nbsp; payable&amp;nbsp; to&amp;nbsp; order:&lt;/div&gt;&lt;div&gt;do not know &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="875" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="875" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-92" target="bYQYD7u7GiQVqeG4pW50-95" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-92" value="&lt;div&gt;2. Cheque&amp;nbsp; payable&amp;nbsp; to&amp;nbsp; bearer:&lt;/div&gt;&lt;div&gt;the bank will pay to whoever is the bearer, true or a stolen. and the bank will not be liable for that.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="940" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="940" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-95" target="bYQYD7u7GiQVqeG4pW50-97" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-95" value="&lt;div&gt;3. Payment&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; cheque&amp;nbsp;&amp;nbsp; crossed&amp;nbsp;&amp;nbsp; generally: &lt;br&gt;&lt;/div&gt;&lt;div&gt;the bank shall only pay to another bank&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="1010" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="1010" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-97" target="bYQYD7u7GiQVqeG4pW50-99" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-97" value="&lt;div&gt;4. Payment of cheque crossed specially:&lt;/div&gt;&lt;div&gt;the bank shall only pay to that special specified bank&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="1080" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="1080" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-99" target="bYQYD7u7GiQVqeG4pW50-100" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-99" value="&lt;div&gt;5. did not understand&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="1150" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="1150" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-100" value="&lt;div&gt;6. did not understand&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="1220" width="280" height="50" as="geometry" />
+          <mxGeometry x="-800" y="1220" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="bYQYD7u7GiQVqeG4pW50-104" target="bYQYD7u7GiQVqeG4pW50-106" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-104" value="Excemption" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="267.59000000000003" y="875" width="120" height="50" as="geometry" />
+          <mxGeometry x="-440" y="875" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-106" value="&lt;div&gt;1. the bank shall not pass and pay a forgery cheque.&lt;/div&gt;&lt;div&gt;2. it is the responsibility of the bank to protect the customer. And check if the signature is correct.&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. in case, if bank passes and pays a forgery cheque, then the &lt;b&gt;bank will be liable for that.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;arcSize=8;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="207.59000000000003" y="950" width="240" height="120" as="geometry" />
+          <mxGeometry x="-500" y="950" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bYQYD7u7GiQVqeG4pW50-108" value="&lt;div&gt;Non&amp;nbsp; liability&amp;nbsp; of&amp;nbsp; banker&amp;nbsp; receiving&amp;nbsp; payment&amp;nbsp; of&amp;nbsp; cheque: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it is the duty of the collecting bank to check the legitimacy of the check before depositing. in case of default, they will be liable for the sum&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;arcSize=6;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-92.40999999999997" y="907.5" width="250" height="105" as="geometry" />
+          <mxGeometry x="-800" y="907.5" width="250" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-1" target="Nha3_gESL4uwDzSaFb_T-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Accepter" treeRoot="1" id="Nha3_gESL4uwDzSaFb_T-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-2" target="Nha3_gESL4uwDzSaFb_T-19" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-2" target="Nha3_gESL4uwDzSaFb_T-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Holder&lt;/div&gt;" treeRoot="1" id="Nha3_gESL4uwDzSaFb_T-2">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-            <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+            <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-3" target="Nha3_gESL4uwDzSaFb_T-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-3" value="&lt;div&gt;(Acceptor is the drawee himself but a different name)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;who is a Accepter?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;drawee becomes an accepter once he - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) signs the bill drawn by the drawer&lt;/div&gt;&lt;div&gt;2) delivers the bill back to drawer or signifies his signing the bill to the drawer or to some person on his behalf.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="180" y="260" width="320" height="100" as="geometry" />
+          <mxGeometry x="300" y="260" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-6" target="Nha3_gESL4uwDzSaFb_T-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is Acceptor for honor?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(he is the nominee for the drawee or the person who agrees to pay the due to the drawer when the drawee fails to pay the sum)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;When&amp;nbsp; a&amp;nbsp; bill&amp;nbsp; of&amp;nbsp; exchange&amp;nbsp; has&amp;nbsp; been&amp;nbsp; dishonoured&amp;nbsp; by&amp;nbsp; non-acceptance&amp;nbsp; and&amp;nbsp; any&amp;nbsp; person&amp;nbsp; accepts&amp;nbsp; it&amp;nbsp; for&amp;nbsp; honour&amp;nbsp; of&amp;nbsp; the&amp;nbsp; drawer or of any indorsers, such person is called &quot;an Acceptor for honour&quot;.&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;The payment which he makes is known as &quot;payment for honour&quot;.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="380" width="440" height="150" as="geometry" />
+          <mxGeometry x="240" y="380" width="440" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-8" target="Nha3_gESL4uwDzSaFb_T-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -531,14 +534,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;how acceptance for honor must be made?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;the person agreeing to pay the dues of the drawee must declare that he accepts the bill.&lt;/div&gt;&lt;div&gt;that may be done by writing &quot;accepted supra protest&quot; or &quot;accepter for ab &amp;lt;drawee name&amp;gt;&quot; on the bill.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="550" width="440" height="90" as="geometry" />
+          <mxGeometry x="240" y="550" width="440" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-10" target="Nha3_gESL4uwDzSaFb_T-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Rights and liabilities of acceptance of honor" treeRoot="1" id="Nha3_gESL4uwDzSaFb_T-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" visible="0" collapsed="1">
-            <mxGeometry x="360" y="680" width="160" height="40" as="geometry" />
+            <mxGeometry x="480" y="680" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-11" target="Nha3_gESL4uwDzSaFb_T-15" edge="1" visible="0">
@@ -546,51 +549,51 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Essentials of &lt;br&gt;&lt;/div&gt;&lt;div&gt;acceptance of honor&lt;/div&gt;" treeRoot="1" id="Nha3_gESL4uwDzSaFb_T-11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" visible="0" collapsed="1">
-            <mxGeometry x="160" y="680" width="160" height="40" as="geometry" />
+            <mxGeometry x="280" y="680" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-15" value="&lt;div&gt;1) The holder&amp;nbsp; must&amp;nbsp; consent&amp;nbsp; to&amp;nbsp; acceptance&amp;nbsp; for&amp;nbsp; honor.&amp;nbsp; The&amp;nbsp; holder&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; compelled to assent to acceptance for honor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) The bill&amp;nbsp; must&amp;nbsp; have&amp;nbsp; been&amp;nbsp; noted&amp;nbsp; or&amp;nbsp; protested&amp;nbsp; for&amp;nbsp; the&amp;nbsp; non-acceptance&amp;nbsp; or&amp;nbsp; for&amp;nbsp; better security.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) Acceptance for honor can be made by a person who is not already liable on the&amp;nbsp; bill.&amp;nbsp; Drawee&amp;nbsp; of&amp;nbsp; the&amp;nbsp; bill&amp;nbsp; when&amp;nbsp; he&amp;nbsp; refuses&amp;nbsp; to&amp;nbsp; accept&amp;nbsp; the&amp;nbsp; bill&amp;nbsp; becomes&amp;nbsp; a&amp;nbsp; stranger. He may therefore accept the bill for honor of any party thereto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4) It must be made by writing on the bill.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5) It must be for the whole amount due on the bill&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6) Acceptance must be for the honor of any party already liable on the bill.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7) Acceptance for honor must be made before to bill is overdue.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8) Stranger&amp;nbsp; paying&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; must,&amp;nbsp; before&amp;nbsp; payment,&amp;nbsp; declare&amp;nbsp; before&amp;nbsp; a&amp;nbsp; Notary&amp;nbsp; Public the party for whose honor he pays and the Notary Public must have recorded such a declaration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
-          <mxGeometry y="740" width="480" height="320" as="geometry" />
+          <mxGeometry x="120" y="740" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-17" value="&lt;div&gt;1) Acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; binds&amp;nbsp; himself&amp;nbsp; to&amp;nbsp; all&amp;nbsp; the&amp;nbsp; subsequent&amp;nbsp; parties&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount of the bill if the drawee does not pay.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) The&amp;nbsp; party&amp;nbsp; for&amp;nbsp; whose&amp;nbsp; honor&amp;nbsp; he&amp;nbsp; accepts&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; and&amp;nbsp; all&amp;nbsp; prior parties&amp;nbsp; are&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; compensate&amp;nbsp; the&amp;nbsp; acceptor&amp;nbsp; for&amp;nbsp; honor&amp;nbsp; for&amp;nbsp; all&amp;nbsp; loss&amp;nbsp; or&amp;nbsp; damage&amp;nbsp; sustained&amp;nbsp; by&amp;nbsp; him&amp;nbsp; in&amp;nbsp; consequence&amp;nbsp; of&amp;nbsp; such&amp;nbsp; acceptance.&amp;nbsp; The&amp;nbsp; liability&amp;nbsp; of an acceptor or honor is conditional he is liable only if the drawee fails to pay the bill.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="280" y="740" width="320" height="160" as="geometry" />
+          <mxGeometry x="400" y="740" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-21" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-25" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-19" target="Nha3_gESL4uwDzSaFb_T-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is a holder?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;holder is anyone that - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) in whos name the NI(negotiable instrument) is entitled&lt;/div&gt;&lt;div&gt;2) who holds the possession of the NI&lt;/div&gt;&lt;div&gt;3) who hold the right/authority to receive and recover the NI&lt;br&gt;&lt;/div&gt;&lt;div&gt;(All the above conditions must satisfy or else he is not a holder)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="360" height="90" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Who is a holder?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;holder is anyone that - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1) in whos name the NI(negotiable instrument) is entitled&lt;/div&gt;&lt;div&gt;2) who holds the possession of the NI&lt;/div&gt;&lt;div&gt;3) who hold the right/authority to receive and recover the NI&lt;br&gt;&lt;/div&gt;&lt;div&gt;(All the above conditions must satisfy or else he is not a holder)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="440" y="260" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-21" value="Examples" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="700" y="285" width="120" height="40" as="geometry">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-21" value="Examples" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="820" y="285" width="120" height="40" as="geometry">
             <mxRectangle x="700" y="280" width="390" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-22" value="&lt;div&gt;Example&amp;nbsp; 9:&amp;nbsp; A&amp;nbsp; person&amp;nbsp; who&amp;nbsp; finds&amp;nbsp; or&amp;nbsp; steals&amp;nbsp; a&amp;nbsp; bearer&amp;nbsp; instrument&amp;nbsp; or&amp;nbsp; takes&amp;nbsp; an&amp;nbsp; instrument under forged indorsement is not holder. The reason is that holder of a negotiable&amp;nbsp; instrument&amp;nbsp; must&amp;nbsp; have&amp;nbsp; right&amp;nbsp; to&amp;nbsp; receive&amp;nbsp; or&amp;nbsp; recover&amp;nbsp; the&amp;nbsp; money&amp;nbsp; thereon&amp;nbsp; from the parties thereto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example&amp;nbsp; 10: An agent holding an instrument for his principal is not a holder.&amp;nbsp; The reason being that, although agent can receive payment of the instrument, he has no right to sue on the instrument in his own name.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nha3_gESL4uwDzSaFb_T-21" vertex="1">
           <mxGeometry y="40" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-25" target="Nha3_gESL4uwDzSaFb_T-27" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-25" target="Nha3_gESL4uwDzSaFb_T-27" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-25" value="&lt;u&gt;&lt;b&gt;Who is the holder in due course?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="370" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-25" value="&lt;u&gt;&lt;b&gt;Who is the holder in due course?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="560" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-30" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-28" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-30" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-28" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-35" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-32" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-35" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-32" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-49" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-27" target="Nha3_gESL4uwDzSaFb_T-49" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-27" value="Drawer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-27" value="Drawer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="460" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-39" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-28" target="Nha3_gESL4uwDzSaFb_T-33" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-39" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-28" target="Nha3_gESL4uwDzSaFb_T-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-40" value="Money" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Nha3_gESL4uwDzSaFb_T-39" vertex="1" connectable="0">
@@ -598,23 +601,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-28" value="Drawee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-28" value="Drawee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="660" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-36" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-32" target="Nha3_gESL4uwDzSaFb_T-34" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-36" value="Endorse the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-32" target="Nha3_gESL4uwDzSaFb_T-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-32" target="Nha3_gESL4uwDzSaFb_T-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-32" value="Mr.A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="530" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-32" value="Mr.A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="460" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-33" target="Nha3_gESL4uwDzSaFb_T-44" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-33" target="Nha3_gESL4uwDzSaFb_T-44" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-33" value="The final payee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="690" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-33" value="The final payee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="460" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nha3_gESL4uwDzSaFb_T-37" value="Finally Endorses the NI to " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nha3_gESL4uwDzSaFb_T-34" target="Nha3_gESL4uwDzSaFb_T-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -622,20 +625,129 @@
             <mxPoint x="398" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-34" target="Nha3_gESL4uwDzSaFb_T-41" edge="1">
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Nha3_gESL4uwDzSaFb_T-34" target="Nha3_gESL4uwDzSaFb_T-41" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-34" value="Mr.B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="610" width="120" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-34" value="Mr.B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="460" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-41" value="Holder in Due course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="570" width="80" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-41" value="Holder in Due course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-44" value="Bearer/payee/Endorser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="690" width="80" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-44" value="Bearer/payee/Endorser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nha3_gESL4uwDzSaFb_T-49" value="Holder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="450" width="80" height="40" as="geometry" />
+        <mxCell id="Nha3_gESL4uwDzSaFb_T-49" value="Holder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-1" target="5drDq3LZ6sMYXzu9rgkf-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Payment in due course" treeRoot="1" id="5drDq3LZ6sMYXzu9rgkf-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-2" value="&lt;div&gt;payment&amp;nbsp; in&amp;nbsp; accordance&amp;nbsp; with&amp;nbsp; the&amp;nbsp; apparent&amp;nbsp; tenor&amp;nbsp; of&amp;nbsp; the&amp;nbsp; instrument in&lt;/div&gt;&lt;div&gt;&amp;gt; good faith&lt;/div&gt;&lt;div&gt;&amp;gt;without negligence&lt;/div&gt;&lt;div&gt;&amp;gt; to any person in possession thereof&lt;/div&gt;&lt;div&gt;&amp;gt; in money only and&lt;/div&gt;&lt;div&gt;under circumstances which&amp;nbsp; do&amp;nbsp; not&amp;nbsp; afford&amp;nbsp; a&amp;nbsp; reasonable&amp;nbsp; ground&amp;nbsp; for&amp;nbsp; believing&amp;nbsp; that&amp;nbsp; he&amp;nbsp; is&amp;nbsp; not&amp;nbsp; entitled&amp;nbsp; to&amp;nbsp; receive payment of the amount therein mentioned. [there should no doubt if the person is lying/playing around.] &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="615" y="320" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-3" target="5drDq3LZ6sMYXzu9rgkf-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-3" value="Defines when the payment for the NI is completed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="705" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-6" value="Classification of NI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-22" target="5drDq3LZ6sMYXzu9rgkf-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-22" value="Foreign instrument" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-190" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-100" y="240" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-23" value="Any such instrument not so drawn, made or made payable in india shall be deemed to be foreign instrument." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-22">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-16" value="Bearer&amp;nbsp; Instrument" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-610" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-280" y="240" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-17" value="&lt;b&gt;[whoever holds it gets paid]&lt;/b&gt;&lt;br&gt;&lt;div&gt;It is an instrument where the name of the payee is blank or where the name of payee is specified with the words “or bearer” or where the last indorsement is blank. Such instrument can be negotiated by mere delivery.&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-16">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-18" value="Order&amp;nbsp; Instrument" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-470" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-280" y="300" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-19" value="&lt;b&gt;[only the mentioned payee will get paid]&lt;/b&gt;&lt;br&gt;&lt;div&gt;It is an instrument which is payable to a person or Payable to a&amp;nbsp; person&amp;nbsp; or&amp;nbsp; his&amp;nbsp; order&amp;nbsp; or&amp;nbsp; Payable&amp;nbsp; to&amp;nbsp; order&amp;nbsp; of&amp;nbsp; a&amp;nbsp; person&amp;nbsp; or&amp;nbsp; where&amp;nbsp; the&amp;nbsp; last&amp;nbsp; indorsement&amp;nbsp; is&amp;nbsp; in&amp;nbsp; full,&amp;nbsp; such&amp;nbsp; instrument&amp;nbsp; can&amp;nbsp; be&amp;nbsp; negotiated&amp;nbsp; by&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; delivery.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-18">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-20" value="Inland instrument" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-330" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-280" y="360" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-21" value="A promissory note, bill of exchange or cheque drawn or made in India and made payable in, or drawn upon any person resident in India shall be deemed to be an inland instrument." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-20">
+          <mxGeometry y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-28" target="Nha3_gESL4uwDzSaFb_T-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-28" target="Nha3_gESL4uwDzSaFb_T-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-28" target="5drDq3LZ6sMYXzu9rgkf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-28" value="Further classifications" style="rounded=1;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-33" value="&lt;div&gt;Liability of &lt;br&gt;&lt;/div&gt;&lt;div&gt;maker/drawer&lt;/div&gt;&lt;div&gt; of a foreign bill &lt;/div&gt;" style="swimlane;startSize=90;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-190" y="500" width="120" height="90" as="geometry">
+            <mxRectangle x="540" y="310" width="470" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-34" value="&lt;div&gt;[if a bill has been drawn out side india and indorsed, irrespective of the place where the bill was made, where the current holder stays that places interest will be charged]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In the absence of a contract to the country, the liability of the maker or drawer of a&amp;nbsp; foreign&amp;nbsp; promissory&amp;nbsp; note&amp;nbsp; or&amp;nbsp; bill&amp;nbsp; of&amp;nbsp; exchange&amp;nbsp; or&amp;nbsp; cheque&amp;nbsp; is&amp;nbsp; regulated&amp;nbsp; in&amp;nbsp; all&amp;nbsp; essential matters by the law of the place where he made the instrument, and the respective&amp;nbsp; liabilities&amp;nbsp; of&amp;nbsp; the&amp;nbsp; acceptor&amp;nbsp; and&amp;nbsp; indorser&amp;nbsp; by&amp;nbsp; the&amp;nbsp; law&amp;nbsp; of&amp;nbsp; the&amp;nbsp; place&amp;nbsp; where&amp;nbsp; the instrument is made payable&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;eg: &lt;br&gt;&lt;/div&gt;&lt;div&gt;A bill of exchange is drawn by A in Berkley where the rate of interest is 15% and accepted by B payable in Washington where the rate of interest is 6%. The&amp;nbsp; bill&amp;nbsp; is&amp;nbsp; indorsed&amp;nbsp; in&amp;nbsp; India&amp;nbsp; and&amp;nbsp; is&amp;nbsp; dishonoured.&amp;nbsp; An&amp;nbsp; action&amp;nbsp; on&amp;nbsp; the&amp;nbsp; bill&amp;nbsp; is&amp;nbsp; brought&amp;nbsp; against&amp;nbsp; B&amp;nbsp; in&amp;nbsp; India.&amp;nbsp; He&amp;nbsp; is&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; interest&amp;nbsp; at&amp;nbsp; the&amp;nbsp; rate&amp;nbsp; of&amp;nbsp; 6%&amp;nbsp; only.&amp;nbsp; But&amp;nbsp; if&amp;nbsp; A&amp;nbsp; is&amp;nbsp; charged as drawer, he is liable to pay interest at 15%.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-33">
+          <mxGeometry y="90" width="470" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-39" value="Inchoate Instrument" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-50" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-50" y="440" width="120" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-52" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-39">
+          <mxGeometry y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-41" value="&lt;div&gt;Ambiguous&lt;/div&gt;&lt;div&gt; Instrument&lt;/div&gt;" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="90" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="20" y="240" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-42" value="an instrument which is vague and cannot be clearly identified either as a bill of exchange, or as a promissory note, is an ambiguous instrument." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-41">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
