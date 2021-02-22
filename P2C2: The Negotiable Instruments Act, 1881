@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T21:07:17.888Z" agent="5.0 (X11)" etag="gulkEAT9D4lzWocECO3H" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T21:18:26.284Z" agent="5.0 (X11)" etag="kP5JIXlFHwosmJVCKgUb" version="14.4.2" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="2724" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2548" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,6 +675,12 @@
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-6" target="5drDq3LZ6sMYXzu9rgkf-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-6" value="Classification of NI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="360" width="120" height="40" as="geometry" />
         </mxCell>
@@ -759,6 +765,33 @@
         </mxCell>
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-61" value="When amount is stated differently in words and in figures (650,six hundred only) then the amount stated in words shall be undertaken to be paid (in above case that would be 600) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-60">
           <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-63" target="5drDq3LZ6sMYXzu9rgkf-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-63" value="&lt;div&gt;Demand&lt;/div&gt;&lt;div&gt; Instruments &lt;/div&gt;" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="230" y="440" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-64" value="A&amp;nbsp; promissory&amp;nbsp; note&amp;nbsp; or&amp;nbsp; bill&amp;nbsp; of&amp;nbsp; exchange&amp;nbsp; in which&amp;nbsp; no&amp;nbsp; time&amp;nbsp; for&amp;nbsp; payment&amp;nbsp; is&amp;nbsp; mentioned&amp;nbsp; is&amp;nbsp; payable&amp;nbsp; on&amp;nbsp; demand. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-63">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-65" value="&lt;div&gt;Time&lt;/div&gt;&lt;div&gt; instrument&lt;/div&gt;" style="swimlane;startSize=40;rounded=1;html=1;arcSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="370" y="440" width="230" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-66" value="&lt;div&gt;A bill or note which is payable:&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;a) After a fixed period or &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) After sight or &lt;br&gt;&lt;/div&gt;&lt;div&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp; On a specified day or &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) On the happening of an event which is certain to happen is known as time instrument.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-65">
+          <mxGeometry y="40" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-69" value="&lt;div&gt;AT SIGHT”&lt;/div&gt;&lt;div&gt; “ON PRESENTMENT”&lt;/div&gt;&lt;div&gt; “AFTER SIGHT”&lt;/div&gt;" style="swimlane;startSize=60;rounded=1;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="200" height="160" as="geometry">
+            <mxRectangle x="230" y="500" width="120" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5drDq3LZ6sMYXzu9rgkf-70" value="&lt;div&gt;at sight, on presentment = on demand&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;after sight = the counting of due date starts from the date the bill is accepted.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5drDq3LZ6sMYXzu9rgkf-69">
+          <mxGeometry y="60" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
