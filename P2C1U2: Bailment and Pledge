@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T16:50:08.972Z" agent="5.0 (X11)" etag="YYaymMZqtoJvt8grzl_C" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T16:58:19.894Z" agent="5.0 (X11)" etag="6LiZ__-mxzcboplNrUO9" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
     <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,6 +97,9 @@
         <mxCell id="r_DX659wxGfCq3anAKQI-9" value="&amp;nbsp;bailment for the benefit of both bailor &amp;amp; bailee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="r_DX659wxGfCq3anAKQI-11" target="r_DX659wxGfCq3anAKQI-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r_DX659wxGfCq3anAKQI-11" value="DUTIES OF &#xa;A BAILOR" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="240" y="640" width="120" height="40" as="geometry">
             <mxRectangle x="240" y="640" width="350" height="840" as="alternateBounds" />
@@ -178,6 +181,9 @@
         </mxCell>
         <mxCell id="r_DX659wxGfCq3anAKQI-37" value="duty of the bailor to receive back the goods when the bailee returns them after the time of bailment has expired or the purpose of bailment has been accomplished. If the bailor refuses to take delivery of&amp;nbsp; goods&amp;nbsp; when&amp;nbsp; it&amp;nbsp; is&amp;nbsp; offered&amp;nbsp; at&amp;nbsp; the&amp;nbsp; proper&amp;nbsp; time&amp;nbsp; the&amp;nbsp; bailee&amp;nbsp; can&amp;nbsp; claim&amp;nbsp; compensation for all necessary expenses incurred for the safe custody." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r_DX659wxGfCq3anAKQI-11">
           <mxGeometry x="10" y="740" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="r_DX659wxGfCq3anAKQI-39" target="r_DX659wxGfCq3anAKQI-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r_DX659wxGfCq3anAKQI-39" value="DUTIES OF &#xa;A BAILEE" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="400" y="640" width="120" height="40" as="geometry">
@@ -270,6 +276,22 @@
         </mxCell>
         <mxCell id="r_DX659wxGfCq3anAKQI-102" value="Bailee must not set up a title adverse to that of the bailor. That is he&amp;nbsp; cannot deny the title of the bailor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r_DX659wxGfCq3anAKQI-39">
           <mxGeometry x="10" y="1080" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-105" value="Rights of&#xa;bailor" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="240" y="720" width="120" height="40" as="geometry">
+            <mxRectangle x="240" y="720" width="260" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-106" value="&lt;div&gt;1. Right&amp;nbsp; to&amp;nbsp; terminate&amp;nbsp; the&amp;nbsp; bailment&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Right to demand back the goods&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Right&amp;nbsp; to&amp;nbsp; file&amp;nbsp; a&amp;nbsp; suit&amp;nbsp; against&amp;nbsp; a&amp;nbsp; wrong&amp;nbsp; doer&lt;/div&gt;&lt;div&gt;4. Right&amp;nbsp; to&amp;nbsp; sue&amp;nbsp; the&amp;nbsp; bailee&lt;/div&gt;&lt;div&gt;5. Right&amp;nbsp; to&amp;nbsp; compensation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r_DX659wxGfCq3anAKQI-105">
+          <mxGeometry y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-107" value="Rights of&#xa;bailee" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="400" y="720" width="120" height="40" as="geometry">
+            <mxRectangle x="400" y="720" width="230" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_DX659wxGfCq3anAKQI-108" value="&lt;div&gt;1. Right to Deliver the Goods to any one of the joint bailors&lt;/div&gt;&lt;div&gt;2. Right&amp;nbsp; to&amp;nbsp; indemnity&lt;/div&gt;&lt;div&gt;3. Right&amp;nbsp; to&amp;nbsp; claim&amp;nbsp; compensation&amp;nbsp; in&amp;nbsp; case&amp;nbsp; of&amp;nbsp; faulty&amp;nbsp; goods&lt;/div&gt;&lt;div&gt;4. Right&amp;nbsp; to&amp;nbsp; claim&amp;nbsp; necessary expenses&lt;/div&gt;&lt;div&gt;5. Right to Apply to Court to Decide the Title to the Goods&lt;/div&gt;&lt;div&gt;6. Right of particular lien for payment of services&lt;/div&gt;&lt;div&gt;7. Right of general lien&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r_DX659wxGfCq3anAKQI-107">
+          <mxGeometry y="40" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
