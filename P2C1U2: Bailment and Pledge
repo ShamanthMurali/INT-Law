@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T19:40:30.526Z" agent="5.0 (X11)" etag="-F_YIcffMGHGHZQeyi_O" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T20:01:10.014Z" agent="5.0 (X11)" etag="SsF7CA2AWLq1ArCVAXLM" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
-    <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,17 +476,28 @@
         <mxCell id="pl0CglM7KhrNNzTsrNHg-59" value="pawnor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;curved=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-60" target="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="220" />
+              <mxPoint x="1400" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-60" value="pawnee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-61" value="Bailor / pledgee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-61" value="Bailor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-62" value="Bailee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-62" value="Bailee / Pledgee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-63" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;u&gt;&lt;b&gt;Parties&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1097.5" y="140" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-66" target="pl0CglM7KhrNNzTsrNHg-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-66" value="In&amp;nbsp; pledge,&amp;nbsp; there&amp;nbsp; is&amp;nbsp; no&amp;nbsp; change&amp;nbsp; in&amp;nbsp; ownership&amp;nbsp; of&amp;nbsp; the&amp;nbsp; property.&amp;nbsp; Under&amp;nbsp; exceptional&amp;nbsp; circumstances,&amp;nbsp; the&amp;nbsp; pledgee&amp;nbsp; has&amp;nbsp; a&amp;nbsp; right to sell the property pledged." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="300" width="440" height="50" as="geometry" />
@@ -500,6 +511,46 @@
               <mxPoint x="1139.76" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-68" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1080" y="370" width="120" height="40" as="geometry">
+            <mxRectangle x="1080" y="370" width="500" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-69" value="&lt;div&gt;1) There shall be a bailment for security against payment or performance of the promise&lt;/div&gt;&lt;div&gt;2) The subject matter of pledge is goods&lt;/div&gt;&lt;div&gt;3) Goods pledged for shall be in existence&lt;/div&gt;&lt;div&gt;4) There shall be the delivery of goods from pledger to pledgee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-68">
+          <mxGeometry y="40" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-71" value="Rights of&#xa;pawnee" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="480" width="410" height="330" as="geometry">
+            <mxRectangle x="1160" y="480" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry y="40" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-81" value="Right to retain the pledged goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry x="10" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-82" value="Right&amp;nbsp; to&amp;nbsp; retention&amp;nbsp; of&amp;nbsp; subsequent&amp;nbsp; debts " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry x="10" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-83" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Pawnee’s right to extraordinary expenses &lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry x="10" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-84" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Pawnee’s&amp;nbsp;&amp;nbsp; right&amp;nbsp;&amp;nbsp; where&amp;nbsp;&amp;nbsp; pawnor&amp;nbsp;&amp;nbsp; makes&amp;nbsp;&amp;nbsp; default &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-71">
+          <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-74" target="pl0CglM7KhrNNzTsrNHg-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-74" value="The person who &lt;u&gt;&lt;b&gt;takes&lt;/b&gt;&lt;/u&gt; the goods as security" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-78" target="pl0CglM7KhrNNzTsrNHg-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-78" value="the person who &lt;u&gt;&lt;b&gt;gives&lt;/b&gt;&lt;/u&gt; the goods as security" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="150" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
