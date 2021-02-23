@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T20:09:34.554Z" agent="5.0 (X11)" etag="QBd_0Hvl9U-oGywcOqfR" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T22:45:53.141Z" agent="5.0 (X11)" etag="XEZ68MLjj3gqQ7dK6HHw" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
-    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,6 +520,9 @@
         <mxCell id="pl0CglM7KhrNNzTsrNHg-69" value="&lt;div&gt;1) There shall be a bailment for security against payment or performance of the promise&lt;/div&gt;&lt;div&gt;2) The subject matter of pledge is goods&lt;/div&gt;&lt;div&gt;3) Goods pledged for shall be in existence&lt;/div&gt;&lt;div&gt;4) There shall be the delivery of goods from pledger to pledgee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-68">
           <mxGeometry y="40" width="500" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-136" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-71" target="pl0CglM7KhrNNzTsrNHg-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-71" value="Rights of&#xa;pawnee" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1160" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="1160" y="480" width="730" height="280" as="alternateBounds" />
@@ -580,53 +583,28 @@
         <mxCell id="pl0CglM7KhrNNzTsrNHg-78" value="the person who &lt;u&gt;&lt;b&gt;gives&lt;/b&gt;&lt;/u&gt; the goods as security" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-94" value="Rights of&#xa;pawnee" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-135" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-94" target="pl0CglM7KhrNNzTsrNHg-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-94" value="Rights of&#xa;pawnor" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1000" y="480" width="120" height="40" as="geometry">
-            <mxRectangle x="1160" y="480" width="730" height="280" as="alternateBounds" />
+            <mxRectangle x="1000" y="480" width="550" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry y="40" width="730" height="240" as="geometry" />
+          <mxGeometry y="40" width="550" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="pl0CglM7KhrNNzTsrNHg-94" source="pl0CglM7KhrNNzTsrNHg-97" target="pl0CglM7KhrNNzTsrNHg-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-97" value="Right to retain the pledged goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="10" y="50" width="120" height="40" as="geometry" />
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-97" value="Right&amp;nbsp; to&amp;nbsp; redeem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
+          <mxGeometry x="10" y="65" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="pl0CglM7KhrNNzTsrNHg-94" source="pl0CglM7KhrNNzTsrNHg-99" target="pl0CglM7KhrNNzTsrNHg-105">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-104" value="if the pawnor makes the payment within reasonable stipulated time, he may redeem the goods." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
+          <mxGeometry x="150" y="65" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-99" value="Right&amp;nbsp; to&amp;nbsp; retention&amp;nbsp; of&amp;nbsp; subsequent&amp;nbsp; debts " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="10" y="100" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="pl0CglM7KhrNNzTsrNHg-94" source="pl0CglM7KhrNNzTsrNHg-101" target="pl0CglM7KhrNNzTsrNHg-106">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-101" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Pawnee’s right to extraordinary expenses &lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="10" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="pl0CglM7KhrNNzTsrNHg-94" source="pl0CglM7KhrNNzTsrNHg-103" target="pl0CglM7KhrNNzTsrNHg-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="218" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-103" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Pawnee’s&amp;nbsp;&amp;nbsp; right&amp;nbsp;&amp;nbsp; where&amp;nbsp;&amp;nbsp; pawnor&amp;nbsp;&amp;nbsp; makes&amp;nbsp;&amp;nbsp; default &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-104" value="The pawnee may retain the goods pledged, not only for payment of the debt or the performance of the&amp;nbsp; promise,&amp;nbsp; but&amp;nbsp; for&amp;nbsp; the&amp;nbsp; interest,&amp;nbsp; of&amp;nbsp; the&amp;nbsp; debt,&amp;nbsp; and&amp;nbsp; all&amp;nbsp; necessary&amp;nbsp; expenses&amp;nbsp; incurred&amp;nbsp; by&amp;nbsp; him&amp;nbsp; in&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; the&amp;nbsp; possession&amp;nbsp; or&amp;nbsp; for&amp;nbsp; the&amp;nbsp; preservation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; goods pledged." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="150" y="50" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-105" value="the pawnee may retain the goods even of other debts with the pawnee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="150" y="100" width="390" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-106" value="pawnee&amp;nbsp; is&amp;nbsp; entitled&amp;nbsp; to&amp;nbsp; receive&amp;nbsp; from&amp;nbsp; the&amp;nbsp; pawnor&amp;nbsp; extraordinary&amp;nbsp; expenses&amp;nbsp; incurred&amp;nbsp; by&amp;nbsp; him&amp;nbsp; for&amp;nbsp; the&amp;nbsp; preservation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; goods&amp;nbsp; pledged." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="150" y="150" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-107" value="&lt;div&gt;pawnor&amp;nbsp; makes&amp;nbsp; default&amp;nbsp; in&amp;nbsp; payment&amp;nbsp; of&amp;nbsp; the&amp;nbsp; debt&lt;/div&gt;&lt;div&gt;&amp;gt; the pawnee may sue the pawnor&lt;/div&gt;&lt;div&gt;&amp;gt; the pawnee may sell the thing pledged on giving the pawnor reasonable notice of the sale. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
-          <mxGeometry x="150" y="200" width="360" height="70" as="geometry" />
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-109" value="&lt;b&gt;[As the bailor of goods pawnor has all the rights of the bailor.]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-94">
+          <mxGeometry x="55" y="40" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.014;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-59" target="pl0CglM7KhrNNzTsrNHg-94">
           <mxGeometry relative="1" as="geometry">
@@ -638,6 +616,25 @@
               <mxPoint x="1002" y="503" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-110" value="DUTIES OF &#xa;A PAWNEE" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1160" y="540" width="120" height="40" as="geometry">
+            <mxRectangle x="1000" y="540" width="340" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-111" value="&lt;div&gt;a. Duty to take reasonable care of the pledged goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Duty not to make unauthorized use of pledged goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Duty to return the goods when the debt has been repaid or the promise has been performed. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Duty not to mix his own goods with goods pledged. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. Duty not to do any act which is inconsistent with the terms of the pledge. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f. Duty to return accretion to the goods, if any.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-110">
+          <mxGeometry y="40" width="340" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-131" value="DUTIES OF &#xa;A PAWNOR" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1000" y="540" width="120" height="40" as="geometry">
+            <mxRectangle x="960" y="610" width="340" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-132" value="&lt;div&gt;a. The&amp;nbsp; pawnor&amp;nbsp; is&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; debt&amp;nbsp; or&amp;nbsp; perform&amp;nbsp; the&amp;nbsp; promise&amp;nbsp; as&amp;nbsp; the&amp;nbsp; case&amp;nbsp; may be.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. It&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; duty&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; pawnor&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; compensate&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; pawnee&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; extraordinary expenses incurred by him for preserving the goods pawned.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. It&amp;nbsp; is&amp;nbsp; the&amp;nbsp; duty&amp;nbsp; of&amp;nbsp; the&amp;nbsp; pawnor&amp;nbsp; to&amp;nbsp; disclose&amp;nbsp; all&amp;nbsp; the&amp;nbsp; faults&amp;nbsp; which&amp;nbsp; may&amp;nbsp; put&amp;nbsp; the&amp;nbsp; pawnee under extraordinary risks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. If loss occurs to the pawnee due to defect in pawnor’s title to the goods, the pawnor must indemnify the pawnee.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. If the pawnee sells the good due to default by the pawnor, the pawnor must pay the deficit. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pl0CglM7KhrNNzTsrNHg-131">
+          <mxGeometry y="40" width="340" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-137" value="&lt;div&gt;Pledge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;non-owners&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
