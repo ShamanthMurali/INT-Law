@@ -1,11 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:33:07.136Z" agent="5.0 (X11)" etag="K-iWQOzjv9xGqztFWzlq" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:41:04.055Z" agent="5.0 (X11)" etag="QnS2rJsZ0f3mtcK1fybl" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1241" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YqH47Fmi43yYoriN10-Q-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-1" target="YqH47Fmi43yYoriN10-Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-1" value="Agency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-2" target="YqH47Fmi43yYoriN10-Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-2" value="A&amp;nbsp; relationship&amp;nbsp; of&amp;nbsp; agency&amp;nbsp; is&amp;nbsp; established&amp;nbsp; when&amp;nbsp; one&amp;nbsp; party&amp;nbsp; (agent)&amp;nbsp; is&amp;nbsp; authorized&amp;nbsp; by&amp;nbsp; another party (principal) to act on his/ her behalf. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Parties&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-7" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-8" target="YqH47Fmi43yYoriN10-Q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-8" value="The&amp;nbsp;&amp;nbsp; principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-11" target="YqH47Fmi43yYoriN10-Q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-11" value="means&amp;nbsp; a&amp;nbsp; person&amp;nbsp; for&amp;nbsp; whom&amp;nbsp; such&amp;nbsp; act&amp;nbsp; is&amp;nbsp; done&amp;nbsp; or&amp;nbsp; who&amp;nbsp; is&amp;nbsp; so&amp;nbsp; represented." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
