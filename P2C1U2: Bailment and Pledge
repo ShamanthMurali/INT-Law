@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:16:43.762Z" agent="5.0 (X11)" etag="FMOtiu4KsTV_iKkcKSFs" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:19:08.413Z" agent="5.0 (X11)" etag="cGDklv-34t-5-gyn-OwJ" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
     <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -636,6 +636,12 @@
         <mxCell id="O_mNItAZVb0GKpLxoFxf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pl0CglM7KhrNNzTsrNHg-137" value="&lt;div&gt;Pledge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;non-owners&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
@@ -651,10 +657,13 @@
         <mxCell id="O_mNItAZVb0GKpLxoFxf-3" value="Pledge by a co-owner in possession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-4" value="Pledge where pawnor has only a limited interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-4" value="&amp;nbsp; Pledge where pawnor has only a limited interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="850" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-5" value="Pledge by person in possession under voidable contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-5" target="O_mNItAZVb0GKpLxoFxf-13" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-5" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Pledge by person in possession under voidable contract" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1080" y="780" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-7" target="O_mNItAZVb0GKpLxoFxf-8" visible="0">
@@ -670,6 +679,15 @@
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-9" value="&lt;div&gt;(i)The person pledging the goods must be a mercantile agent,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)Mercantile&amp;nbsp; agent&amp;nbsp; must&amp;nbsp; be&amp;nbsp; in&amp;nbsp; possession&amp;nbsp; either&amp;nbsp; of&amp;nbsp; the&amp;nbsp; goods&amp;nbsp; or&amp;nbsp; the&amp;nbsp; documents of title to goods, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)Such possession must be with the consent of the owner. If possession has been obtained dishonestly or by a trick, a valid pledge cannot be effected,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)Pledge must have been made by the mercantile agent, when acting in the ordinary course of business of a mercantile agent,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)The pledgee must act in good faith; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)The&amp;nbsp; pledgee&amp;nbsp; should&amp;nbsp; have&amp;nbsp; no&amp;nbsp; notice&amp;nbsp; of&amp;nbsp; the&amp;nbsp; pledger&#39;s&amp;nbsp; defect&amp;nbsp; of&amp;nbsp; title.&amp;nbsp; If&amp;nbsp; the&amp;nbsp; pledgee&amp;nbsp; knows&amp;nbsp; that&amp;nbsp; the&amp;nbsp; pledger&amp;nbsp; has&amp;nbsp; a&amp;nbsp; defective&amp;nbsp; title,&amp;nbsp; the&amp;nbsp; pledge&amp;nbsp; will not be valid.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O_mNItAZVb0GKpLxoFxf-8">
           <mxGeometry y="40" width="370" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-13" target="O_mNItAZVb0GKpLxoFxf-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-13" value="pawnor is not&amp;nbsp; the&amp;nbsp; absolute&amp;nbsp; owner&amp;nbsp; of&amp;nbsp; goods,&amp;nbsp; the&amp;nbsp; pledge&amp;nbsp; is&amp;nbsp; valid&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; that&amp;nbsp; interest." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="785" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-15" value="Example&amp;nbsp; 26:&amp;nbsp; Mr.&amp;nbsp; X&amp;nbsp; finds&amp;nbsp; a&amp;nbsp; defective&amp;nbsp; mobile&amp;nbsp; phone&amp;nbsp; lying&amp;nbsp; on&amp;nbsp; the&amp;nbsp; road.&amp;nbsp; He&amp;nbsp; picks it up, gets it repaired for Rs. 5000. He later pledges the mobile phone for&amp;nbsp; Rs.&amp;nbsp; 2000.&amp;nbsp; The&amp;nbsp; true&amp;nbsp; owner&amp;nbsp; can&amp;nbsp; recover&amp;nbsp; the&amp;nbsp; mobile&amp;nbsp; phone&amp;nbsp; only&amp;nbsp; on&amp;nbsp; paying&amp;nbsp; Rs. 5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="850" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
