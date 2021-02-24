@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T17:18:16.747Z" agent="5.0 (X11)" etag="_hsPZBMS18UQeNpnL5XW" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T18:58:58.909Z" agent="5.0 (X11)" etag="zmugUQFDqjNOc17q4uuP" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
     <mxGraphModel dx="705" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -233,7 +233,10 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-88" value="6. Communication&amp;nbsp; of&amp;nbsp; Ratification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-89" value="7. Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; must&amp;nbsp; be&amp;nbsp; valid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-89" target="YqH47Fmi43yYoriN10-Q-118" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-89" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; 7. Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; must&amp;nbsp; be&amp;nbsp; valid" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="620" y="1620" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-99" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-90" target="YqH47Fmi43yYoriN10-Q-83">
@@ -279,6 +282,9 @@
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-116" value="The&amp;nbsp; principal&amp;nbsp; cannot&amp;nbsp; ratify&amp;nbsp; a&amp;nbsp; part&amp;nbsp; of&amp;nbsp; the&amp;nbsp; transaction&amp;nbsp; which&amp;nbsp; is&amp;nbsp; beneficial to him and reject the rest" style="shape=note;strokeWidth=2;fontSize=14;size=11;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
           <mxGeometry x="845" y="1430" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-118" value="Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; should&amp;nbsp; not&amp;nbsp; be&amp;nbsp; void&amp;nbsp; or&amp;nbsp; illegal,&amp;nbsp; for&amp;nbsp; e.g.&amp;nbsp; payment&amp;nbsp; of&amp;nbsp; dividend&amp;nbsp; out&amp;nbsp; of&amp;nbsp; capital,&amp;nbsp; forgery&amp;nbsp; of&amp;nbsp; signatures,&amp;nbsp; any&amp;nbsp; other&amp;nbsp; criminal&amp;nbsp; offence,&amp;nbsp; or&amp;nbsp; anything&amp;nbsp; which&amp;nbsp; is&amp;nbsp; not&amp;nbsp; permitted under law." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="800" y="1600" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
