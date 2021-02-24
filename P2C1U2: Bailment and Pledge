@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:15:01.415Z" agent="5.0 (X11)" etag="lnULXENSbK8fsYX_cJan" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:16:43.762Z" agent="5.0 (X11)" etag="FMOtiu4KsTV_iKkcKSFs" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
     <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -639,10 +639,10 @@
         <mxCell id="pl0CglM7KhrNNzTsrNHg-137" value="&lt;div&gt;Pledge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;non-owners&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-1" target="O_mNItAZVb0GKpLxoFxf-7">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-1" target="O_mNItAZVb0GKpLxoFxf-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-1" value="Pledge&amp;nbsp; by&amp;nbsp; mercantile&amp;nbsp; agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-1" value="Pledge&amp;nbsp; by&amp;nbsp; mercantile&amp;nbsp; agent" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1080" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-2" value="Pledge by seller or buyer in possession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -657,13 +657,13 @@
         <mxCell id="O_mNItAZVb0GKpLxoFxf-5" value="Pledge by person in possession under voidable contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-7" target="O_mNItAZVb0GKpLxoFxf-8">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-7" target="O_mNItAZVb0GKpLxoFxf-8" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-7" value="pledge by a mercantile agent acting in the ordinary course of&amp;nbsp; business,&amp;nbsp; shall&amp;nbsp; be&amp;nbsp; as&amp;nbsp; valid " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-7" value="pledge by a mercantile agent acting in the ordinary course of&amp;nbsp; business,&amp;nbsp; shall&amp;nbsp; be&amp;nbsp; as&amp;nbsp; valid " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1220" y="720" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-8" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-8" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="1480" y="720" width="120" height="40" as="geometry">
             <mxRectangle x="1480" y="720" width="370" height="290" as="alternateBounds" />
           </mxGeometry>
