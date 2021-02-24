@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:19:08.413Z" agent="5.0 (X11)" etag="cGDklv-34t-5-gyn-OwJ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:23:47.452Z" agent="5.0 (X11)" etag="7PWoc1WeqPNYeV_YyBln" version="14.4.2" type="github">
   <diagram id="mihnjCroBNQZs4C2Csm_" name="Page-1">
-    <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,37 +633,52 @@
         <mxCell id="pl0CglM7KhrNNzTsrNHg-132" value="&lt;div&gt;a. The&amp;nbsp; pawnor&amp;nbsp; is&amp;nbsp; liable&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; the&amp;nbsp; debt&amp;nbsp; or&amp;nbsp; perform&amp;nbsp; the&amp;nbsp; promise&amp;nbsp; as&amp;nbsp; the&amp;nbsp; case&amp;nbsp; may be.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. It&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; duty&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; pawnor&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; compensate&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; pawnee&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; extraordinary expenses incurred by him for preserving the goods pawned.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. It&amp;nbsp; is&amp;nbsp; the&amp;nbsp; duty&amp;nbsp; of&amp;nbsp; the&amp;nbsp; pawnor&amp;nbsp; to&amp;nbsp; disclose&amp;nbsp; all&amp;nbsp; the&amp;nbsp; faults&amp;nbsp; which&amp;nbsp; may&amp;nbsp; put&amp;nbsp; the&amp;nbsp; pawnee under extraordinary risks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. If loss occurs to the pawnee due to defect in pawnor’s title to the goods, the pawnor must indemnify the pawnee.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. If the pawnee sells the good due to default by the pawnor, the pawnor must pay the deficit. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pl0CglM7KhrNNzTsrNHg-131" vertex="1">
           <mxGeometry y="40" width="340" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-5">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-4">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pl0CglM7KhrNNzTsrNHg-137" value="&lt;div&gt;Pledge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;non-owners&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pl0CglM7KhrNNzTsrNHg-137" target="O_mNItAZVb0GKpLxoFxf-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pl0CglM7KhrNNzTsrNHg-137" value="&lt;div&gt;Pledge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;non-owners&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-1" target="O_mNItAZVb0GKpLxoFxf-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-1" value="Pledge&amp;nbsp; by&amp;nbsp; mercantile&amp;nbsp; agent" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-1" value="Pledge&amp;nbsp; by&amp;nbsp; mercantile&amp;nbsp; agent" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1080" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-2" value="Pledge by seller or buyer in possession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-2" target="O_mNItAZVb0GKpLxoFxf-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-2" value="&amp;nbsp;&amp;nbsp; Pledge by seller or buyer in possession" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1080" y="980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-3" value="Pledge by a co-owner in possession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-3" target="O_mNItAZVb0GKpLxoFxf-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-3" value="&amp;nbsp;Pledge by a co-owner in possession" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1080" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-4" value="&amp;nbsp; Pledge where pawnor has only a limited interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-4" target="O_mNItAZVb0GKpLxoFxf-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-4" value="&amp;nbsp; Pledge where pawnor has only a limited interest" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1080" y="850" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-5" target="O_mNItAZVb0GKpLxoFxf-13" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_mNItAZVb0GKpLxoFxf-5" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Pledge by person in possession under voidable contract" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-5" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Pledge by person in possession under voidable contract" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1080" y="780" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-7" target="O_mNItAZVb0GKpLxoFxf-8" visible="0">
@@ -688,6 +703,21 @@
         </mxCell>
         <mxCell id="O_mNItAZVb0GKpLxoFxf-15" value="Example&amp;nbsp; 26:&amp;nbsp; Mr.&amp;nbsp; X&amp;nbsp; finds&amp;nbsp; a&amp;nbsp; defective&amp;nbsp; mobile&amp;nbsp; phone&amp;nbsp; lying&amp;nbsp; on&amp;nbsp; the&amp;nbsp; road.&amp;nbsp; He&amp;nbsp; picks it up, gets it repaired for Rs. 5000. He later pledges the mobile phone for&amp;nbsp; Rs.&amp;nbsp; 2000.&amp;nbsp; The&amp;nbsp; true&amp;nbsp; owner&amp;nbsp; can&amp;nbsp; recover&amp;nbsp; the&amp;nbsp; mobile&amp;nbsp; phone&amp;nbsp; only&amp;nbsp; on&amp;nbsp; paying&amp;nbsp; Rs. 5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1220" y="850" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-18" value="Where the goods are owned by many person&amp;nbsp; and&amp;nbsp; with&amp;nbsp; the&amp;nbsp; consent&amp;nbsp; of&amp;nbsp; other&amp;nbsp; owners,&amp;nbsp; the&amp;nbsp; goods&amp;nbsp; are&amp;nbsp; left&amp;nbsp; in&amp;nbsp; the&amp;nbsp; possession&amp;nbsp; of&amp;nbsp; one&amp;nbsp; of&amp;nbsp; the&amp;nbsp; co-owners.&amp;nbsp; Such&amp;nbsp; a&amp;nbsp; co-owner&amp;nbsp; may&amp;nbsp; make&amp;nbsp; a&amp;nbsp; valid&amp;nbsp; pledge of the goods in his possession." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="835" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_mNItAZVb0GKpLxoFxf-21" target="O_mNItAZVb0GKpLxoFxf-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-21" value="when seller has sold the goods but is still in possession of them and them pledges them. but the pledgee is not aware of such defect in title then the pledge is vaild" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="970" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-23" value="Example&amp;nbsp; 27: A&amp;nbsp; buys&amp;nbsp; a&amp;nbsp; cycle&amp;nbsp; from&amp;nbsp; B.&amp;nbsp; But&amp;nbsp; leaves&amp;nbsp; the&amp;nbsp; cycle&amp;nbsp; with&amp;nbsp; the&amp;nbsp; seller.&amp;nbsp; B&amp;nbsp; then pledges the cycle with C, who does not know of sale to A, and acted in good faith. This is valid pledge." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="1050" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O_mNItAZVb0GKpLxoFxf-26" value="Where the goods are owned by many person&amp;nbsp; and&amp;nbsp; with&amp;nbsp; the&amp;nbsp; consent&amp;nbsp; of&amp;nbsp; other&amp;nbsp; owners,&amp;nbsp; the&amp;nbsp; goods&amp;nbsp; are&amp;nbsp; left&amp;nbsp; in&amp;nbsp; the&amp;nbsp; possession&amp;nbsp; of&amp;nbsp; one&amp;nbsp; of&amp;nbsp; the&amp;nbsp; co-owners.&amp;nbsp; Such&amp;nbsp; a&amp;nbsp; co-owner&amp;nbsp; may&amp;nbsp; make&amp;nbsp; a&amp;nbsp; valid&amp;nbsp; pledge of the goods in his possession. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1220" y="910" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
