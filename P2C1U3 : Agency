@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T19:12:09.240Z" agent="5.0 (X11)" etag="6xIca0jvat1l1Hptf3kg" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T19:12:13.493Z" agent="5.0 (X11)" etag="hBuHXhXPYnG1md9ERVew" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
     <mxGraphModel dx="1249" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -304,13 +304,13 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-88" value="6. Communication&amp;nbsp; of&amp;nbsp; Ratification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="620" y="1560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-128" target="YqH47Fmi43yYoriN10-Q-130">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-128" target="YqH47Fmi43yYoriN10-Q-130" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-128" target="YqH47Fmi43yYoriN10-Q-131">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-128" target="YqH47Fmi43yYoriN10-Q-131" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-128" value="Agent’s authority" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-128" value="Agent’s authority" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-64" value="someone giving the impression to a layperson that they are an agent of another individual or company. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
@@ -322,13 +322,13 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-130" target="YqH47Fmi43yYoriN10-Q-134" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-130" value="&amp;nbsp;in normal&amp;nbsp; circumstances" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-130" value="&amp;nbsp;in normal&amp;nbsp; circumstances" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="520" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-131" target="YqH47Fmi43yYoriN10-Q-136" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-131" value="in emergency" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-131" value="in emergency" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="520" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-134" value="An&amp;nbsp; agent&amp;nbsp; having&amp;nbsp; an&amp;nbsp; authority&amp;nbsp; to&amp;nbsp; do&amp;nbsp; an&amp;nbsp; act&amp;nbsp; has&amp;nbsp; authority&amp;nbsp; to&amp;nbsp; do&amp;nbsp; every&amp;nbsp; lawful&amp;nbsp; thing&amp;nbsp; which is necessary in order to do such act. An&amp;nbsp; agent&amp;nbsp; having&amp;nbsp; an&amp;nbsp; authority&amp;nbsp; to&amp;nbsp; carry&amp;nbsp; on&amp;nbsp; a&amp;nbsp; business&amp;nbsp; has&amp;nbsp; authority&amp;nbsp; to&amp;nbsp; do&amp;nbsp; every lawful thing necessary for the purpose, or usually done in the course, of conducting such business." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
