@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T19:12:13.493Z" agent="5.0 (X11)" etag="hBuHXhXPYnG1md9ERVew" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T19:14:42.225Z" agent="5.0 (X11)" etag="KqYpuL373a1JQ4vh0nk1" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1249" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-1" target="YqH47Fmi43yYoriN10-Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-1" value="Agency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-1" value="Agency" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-2" target="YqH47Fmi43yYoriN10-Q-4">
@@ -347,6 +347,9 @@
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-138" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp; Agent&amp;nbsp; should&amp;nbsp; not&amp;nbsp; be&amp;nbsp; a&amp;nbsp; in&amp;nbsp; a&amp;nbsp; position&amp;nbsp; or&amp;nbsp; have&amp;nbsp; any&amp;nbsp; opportunity&amp;nbsp; to&amp;nbsp; communicate with his principal within the time available.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) There&amp;nbsp; should&amp;nbsp; have&amp;nbsp; been&amp;nbsp; actual&amp;nbsp; and&amp;nbsp; definite&amp;nbsp; commercial&amp;nbsp; necessity&amp;nbsp; for&amp;nbsp; the agent to act promptly.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) the&amp;nbsp; agent&amp;nbsp; should&amp;nbsp; have&amp;nbsp; acted&amp;nbsp; bonafide&amp;nbsp; and&amp;nbsp; for&amp;nbsp; the&amp;nbsp; benefit&amp;nbsp; of&amp;nbsp; the&amp;nbsp; principal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)the&amp;nbsp; agent&amp;nbsp; should&amp;nbsp; have&amp;nbsp; adopted&amp;nbsp; the&amp;nbsp; most&amp;nbsp; reasonable&amp;nbsp; and&amp;nbsp; practicable&amp;nbsp; course under the circumstances, and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)the agent must have been in possession of the goods belonging to his principal and which are the subject of contract. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-137">
           <mxGeometry y="40" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-141" value="Sub-agent" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
