@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T20:57:38.126Z" agent="5.0 (X11)" etag="uPueAoGXe94DALf39pMe" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T21:07:28.139Z" agent="5.0 (X11)" etag="x7O3PlWczkdLuxI9tVhn" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
     <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -431,8 +431,32 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-168" value="Substituted Agent is a person appointed by the agent to act for the&amp;nbsp; principal,&amp;nbsp; in&amp;nbsp; the&amp;nbsp; business&amp;nbsp; of&amp;nbsp; agency,&amp;nbsp; with&amp;nbsp; the&amp;nbsp; knowledge&amp;nbsp; and&amp;nbsp; consent&amp;nbsp; of&amp;nbsp; the&amp;nbsp; principal.Substituted agents are not sub agents.&amp;nbsp; They are agents of the principal. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="1020" width="440" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-170" target="YqH47Fmi43yYoriN10-Q-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-170" target="YqH47Fmi43yYoriN10-Q-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-170" value="Agent’s duty in naming such person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-174" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-172" target="YqH47Fmi43yYoriN10-Q-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-172" value="&lt;div&gt;When agent selects the substitute&lt;/div&gt;&lt;div&gt;&amp;gt; with out negligence&lt;/div&gt;&lt;div&gt;&amp;gt; same&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; discretion&amp;nbsp; as&amp;nbsp; a&amp;nbsp; man of ordinary prudence would exercise in his own case&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1175" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-173" value="He is not responsible for the acts of the substitute agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1285" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-177" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YqH47Fmi43yYoriN10-Q-178" target="YqH47Fmi43yYoriN10-Q-179" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-178" value="&lt;div&gt;When agent selects the substitute&lt;/div&gt;&lt;div&gt;&amp;gt; with out negligence&lt;/div&gt;&lt;div&gt;&amp;gt; same&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; discretion&amp;nbsp; as&amp;nbsp; a&amp;nbsp; man of ordinary prudence would exercise in his own case&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1175" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-179" value="He is not responsible for the acts of the substitute agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1285" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
