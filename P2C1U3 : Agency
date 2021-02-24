@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T20:47:01.610Z" agent="5.0 (X11)" etag="wYoSHsZP7DqrZ3eL71oA" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T20:57:38.126Z" agent="5.0 (X11)" etag="uPueAoGXe94DALf39pMe" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1445" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,8 +425,14 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-167" value="&amp;nbsp;SUBSTITUTED AGENT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-171" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-168" target="YqH47Fmi43yYoriN10-Q-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-168" value="Substituted Agent is a person appointed by the agent to act for the&amp;nbsp; principal,&amp;nbsp; in&amp;nbsp; the&amp;nbsp; business&amp;nbsp; of&amp;nbsp; agency,&amp;nbsp; with&amp;nbsp; the&amp;nbsp; knowledge&amp;nbsp; and&amp;nbsp; consent&amp;nbsp; of&amp;nbsp; the&amp;nbsp; principal.Substituted agents are not sub agents.&amp;nbsp; They are agents of the principal. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1020" width="440" height="60" as="geometry" />
+          <mxGeometry x="500" y="1020" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-170" value="Agent’s duty in naming such person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
