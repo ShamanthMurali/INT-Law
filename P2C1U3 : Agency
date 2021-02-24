@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T20:12:46.755Z" agent="5.0 (X11)" etag="JL238qiDRmQmOx2QJstM" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T20:45:31.961Z" agent="5.0 (X11)" etag="ETE-7DmrGJCfj_h7HMCo" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="500" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2498" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,6 +389,9 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-155" value="Sub-Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-165" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-159" target="YqH47Fmi43yYoriN10-Q-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-159" value="Exception where an &#xa;agent can appoint Sub-agent" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="320" y="1400" width="200" height="40" as="geometry">
             <mxRectangle x="320" y="1400" width="340" height="200" as="alternateBounds" />
@@ -396,6 +399,34 @@
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-160" value="&lt;div&gt;(1)The appointment of a sub agent would be valid if the terms of appointment originally contemplated it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)Sometimes customs&amp;nbsp; of&amp;nbsp; the&amp;nbsp; trade&amp;nbsp; may&amp;nbsp; provide&amp;nbsp; for&amp;nbsp; appointment&amp;nbsp; of&amp;nbsp; sub&amp;nbsp; agents. In&amp;nbsp; both&amp;nbsp; these&amp;nbsp; cases&amp;nbsp; the&amp;nbsp; sub&amp;nbsp; agent&amp;nbsp; would&amp;nbsp; be&amp;nbsp; treated&amp;nbsp; as&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; of&amp;nbsp; the&amp;nbsp; principal. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)Where&amp;nbsp; in&amp;nbsp; the&amp;nbsp; course&amp;nbsp; of&amp;nbsp; the&amp;nbsp; agent’s&amp;nbsp; employment,&amp;nbsp; unforeseen&amp;nbsp; emergencyarise making it necessary for him to delegate the authority that was given to him by the principal. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-159">
           <mxGeometry y="40" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-166" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-161" target="YqH47Fmi43yYoriN10-Q-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-161" value="Representation  of  principal  &#xa;by  sub-agent  properly  appointed " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="320" y="1460" width="200" height="40" as="geometry">
+            <mxRectangle x="320" y="1480" width="460" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-162" value="&lt;div&gt;1) [the principal is liable to the third parties]&lt;/div&gt;&lt;div&gt;2) [the agent is liable to the principal for the wrong doings of the sub-agent]&lt;br&gt;3) [the sub-agent is responsible to the agent not to the principal. but in case of fruad the sub-agent is responsible to the principal]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1)the principal is, so far as regards third persons,&amp;nbsp; is bound and responsible for the&amp;nbsp; acts&amp;nbsp; of&amp;nbsp; sub-agent&amp;nbsp; as&amp;nbsp; if&amp;nbsp; he&amp;nbsp; were&amp;nbsp; an&amp;nbsp; agent&amp;nbsp; originally&amp;nbsp; appointed&amp;nbsp; by&amp;nbsp; the&amp;nbsp; principal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)Agents&amp;nbsp; responsibility&amp;nbsp; for&amp;nbsp; sub&amp;nbsp; agents:&amp;nbsp; The&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; responsible&amp;nbsp; to&amp;nbsp; the&amp;nbsp; principal for the acts of the sub-agent.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)Sub-agents liability&amp;nbsp; to&amp;nbsp; principal: The sub-agent is responsible for his acts to the agent, but not to the principal, except in case of fraud or willful wrong.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-161">
+          <mxGeometry y="40" width="460" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-163" value="Agent’s  responsibility  for  &#xa;sub-agent  appointed  without  authority" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="300" y="1520" width="240" height="40" as="geometry">
+            <mxRectangle x="320" y="1560" width="460" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-164" value="&lt;div&gt;1) [the principal is not liable for third parties and the agent is liable for third parties and also the principal]&lt;/div&gt;&lt;div&gt;2) [the principal is not responsible for the sub-agent, and he is answerable to the agent only]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) the agent stands towards such person in the relation of a principal to an agent, and is responsible for his acts both to the principal and to third persons; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; (2)the&amp;nbsp; principal&amp;nbsp; is&amp;nbsp; not&amp;nbsp; represented&amp;nbsp; by&amp;nbsp; or&amp;nbsp; responsible&amp;nbsp; for&amp;nbsp; the&amp;nbsp; acts&amp;nbsp; of&amp;nbsp; the&amp;nbsp; sub&amp;nbsp; agent, the&amp;nbsp; sub&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; not&amp;nbsp; responsible&amp;nbsp; to&amp;nbsp; the&amp;nbsp; principal&amp;nbsp; at&amp;nbsp; all.&amp;nbsp; He&amp;nbsp; is&amp;nbsp; answerable only to the agent.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-163">
+          <mxGeometry y="40" width="460" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-169" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-167" target="YqH47Fmi43yYoriN10-Q-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-167" value="&amp;nbsp;SUBSTITUTED AGENT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-168" value="Substituted Agent is a person appointed by the agent to act for the&amp;nbsp; principal,&amp;nbsp; in&amp;nbsp; the&amp;nbsp; business&amp;nbsp; of&amp;nbsp; agency,&amp;nbsp; with&amp;nbsp; the&amp;nbsp; knowledge&amp;nbsp; and&amp;nbsp; consent&amp;nbsp; of&amp;nbsp; the&amp;nbsp; principal.Substituted agents are not sub agents.&amp;nbsp; They are agents of the principal. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1660" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
