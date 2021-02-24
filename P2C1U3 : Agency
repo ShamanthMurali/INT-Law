@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T16:20:39.619Z" agent="5.0 (X11)" etag="ubru3AA5CQ-MSQe_8rfG" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:18:16.747Z" agent="5.0 (X11)" etag="_hsPZBMS18UQeNpnL5XW" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1034" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="705" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,25 +195,90 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-72" target="YqH47Fmi43yYoriN10-Q-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-72" target="YqH47Fmi43yYoriN10-Q-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-72" value="[An agent does something which is beyond his authority, but afterwards the principal approve(after the agent has acted beyond his authority) then the act of the agent is ratified.]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-74" value="Ratification - the action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="825" width="320" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-77" target="YqH47Fmi43yYoriN10-Q-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825.0000000000002" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-77" value="&lt;div&gt;&lt;u&gt;textbook definition.&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Where&amp;nbsp; acts&amp;nbsp; are&amp;nbsp; done&amp;nbsp; by&amp;nbsp; one person on behalf of another, but without his knowledge or authority, he may&amp;nbsp; elect&amp;nbsp; to&amp;nbsp; ratify&amp;nbsp; or&amp;nbsp; to&amp;nbsp; disown&amp;nbsp; such&amp;nbsp; acts.&amp;nbsp; If&amp;nbsp; he&amp;nbsp; ratifies&amp;nbsp; them,&amp;nbsp; the&amp;nbsp; same&amp;nbsp; effects will follow as if they had been performed by his authority. In simple words,&amp;nbsp;&amp;nbsp; “Ratification”&amp;nbsp;&amp;nbsp; means&amp;nbsp;&amp;nbsp; approving&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; previous&amp;nbsp;&amp;nbsp; act&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; transaction.&amp;nbsp;&amp;nbsp; Ratification&amp;nbsp; may&amp;nbsp; be&amp;nbsp; express&amp;nbsp; or&amp;nbsp; implied&amp;nbsp; by&amp;nbsp; the&amp;nbsp; conduct&amp;nbsp; of&amp;nbsp; the&amp;nbsp; person&amp;nbsp; on&amp;nbsp; whose behalf the act was done.&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-79" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="825" width="120" height="40" as="geometry">
-            <mxRectangle x="360" y="825" width="370" height="190" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-83" value="1. Ratification&amp;nbsp;&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; expressed&amp;nbsp;&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; Implied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-80" value="&lt;div&gt;1. Ratification&amp;nbsp;&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; expressed&amp;nbsp;&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; Implied&lt;/div&gt;&lt;div&gt;2. Knowledge&amp;nbsp; requisite&amp;nbsp; for&amp;nbsp; valid&amp;nbsp; ratification &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Effect&amp;nbsp; of&amp;nbsp; ratifying&amp;nbsp; unauthorized&amp;nbsp; act&amp;nbsp; forming&amp;nbsp; part&amp;nbsp; of&amp;nbsp; a&amp;nbsp; transaction &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Ratification&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; unauthorized&amp;nbsp;&amp;nbsp; act&amp;nbsp;&amp;nbsp; cannot&amp;nbsp;&amp;nbsp; injure&amp;nbsp;&amp;nbsp; third&amp;nbsp;&amp;nbsp; person&lt;/div&gt;&lt;div&gt;5. Ratification&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; time&lt;/div&gt;&lt;div&gt;6. Communication&amp;nbsp; of&amp;nbsp; Ratification&lt;/div&gt;&lt;div&gt;7. Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; must&amp;nbsp; be&amp;nbsp; valid&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-79">
-          <mxGeometry y="40" width="370" height="150" as="geometry" />
+        <mxCell id="YqH47Fmi43yYoriN10-Q-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-84" target="YqH47Fmi43yYoriN10-Q-100" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-84" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Knowledge&amp;nbsp; requisite&amp;nbsp; for&amp;nbsp; valid&amp;nbsp; ratification " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="620" y="1300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-85" target="YqH47Fmi43yYoriN10-Q-112" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-85" value="3. Effect&amp;nbsp; of&amp;nbsp; ratifying&amp;nbsp; unauthorized&amp;nbsp; act&amp;nbsp; forming&amp;nbsp; part&amp;nbsp; of&amp;nbsp; a&amp;nbsp; transaction " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="620" y="1360" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-86" value="4. Ratification&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; unauthorized&amp;nbsp;&amp;nbsp; act&amp;nbsp;&amp;nbsp; cannot&amp;nbsp;&amp;nbsp; injure&amp;nbsp;&amp;nbsp; third&amp;nbsp;&amp;nbsp; person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-87" value="5. Ratification&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-88" value="6. Communication&amp;nbsp; of&amp;nbsp; Ratification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-89" value="7. Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; must&amp;nbsp; be&amp;nbsp; valid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-99" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-90" target="YqH47Fmi43yYoriN10-Q-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Essentials" treeRoot="1" id="YqH47Fmi43yYoriN10-Q-90">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="640" y="1180" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-100" target="YqH47Fmi43yYoriN10-Q-102" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-100" target="YqH47Fmi43yYoriN10-Q-104" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-100" value="&lt;div&gt;&amp;gt;The agent does an act beyond the authority&lt;/div&gt;&lt;div&gt;&amp;gt; the principal accepts it, but is not aware of the fact that it was done beyond agents authority&lt;/div&gt;&lt;div&gt;&amp;gt; the principle comes to know of such act on a later date, then...&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="830" y="1300" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-102" target="YqH47Fmi43yYoriN10-Q-108" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-102" value="Accept and ratify it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="840" y="1410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-104" target="YqH47Fmi43yYoriN10-Q-110" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-104" value="Accept and ratify it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1060" y="1410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-108" value="Ratification is valid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="840" y="1470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-110" value="&amp;nbsp;ratification is not binding on the agent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1060" y="1470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-112" target="YqH47Fmi43yYoriN10-Q-116" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-112" value="If the principal ratifies a part of the unauthorized act then the whole of such act gets ratified." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="800" y="1365" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-116" value="The&amp;nbsp; principal&amp;nbsp; cannot&amp;nbsp; ratify&amp;nbsp; a&amp;nbsp; part&amp;nbsp; of&amp;nbsp; the&amp;nbsp; transaction&amp;nbsp; which&amp;nbsp; is&amp;nbsp; beneficial to him and reject the rest" style="shape=note;strokeWidth=2;fontSize=14;size=11;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="845" y="1430" width="230" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
