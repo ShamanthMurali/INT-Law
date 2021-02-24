@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T15:41:21.354Z" agent="5.0 (X11)" etag="xzUtDZ0cyNi3knqWaVIq" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T16:20:39.619Z" agent="5.0 (X11)" etag="ubru3AA5CQ-MSQe_8rfG" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="591" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,10 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-35" value="Express appointment" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="80" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-36" value="Agency by ratification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-36" target="YqH47Fmi43yYoriN10-Q-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-36" value="Agency by ratification" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-37" value="Implied appointment" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
@@ -134,7 +137,10 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-38" value="Estoppel/ holding out" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="500" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-39" value="Necessity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-39" target="YqH47Fmi43yYoriN10-Q-66" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-39" value="Necessity" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-37" target="YqH47Fmi43yYoriN10-Q-59" visible="0">
@@ -173,6 +179,41 @@
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-64" value="someone giving the impression to a layperson that they are an agent of another individual or company. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="440" y="820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-66" value="An&amp;nbsp;&amp;nbsp; agency&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; necessity&amp;nbsp;&amp;nbsp; arises&amp;nbsp;&amp;nbsp; due&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; some&amp;nbsp;&amp;nbsp; emergent&amp;nbsp;&amp;nbsp; circumstances.&amp;nbsp; In&amp;nbsp; emergency&amp;nbsp; a&amp;nbsp; person&amp;nbsp; is&amp;nbsp; authorised&amp;nbsp; to&amp;nbsp; do&amp;nbsp; what&amp;nbsp; he&amp;nbsp; cannot&amp;nbsp; do&amp;nbsp; in&amp;nbsp; ordinary&amp;nbsp; circumstances.&amp;nbsp; Thus,&amp;nbsp; where&amp;nbsp; an&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; authorised&amp;nbsp; to&amp;nbsp; do&amp;nbsp; certain&amp;nbsp; act,&amp;nbsp; and&amp;nbsp; while&amp;nbsp; doing&amp;nbsp; such&amp;nbsp; an&amp;nbsp; act,&amp;nbsp; an&amp;nbsp; emergency&amp;nbsp; arises,&amp;nbsp; he&amp;nbsp; acquires&amp;nbsp; an extra-ordinary or special authority to prevent his principal from loss. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="280" y="820" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-68" target="YqH47Fmi43yYoriN10-Q-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-68" value="Example&amp;nbsp; 9:&amp;nbsp; X&amp;nbsp; who&amp;nbsp; is&amp;nbsp; Y’s&amp;nbsp; agent&amp;nbsp; has&amp;nbsp; on&amp;nbsp; 10th&amp;nbsp; January&amp;nbsp; 2020&amp;nbsp; purchases&amp;nbsp; goods&amp;nbsp; from Z on credit without Y’s permission. After the purchase, on 20th January 2020,&amp;nbsp; Y&amp;nbsp; tells&amp;nbsp; X&amp;nbsp; that&amp;nbsp; he&amp;nbsp; will&amp;nbsp; accept&amp;nbsp; responsibility&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purchases&amp;nbsp; although&amp;nbsp; at&amp;nbsp; the&amp;nbsp; time&amp;nbsp; of&amp;nbsp; purchase&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; had&amp;nbsp; no&amp;nbsp; authority&amp;nbsp; to&amp;nbsp; buy&amp;nbsp; on&amp;nbsp; credit.&amp;nbsp; Y’s&amp;nbsp; subsequent&amp;nbsp; statement&amp;nbsp; on&amp;nbsp; 20th&amp;nbsp;&amp;nbsp; January&amp;nbsp; 2020&amp;nbsp;&amp;nbsp; amounts&amp;nbsp; to&amp;nbsp; a&amp;nbsp; ratification of the agent’s (X’s) purchase of goods on 10th January 2020." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="890" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-72" target="YqH47Fmi43yYoriN10-Q-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-72" target="YqH47Fmi43yYoriN10-Q-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-72" target="YqH47Fmi43yYoriN10-Q-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-72" value="[An agent does something which is beyond his authority, but afterwards the principal approve(after the agent has acted beyond his authority) then the act of the agent is ratified.]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-74" value="Ratification - the action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="825" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-77" value="&lt;div&gt;&lt;u&gt;textbook definition.&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Where&amp;nbsp; acts&amp;nbsp; are&amp;nbsp; done&amp;nbsp; by&amp;nbsp; one person on behalf of another, but without his knowledge or authority, he may&amp;nbsp; elect&amp;nbsp; to&amp;nbsp; ratify&amp;nbsp; or&amp;nbsp; to&amp;nbsp; disown&amp;nbsp; such&amp;nbsp; acts.&amp;nbsp; If&amp;nbsp; he&amp;nbsp; ratifies&amp;nbsp; them,&amp;nbsp; the&amp;nbsp; same&amp;nbsp; effects will follow as if they had been performed by his authority. In simple words,&amp;nbsp;&amp;nbsp; “Ratification”&amp;nbsp;&amp;nbsp; means&amp;nbsp;&amp;nbsp; approving&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; previous&amp;nbsp;&amp;nbsp; act&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; transaction.&amp;nbsp;&amp;nbsp; Ratification&amp;nbsp; may&amp;nbsp; be&amp;nbsp; express&amp;nbsp; or&amp;nbsp; implied&amp;nbsp; by&amp;nbsp; the&amp;nbsp; conduct&amp;nbsp; of&amp;nbsp; the&amp;nbsp; person&amp;nbsp; on&amp;nbsp; whose behalf the act was done.&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1020" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-79" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="825" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="825" width="370" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-80" value="&lt;div&gt;1. Ratification&amp;nbsp;&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; expressed&amp;nbsp;&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; Implied&lt;/div&gt;&lt;div&gt;2. Knowledge&amp;nbsp; requisite&amp;nbsp; for&amp;nbsp; valid&amp;nbsp; ratification &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Effect&amp;nbsp; of&amp;nbsp; ratifying&amp;nbsp; unauthorized&amp;nbsp; act&amp;nbsp; forming&amp;nbsp; part&amp;nbsp; of&amp;nbsp; a&amp;nbsp; transaction &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Ratification&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; unauthorized&amp;nbsp;&amp;nbsp; act&amp;nbsp;&amp;nbsp; cannot&amp;nbsp;&amp;nbsp; injure&amp;nbsp;&amp;nbsp; third&amp;nbsp;&amp;nbsp; person&lt;/div&gt;&lt;div&gt;5. Ratification&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; time&lt;/div&gt;&lt;div&gt;6. Communication&amp;nbsp; of&amp;nbsp; Ratification&lt;/div&gt;&lt;div&gt;7. Act&amp;nbsp; to&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; must&amp;nbsp; be&amp;nbsp; valid&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YqH47Fmi43yYoriN10-Q-79">
+          <mxGeometry y="40" width="370" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
