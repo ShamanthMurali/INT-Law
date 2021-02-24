@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T15:06:56.610Z" agent="5.0 (X11)" etag="NbWPTRO1YVSPWW9z7oAb" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T15:10:57.814Z" agent="5.0 (X11)" etag="vAXRK5_bcNhdEz5Iur1f" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="414" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,13 +119,13 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-34" value="Modes of Creation of Agency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="700" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-35" target="YqH47Fmi43yYoriN10-Q-49">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-35" target="YqH47Fmi43yYoriN10-Q-49" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-35" target="YqH47Fmi43yYoriN10-Q-48">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-35" target="YqH47Fmi43yYoriN10-Q-48" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-35" value="Express appointment" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-35" value="Express appointment" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="80" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-36" value="Agency by ratification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -140,29 +140,41 @@
         <mxCell id="YqH47Fmi43yYoriN10-Q-39" value="Necessity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-48" value="implied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-48" target="YqH47Fmi43yYoriN10-Q-59" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-48" value="implied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="160" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-49" target="YqH47Fmi43yYoriN10-Q-53">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-49" target="YqH47Fmi43yYoriN10-Q-53" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-49" value="express" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-49" value="express" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-53" target="YqH47Fmi43yYoriN10-Q-54">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-53" target="YqH47Fmi43yYoriN10-Q-54" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-53" value="Spoken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-53" value="Spoken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry y="900" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-54" target="YqH47Fmi43yYoriN10-Q-55">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-54" target="YqH47Fmi43yYoriN10-Q-55" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-54" value="words" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-54" value="words" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry y="940" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YqH47Fmi43yYoriN10-Q-55" value="written" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YqH47Fmi43yYoriN10-Q-55" value="written" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry y="980" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqH47Fmi43yYoriN10-Q-59" target="YqH47Fmi43yYoriN10-Q-61" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-59" value="An authority&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; implied&amp;nbsp; when&amp;nbsp; it&amp;nbsp; is&amp;nbsp; to&amp;nbsp; be&amp;nbsp; inferred&amp;nbsp; from&amp;nbsp; the&amp;nbsp; circumstances&amp;nbsp; of&amp;nbsp; the&amp;nbsp; case,&amp;nbsp; conduct&amp;nbsp; of&amp;nbsp; the&amp;nbsp; parties&amp;nbsp; and things&amp;nbsp; spoken&amp;nbsp; or&amp;nbsp; written,&amp;nbsp; or&amp;nbsp; in&amp;nbsp; the&amp;nbsp; ordinary&amp;nbsp; course&amp;nbsp; of&amp;nbsp; dealing,&amp;nbsp; may&amp;nbsp; be&amp;nbsp; accounted from the circumstances of the case." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="145" y="920" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YqH47Fmi43yYoriN10-Q-61" value="&lt;div&gt;Ex: A owns a shop. the shop is managed by B. B orders goods from C in the name of A and pays with A&#39;s money with A&#39;s knowledge.&lt;/div&gt;&lt;div&gt;in this case B has a implied authority to buy goods in the name of A.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="145" y="1020" width="310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
