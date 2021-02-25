@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T17:05:15.141Z" agent="5.0 (X11)" etag="bQiPFe-aRrhYrRRa-siA" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T17:25:13.629Z" agent="5.0 (X11)" etag="MTWorJWumjJegdntr4P3" version="14.4.2" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1717" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -705,7 +705,7 @@
         <mxCell id="dAD9f_kBMj79IQ19F_ti-22" value="the principal must compensate his agent in respect of injury caused to such agent due to principal’s neglect or want of skill.&amp;nbsp; Thus,&amp;nbsp; every&amp;nbsp; principal&amp;nbsp; owes&amp;nbsp; to&amp;nbsp; his&amp;nbsp; agent&amp;nbsp; the&amp;nbsp; duty&amp;nbsp; of&amp;nbsp; care,&amp;nbsp; and&amp;nbsp; not&amp;nbsp; to&amp;nbsp; expose him to unreasonable risks." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="580" y="1935" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dAD9f_kBMj79IQ19F_ti-29" value="&lt;div&gt;PRINCIPAL’S LIABILITY &lt;br&gt;&lt;/div&gt;&lt;div&gt;TO THIRD PARTIES&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="dAD9f_kBMj79IQ19F_ti-29" value="&lt;div&gt;PRINCIPAL’S LIABILITY &lt;br&gt;&lt;/div&gt;&lt;div&gt;TO THIRD PARTIES&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="560" y="1640" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
