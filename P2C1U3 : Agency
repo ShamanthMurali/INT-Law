@@ -1,14 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:46:54.789Z" agent="5.0 (X11)" etag="xT7BrzaPak_HcOBHWsFL" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:55:31.434Z" agent="5.0 (X11)" etag="4-eAnfs7BJY0T6VPZSru" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
     <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-26">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-26" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="1700" />
+              <mxPoint x="750" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-58" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-25" value="Termination of agency" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1720" width="160" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-61" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="1700" />
+              <mxPoint x="1490" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-62" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="1700" />
+              <mxPoint x="1650" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-66" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="1700" />
+              <mxPoint x="1810" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-25" target="-uZpLVm6lAkeOQQ3oZgv-51" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-25" value="Termination of agency" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1140" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="740" y="1640" width="160" height="40" as="geometry" />
@@ -779,47 +814,47 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-22" value="when agent enter into a contract as the principal when he is supposed to be an agent." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="880" y="1800" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-26" target="-uZpLVm6lAkeOQQ3oZgv-48">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-26" target="-uZpLVm6lAkeOQQ3oZgv-48" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-26" value="Revocation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1800" width="120" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-26" value="Revocation by principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="690" y="1720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-27" target="-uZpLVm6lAkeOQQ3oZgv-30">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-27" target="-uZpLVm6lAkeOQQ3oZgv-30" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-27" target="-uZpLVm6lAkeOQQ3oZgv-32">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-27" target="-uZpLVm6lAkeOQQ3oZgv-32" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-27" value="notice must be give in reasonable time, or else the principal will be liable for damages caused by that." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1920" width="320" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-27" value="notice must be give in reasonable time, or else the principal will be liable for damages caused by that." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="590" y="1840" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-30" target="-uZpLVm6lAkeOQQ3oZgv-34">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-30" target="-uZpLVm6lAkeOQQ3oZgv-34" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-30" value="agent has not yet exercised the authority (he has not yet started the job)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2000" width="160" height="60" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-30" value="agent has not yet exercised the authority (he has not yet started the job)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="570" y="1920" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-32" target="-uZpLVm6lAkeOQQ3oZgv-36">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-32" target="-uZpLVm6lAkeOQQ3oZgv-36" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-32" value="agent has partially exercised the authority(half of the work has been done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2000" width="160" height="60" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-32" value="agent has partially exercised the authority(half of the work has been done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="770" y="1920" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-34" target="-uZpLVm6lAkeOQQ3oZgv-38">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-34" target="-uZpLVm6lAkeOQQ3oZgv-38" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-34" value="Can be revoked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2080" width="120" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-34" value="Can be revoked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="590" y="2000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-36" target="-uZpLVm6lAkeOQQ3oZgv-40">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-36" target="-uZpLVm6lAkeOQQ3oZgv-40" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-36" value="&lt;u&gt;&lt;b&gt;Cannot&lt;/b&gt;&lt;/u&gt; be revoked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2080" width="120" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-36" value="&lt;u&gt;&lt;b&gt;Cannot&lt;/b&gt;&lt;/u&gt; be revoked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="790" y="2000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-38" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="300" y="2140" width="120" height="40" as="geometry">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-38" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="590" y="2060" width="120" height="40" as="geometry">
             <mxRectangle x="300" y="2080" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -829,8 +864,8 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-40" target="-uZpLVm6lAkeOQQ3oZgv-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-40" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="500" y="2140" width="120" height="40" as="geometry">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-40" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="790" y="2060" width="120" height="40" as="geometry">
             <mxRectangle x="500" y="2080" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -838,13 +873,58 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-46" value="&lt;b&gt;Compensation&amp;nbsp; for&amp;nbsp; revocation&amp;nbsp; by&amp;nbsp; principal&lt;/b&gt;:&amp;nbsp; If&amp;nbsp; there&amp;nbsp; is&amp;nbsp; premature revocation of agency without sufficient cause, the principal must compensate the agent, for such revocation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2200" width="240" height="80" as="geometry" />
+          <mxGeometry x="730" y="2120" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-48" target="-uZpLVm6lAkeOQQ3oZgv-27">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-48" target="-uZpLVm6lAkeOQQ3oZgv-27" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-48" value="&amp;nbsp;An&amp;nbsp; agency&amp;nbsp; may&amp;nbsp; be&amp;nbsp; terminated&amp;nbsp; by&amp;nbsp; the&amp;nbsp; principal&amp;nbsp; revoking&amp;nbsp; the&amp;nbsp; authority of the agent. however..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1860" width="320" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-48" value="&amp;nbsp;An&amp;nbsp; agency&amp;nbsp; may&amp;nbsp; be&amp;nbsp; terminated&amp;nbsp; by&amp;nbsp; the&amp;nbsp; principal&amp;nbsp; revoking&amp;nbsp; the&amp;nbsp; authority of the agent. however..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="590" y="1780" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-51" target="-uZpLVm6lAkeOQQ3oZgv-53" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-51" value="&lt;div&gt;Revocation by&lt;/div&gt;&lt;div&gt; agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1030" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-53" target="-uZpLVm6lAkeOQQ3oZgv-56" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-53" value="notice must be give in reasonable time, or else the agent will be liable for damages caused by that." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="930" y="1780" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-56" value="in case of premature revocation the agent will compensate the principal for the loss/damage caused by that." style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="970" y="1840" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-58" target="-uZpLVm6lAkeOQQ3oZgv-59" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-58" value="Completion&amp;nbsp; of&amp;nbsp; business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1270" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-59" value="once the purpose of the agency is full filled it automatically come to an end." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1270" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-61" value="&lt;div&gt;Death&amp;nbsp; or&amp;nbsp; insanity&lt;/div&gt;&lt;div&gt;of either agent or pricipal&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1430" y="1720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-62" target="-uZpLVm6lAkeOQQ3oZgv-64" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-62" value="Principal’s&amp;nbsp; insolvency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-64" value="if the principal becomes insolvent the agency ends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-66" target="-uZpLVm6lAkeOQQ3oZgv-67" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-66" value="On&amp;nbsp; expiry&amp;nbsp; of&amp;nbsp; time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1750" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-67" value="Where&amp;nbsp; an&amp;nbsp; agent&amp;nbsp; has&amp;nbsp; been&amp;nbsp; appointed&amp;nbsp; for&amp;nbsp; a&amp;nbsp; fixed&amp;nbsp; term,&amp;nbsp; the expiration of the term puts an end to the agency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1750" y="1780" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
