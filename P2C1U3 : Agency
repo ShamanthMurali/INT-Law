@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:55:31.434Z" agent="5.0 (X11)" etag="4-eAnfs7BJY0T6VPZSru" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:55:59.333Z" agent="5.0 (X11)" etag="fhkakLagJzLZm3TzEXud" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2937" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -850,6 +850,9 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-36" target="-uZpLVm6lAkeOQQ3oZgv-40" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-36" target="-uZpLVm6lAkeOQQ3oZgv-46" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-36" value="&lt;u&gt;&lt;b&gt;Cannot&lt;/b&gt;&lt;/u&gt; be revoked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="790" y="2000" width="120" height="40" as="geometry" />
         </mxCell>
@@ -861,9 +864,6 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-39" value="Example 55:&amp;nbsp; A&amp;nbsp; authorizes&amp;nbsp; B&amp;nbsp; to&amp;nbsp; buy&amp;nbsp; 1,000&amp;nbsp; bales&amp;nbsp; of&amp;nbsp; cotton&amp;nbsp; on&amp;nbsp; account&amp;nbsp; of&amp;nbsp; A,&amp;nbsp; and&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; for&amp;nbsp; it&amp;nbsp; out&amp;nbsp; of&amp;nbsp; A’s&amp;nbsp; money&amp;nbsp; remaining&amp;nbsp; in&amp;nbsp; B’s&amp;nbsp; hands.&amp;nbsp; B&amp;nbsp; buys&amp;nbsp; 1,000&amp;nbsp; bales&amp;nbsp; of&amp;nbsp; cotton&amp;nbsp; in&amp;nbsp; A’s&amp;nbsp; name,&amp;nbsp; and&amp;nbsp; so&amp;nbsp; as&amp;nbsp; not&amp;nbsp; to&amp;nbsp; render&amp;nbsp; himself&amp;nbsp; personally&amp;nbsp; liable for the price. A can revoke B’s authority to pay for the cotton." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-uZpLVm6lAkeOQQ3oZgv-38">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-40" target="-uZpLVm6lAkeOQQ3oZgv-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-40" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="790" y="2060" width="120" height="40" as="geometry">
             <mxRectangle x="500" y="2080" width="200" height="200" as="alternateBounds" />
@@ -872,7 +872,7 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-41" value="Example&amp;nbsp; 54: A&amp;nbsp; authorizes&amp;nbsp; B&amp;nbsp; to&amp;nbsp; buy&amp;nbsp; 1,000&amp;nbsp; bales&amp;nbsp; of&amp;nbsp; cotton&amp;nbsp; on&amp;nbsp; account&amp;nbsp; of&amp;nbsp; A,&amp;nbsp; and to pay for it out of A’s money remaining in B’s hands. B buys 1,000 bales of&amp;nbsp; cotton&amp;nbsp; in&amp;nbsp; his&amp;nbsp; own&amp;nbsp; name,&amp;nbsp; so&amp;nbsp; as&amp;nbsp; to&amp;nbsp; make&amp;nbsp; himself&amp;nbsp; personally&amp;nbsp; liable&amp;nbsp; for&amp;nbsp; the&amp;nbsp; price. A cannot revoke B’s authority so far as regards payment for the cotton. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-uZpLVm6lAkeOQQ3oZgv-40">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-46" value="&lt;b&gt;Compensation&amp;nbsp; for&amp;nbsp; revocation&amp;nbsp; by&amp;nbsp; principal&lt;/b&gt;:&amp;nbsp; If&amp;nbsp; there&amp;nbsp; is&amp;nbsp; premature revocation of agency without sufficient cause, the principal must compensate the agent, for such revocation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-46" value="&lt;b&gt;Compensation&amp;nbsp; for&amp;nbsp; revocation&amp;nbsp; by&amp;nbsp; principal&lt;/b&gt;:&amp;nbsp; If&amp;nbsp; there&amp;nbsp; is&amp;nbsp; premature revocation of agency without sufficient cause, the principal must compensate the agent, for such revocation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" visible="0" parent="1">
           <mxGeometry x="730" y="2120" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-48" target="-uZpLVm6lAkeOQQ3oZgv-27" visible="0">
