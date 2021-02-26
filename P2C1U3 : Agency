@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:24:08.308Z" agent="5.0 (X11)" etag="O8UNnGO8W9C1HuJARNbP" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:32:56.839Z" agent="5.0 (X11)" etag="MYRcCyxwtMJdZzHNCLdH" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,12 +571,6 @@
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-8" value="It is the duty of&amp;nbsp; an&amp;nbsp; agent,&amp;nbsp; in&amp;nbsp; cases&amp;nbsp; of&amp;nbsp; difficulty,&amp;nbsp; to&amp;nbsp; use&amp;nbsp; all&amp;nbsp; reasonable&amp;nbsp; diligence&amp;nbsp; in&amp;nbsp; communicating with his principal, and in seeking to obtain his instructions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-240" y="1920" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="660" as="sourcePoint" />
-            <mxPoint x="540" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-13" value="&amp;nbsp;It is the duty of an agent not to make any secret profit in the business of agency." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-240" y="2040" width="360" height="40" as="geometry" />
         </mxCell>
@@ -753,22 +747,31 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;[the agent is personally liable for these]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. when the agent has entered into a contract with a principal who is residing abroad(outside India)[before entering into the contract only he should think about this risk]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. when the agent does not disclose the name of the principal when dealing with 3rd parties (when he deals as if he is the owner). then he will be liable those.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. when an agent contracts with an incompetent principal(minor or unsound person).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Pretended&amp;nbsp; agent&amp;nbsp; –&amp;nbsp;&amp;nbsp; if&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; pretends&amp;nbsp; but&amp;nbsp; is&amp;nbsp; not&amp;nbsp; an&amp;nbsp; actual&amp;nbsp; agent,and the principal does not rectify the act but disowns it, the pretended agent will be himself liable &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. when agent exceeds authority, for the acts exceeding authority hes personally liable.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
           <mxGeometry x="640" y="1760" width="360" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-16" target="-uZpLVm6lAkeOQQ3oZgv-17">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-16" target="-uZpLVm6lAkeOQQ3oZgv-17" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-16" value="Rights of Third party" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="940" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-17" value="&lt;div&gt;When agent acts as the principal and enter into contract with 3rd party.&lt;/div&gt;&lt;div&gt;&amp;gt; the 3rd party can repudiate the contract&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-17" target="-uZpLVm6lAkeOQQ3oZgv-22" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-17" value="&lt;div&gt;When agent acts as the principal and enter into contract with 3rd party.&lt;/div&gt;&lt;div&gt;&amp;gt; the 3rd party can repudiate the contract&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="880" y="1720" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-19" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="960" y="1880" width="120" height="40" as="geometry">
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-19" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="1180" y="1810" width="120" height="40" as="geometry">
             <mxRectangle x="960" y="1880" width="230" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-20" value="&lt;div&gt;&amp;gt;a is the agent of c. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;a personally owes rs.50k to b.&lt;/div&gt;&lt;div&gt;&amp;gt;c tells a to buy rs.100k worth of rice.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;a enters into contract with b for rs.100k without telling b that he was doing it for his agent &#39;c&#39;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;now there can be a setoff claim between a and b.&lt;/div&gt;&lt;div&gt;and &#39;c&#39; cannot stop it.(later a should make good to c)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-uZpLVm6lAkeOQQ3oZgv-19">
           <mxGeometry y="40" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-22" target="-uZpLVm6lAkeOQQ3oZgv-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-22" value="when agent enter into a contract as the principal when he is supposed to be an agent." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="880" y="1800" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
