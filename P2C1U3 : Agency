@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:59:23.258Z" agent="5.0 (X11)" etag="6KJ5JVwn9mr9e0y1ZKBj" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T21:04:45.641Z" agent="5.0 (X11)" etag="R-jsp79QuAvUFbt1TejX" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -934,8 +934,26 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-78" value="When&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; personally&amp;nbsp; interested&amp;nbsp; in&amp;nbsp; the&amp;nbsp; subject&amp;nbsp; matter&amp;nbsp; of&amp;nbsp; agency&amp;nbsp; the&amp;nbsp; agency&amp;nbsp; becomes&amp;nbsp; irrevocable." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-uZpLVm6lAkeOQQ3oZgv-77">
           <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-81" target="-uZpLVm6lAkeOQQ3oZgv-82" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-81" value="Effects of Termination " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1540" y="1640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-82" target="-uZpLVm6lAkeOQQ3oZgv-84" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-82" value="1. termination will only happen once the termination notice comes to the knowledge of the agent." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1480" y="1700" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-84" target="-uZpLVm6lAkeOQQ3oZgv-86" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-84" value="2.&amp;nbsp; when the principal is dying or becoming unsound mind,&amp;nbsp; the agent is bound to take, on behalf of the representatives of his late&amp;nbsp; principal,&amp;nbsp; all&amp;nbsp; reasonable&amp;nbsp; steps&amp;nbsp; for&amp;nbsp; the&amp;nbsp; protection&amp;nbsp; and&amp;nbsp; preservation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; interests entrusted to him." style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1480" y="1760" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-86" value="&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Termination of sub-agent’s authority:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;The&amp;nbsp; termination&amp;nbsp; of&amp;nbsp; the&amp;nbsp; authority&amp;nbsp; of&amp;nbsp; an&amp;nbsp; agent&amp;nbsp; causes&amp;nbsp; the&amp;nbsp; termination of&amp;nbsp; the authority of all sub-agents appointed by him. &lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1480" y="1870" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
