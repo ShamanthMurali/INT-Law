@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:32:56.839Z" agent="5.0 (X11)" etag="MYRcCyxwtMJdZzHNCLdH" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:39:16.068Z" agent="5.0 (X11)" etag="Zf6Be8_hdRhJlyWYZbPI" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-25" value="Termination of agency" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="740" y="1640" width="160" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-27" target="YqH47Fmi43yYoriN10-Q-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -735,9 +741,6 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-11" target="-uZpLVm6lAkeOQQ3oZgv-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="740" y="1640" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-12" target="-uZpLVm6lAkeOQQ3oZgv-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -772,6 +775,9 @@
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-22" value="when agent enter into a contract as the principal when he is supposed to be an agent." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="880" y="1800" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-26" value="Revocation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
