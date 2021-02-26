@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T20:09:34.534Z" agent="5.0 (X11)" etag="JpK_oGqaoQT9ILpP3n_b" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:11:24.035Z" agent="5.0 (X11)" etag="6JlBvj852GBAAP4S8JSl" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
-    <mxGraphModel dx="2323" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,7 +473,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-185" value="&lt;div&gt;DUTIES AND OBLIGATIONS&lt;/div&gt;&lt;div&gt; OF AN AGENT&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="80" y="1640" width="200" height="40" as="geometry" />
+          <mxGeometry x="100" y="1640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-186" target="ZMSDrdv-lY2Vh4FXMy0Z-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -482,7 +482,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-186" value="Duty to execute Mandate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="1720" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="1720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-187" target="ZMSDrdv-lY2Vh4FXMy0Z-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -491,7 +491,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-187" value="Conduct business in accordance with the directions given by the principal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-188" target="ZMSDrdv-lY2Vh4FXMy0Z-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -500,7 +500,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-188" value="Duty of resonable care and skill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="1860" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="1860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-189" target="ZMSDrdv-lY2Vh4FXMy0Z-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -509,7 +509,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-189" value="Duty to communicate with the principal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="1920" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-190" target="ZMSDrdv-lY2Vh4FXMy0Z-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -518,7 +518,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-190" value="Duty not to make secret profit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-191" target="YqH47Fmi43yYoriN10-Q-190" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -530,7 +530,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-191" value="Duty to avoid conflict of interest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="1980" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-192" target="ZMSDrdv-lY2Vh4FXMy0Z-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -539,7 +539,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-192" value="Duty&amp;nbsp; to&amp;nbsp; render&amp;nbsp; proper&amp;nbsp; accounts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="2100" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="2100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-193" target="ZMSDrdv-lY2Vh4FXMy0Z-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -548,7 +548,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-193" value="Duty to maintain acounts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="2160" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="2160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YqH47Fmi43yYoriN10-Q-194" target="ZMSDrdv-lY2Vh4FXMy0Z-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -557,19 +557,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqH47Fmi43yYoriN10-Q-194" value="Duty not to delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="2220" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="2220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-1" value="He&amp;nbsp; should&amp;nbsp; perform&amp;nbsp; the&amp;nbsp; work&amp;nbsp; for which&amp;nbsp; he&amp;nbsp; has&amp;nbsp; been&amp;nbsp; appointed.&amp;nbsp; Any&amp;nbsp; failure&amp;nbsp; in&amp;nbsp; this&amp;nbsp; respect&amp;nbsp; would&amp;nbsp; make&amp;nbsp; the&amp;nbsp; agent absolutely responsible for the principal’s loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="260" y="1720" width="360" height="40" as="geometry" />
+          <mxGeometry x="280" y="1720" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-2" value="agent is bound to conduct the business of his principal according to the direction given&amp;nbsp; by&amp;nbsp; the&amp;nbsp; principal,&amp;nbsp;When&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; acts&amp;nbsp; otherwise and any loss is sustained by the Principal, he must indemnify him, and, if any profit accrues, he must account for it. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-270" y="1777.5" width="360" height="65" as="geometry" />
+          <mxGeometry x="-250" y="1777.5" width="360" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-6" value="The agent is always bound to act with reasonable diligence, and to use such skill as he possesse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="260" y="1860" width="360" height="40" as="geometry" />
+          <mxGeometry x="280" y="1860" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-8" value="It is the duty of&amp;nbsp; an&amp;nbsp; agent,&amp;nbsp; in&amp;nbsp; cases&amp;nbsp; of&amp;nbsp; difficulty,&amp;nbsp; to&amp;nbsp; use&amp;nbsp; all&amp;nbsp; reasonable&amp;nbsp; diligence&amp;nbsp; in&amp;nbsp; communicating with his principal, and in seeking to obtain his instructions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-260" y="1920" width="360" height="40" as="geometry" />
+          <mxGeometry x="-240" y="1920" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -578,40 +578,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-13" value="&amp;nbsp;It is the duty of an agent not to make any secret profit in the business of agency." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-260" y="2040" width="360" height="40" as="geometry" />
+          <mxGeometry x="-240" y="2040" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-16" value="An&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; bound&amp;nbsp; to&amp;nbsp; render&amp;nbsp; proper&amp;nbsp; accounts&amp;nbsp; to&amp;nbsp; his&amp;nbsp; principal&amp;nbsp; on&amp;nbsp; demand.&amp;nbsp; Rendering&amp;nbsp; accounts&amp;nbsp; does&amp;nbsp; not&amp;nbsp; mean&amp;nbsp; showing&amp;nbsp; the&amp;nbsp; accounts&amp;nbsp; but&amp;nbsp; the&amp;nbsp; accounts&amp;nbsp; supported&amp;nbsp; by vouchers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="260" y="2100" width="360" height="40" as="geometry" />
+          <mxGeometry x="280" y="2100" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-18" value="Duty&amp;nbsp; not&amp;nbsp; to&amp;nbsp; use&amp;nbsp; any&amp;nbsp; confidential&amp;nbsp; information&amp;nbsp; received&amp;nbsp; in&amp;nbsp; the&amp;nbsp; course&amp;nbsp; of&amp;nbsp; agency against the principal." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="120" y="2280" width="120" height="100" as="geometry" />
+          <mxGeometry x="140" y="2280" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-19" value="an&amp;nbsp; agent&amp;nbsp; cannot&amp;nbsp; lawfully&amp;nbsp; employ&amp;nbsp; to&amp;nbsp; perform&amp;nbsp; acts&amp;nbsp; which&amp;nbsp; he&amp;nbsp; has&amp;nbsp; expressly&amp;nbsp; or&amp;nbsp; impliedly&amp;nbsp; undertaken&amp;nbsp; to&amp;nbsp; perform&amp;nbsp; personally,&amp;nbsp; unless&amp;nbsp; by&amp;nbsp; the&amp;nbsp; ordinary&amp;nbsp; custom&amp;nbsp; of&amp;nbsp; trade&amp;nbsp; a&amp;nbsp; sub-agent may, or, from the nature of agency, a sub- agent, must be employed." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="260" y="2220" width="520" height="40" as="geometry" />
+          <mxGeometry x="280" y="2220" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-22" value="Subject to&amp;nbsp; such&amp;nbsp; deductions,&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; is&amp;nbsp; bound&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; to&amp;nbsp; his&amp;nbsp; principal&amp;nbsp; all&amp;nbsp; sums&amp;nbsp; received on his account." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-270" y="2160" width="360" height="40" as="geometry" />
+          <mxGeometry x="-250" y="2160" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZMSDrdv-lY2Vh4FXMy0Z-35" target="ZMSDrdv-lY2Vh4FXMy0Z-39" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-35" value="i) if the agent conceals any fact from the principal or it has been disadvantageous for the principal." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="280" y="1950" width="360" height="40" as="geometry" />
+          <mxGeometry x="300" y="1950" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZMSDrdv-lY2Vh4FXMy0Z-36" target="ZMSDrdv-lY2Vh4FXMy0Z-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-36" value="ii)&amp;nbsp; if&amp;nbsp; an&amp;nbsp; agent,&amp;nbsp; without&amp;nbsp; the knowledge&amp;nbsp; of&amp;nbsp; his&amp;nbsp; principal&amp;nbsp; deals&amp;nbsp; in&amp;nbsp; the&amp;nbsp; business&amp;nbsp; of&amp;nbsp; the&amp;nbsp; agency&amp;nbsp; on&amp;nbsp; his&amp;nbsp; own&amp;nbsp; account&amp;nbsp; instead&amp;nbsp; of&amp;nbsp; on&amp;nbsp; account&amp;nbsp; of&amp;nbsp; his&amp;nbsp; principal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="280" y="2010" width="360" height="40" as="geometry" />
+          <mxGeometry x="300" y="2010" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZMSDrdv-lY2Vh4FXMy0Z-39" target="ZMSDrdv-lY2Vh4FXMy0Z-42" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-39" value="&lt;div&gt;1) repudiate the contract&lt;br&gt;&lt;/div&gt;&lt;div&gt;2)the&amp;nbsp; principal&amp;nbsp; is&amp;nbsp; entitled&amp;nbsp; to&amp;nbsp; claim from the agent any benefit which may have resulted to him from the transaction.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="680" y="1980" width="360" height="40" as="geometry" />
+          <mxGeometry x="700" y="1980" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMSDrdv-lY2Vh4FXMy0Z-42" value="Examples" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="1060" y="1980" width="120" height="40" as="geometry">
+          <mxGeometry x="1080" y="1980" width="120" height="40" as="geometry">
             <mxRectangle x="1300" y="1940" width="500" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -709,49 +709,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dAD9f_kBMj79IQ19F_ti-29" value="&lt;div&gt;PRINCIPAL’S LIABILITY &lt;br&gt;&lt;/div&gt;&lt;div&gt;TO THIRD PARTIES&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="560" y="1640" width="200" height="40" as="geometry" />
+          <mxGeometry x="540" y="1640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-1" target="-uZpLVm6lAkeOQQ3oZgv-3" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-1" value="1.&amp;nbsp; Principal liable&amp;nbsp; for&amp;nbsp; the&amp;nbsp; acts&amp;nbsp; of&amp;nbsp; agents&amp;nbsp; which&amp;nbsp; are&amp;nbsp; within&amp;nbsp; the&amp;nbsp; scope&amp;nbsp; of&amp;nbsp; his&amp;nbsp; authority.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="500" y="1710" width="320" height="40" as="geometry" />
+          <mxGeometry x="480" y="1710" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-3" target="-uZpLVm6lAkeOQQ3oZgv-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-3" value="2. when an agent does more than what he is supposed to do, then &lt;u&gt;&lt;b&gt;only the part which hes is authorized to do is binding with the principal&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="500" y="1770" width="320" height="50" as="geometry" />
+          <mxGeometry x="480" y="1770" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-5" target="-uZpLVm6lAkeOQQ3oZgv-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-5" value="&lt;div&gt;3. the principal is not liable for acts done by agent which are beyond the scope of the contract.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Exception&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;when agent does some act on behalf of principal and incurres liability the principal will be liable for that. &lt;br&gt;&lt;/div&gt;&lt;div&gt;[&#39;doing work for the other&#39; and &#39;doing work on behalf&#39; is different]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="500" y="1840" width="320" height="110" as="geometry" />
+          <mxGeometry x="480" y="1840" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-7" target="-uZpLVm6lAkeOQQ3oZgv-9" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-7" value="4. any notice given to or information/knowledge gathered by the agent&amp;nbsp; is treated as knowledge of the principal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="500" y="1970" width="320" height="50" as="geometry" />
+          <mxGeometry x="480" y="1970" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-9" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="600" y="2040" width="120" height="70" as="geometry" />
+          <mxGeometry x="580" y="2040" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-11" target="-uZpLVm6lAkeOQQ3oZgv-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="820" y="1640" width="200" height="40" as="geometry" />
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="780" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-12" target="-uZpLVm6lAkeOQQ3oZgv-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-12" value="An agent cannot sue nor be sued on contracts made by him on behalf of the pricipal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="740" y="1700" width="360" height="40" as="geometry" />
+          <mxGeometry x="680" y="1700" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;[the agent is personally liable for these]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. when the agent has entered into a contract with a principal who is residing abroad(outside India)[before entering into the contract only he should think about this risk]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. when the agent does not disclose the name of the principal when dealing with 3rd parties (when he deals as if he is the owner). then he will be liable those.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. when an agent contracts with an incompetent principal(minor or unsound person).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Pretended&amp;nbsp; agent&amp;nbsp; –&amp;nbsp;&amp;nbsp; if&amp;nbsp; the&amp;nbsp; agent&amp;nbsp; pretends&amp;nbsp; but&amp;nbsp; is&amp;nbsp; not&amp;nbsp; an&amp;nbsp; actual&amp;nbsp; agent,and the principal does not rectify the act but disowns it, the pretended agent will be himself liable &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. when agent exceeds authority, for the acts exceeding authority hes personally liable.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="740" y="1760" width="360" height="310" as="geometry" />
+          <mxGeometry x="680" y="1760" width="360" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
