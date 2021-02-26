@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T19:58:25.319Z" agent="5.0 (X11)" etag="-q3Lgzo7ZLpnN-PbxLgS" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T20:00:33.385Z" agent="5.0 (X11)" etag="UuyM9OmsUz9cEy1GWvd2" version="14.4.3" type="github">
   <diagram id="G10u_297ZKYxEdvCz8yc" name="Page-1">
     <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -738,8 +738,17 @@
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-9" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
           <mxGeometry x="600" y="2040" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uZpLVm6lAkeOQQ3oZgv-11" target="-uZpLVm6lAkeOQQ3oZgv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-uZpLVm6lAkeOQQ3oZgv-11" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Personal liability of agents to third parties" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="820" y="1640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-12" value="An agent cannot sue nor be sued on contracts made by him on behalf of the pricipal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1700" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-uZpLVm6lAkeOQQ3oZgv-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1760" width="360" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
