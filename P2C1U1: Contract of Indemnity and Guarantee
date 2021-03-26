@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T06:01:03.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="FS-Falvz9cbELDIHezc5" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T06:03:37.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="B8SEHswc7tpaTrCV9FwN" version="14.5.1" type="github">
   <diagram id="YFuop44DVkGmV02L-1Ys" name="Page-1">
     <mxGraphModel dx="1763" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -728,6 +728,9 @@
         </mxCell>
         <mxCell id="Gj0Q4q29IlszM_Wvxt4L-36" value="&lt;div&gt;&lt;b&gt;Right to set off&lt;/b&gt;: If the creditor sues the surety, for payment of principal debtor’s liability,&amp;nbsp; the&amp;nbsp; surety&amp;nbsp; may&amp;nbsp; have&amp;nbsp; the&amp;nbsp; benefit&amp;nbsp; of&amp;nbsp; the&amp;nbsp; set&amp;nbsp; off,&amp;nbsp; if&amp;nbsp; any,&amp;nbsp; that&amp;nbsp; the&amp;nbsp; principal&amp;nbsp; debtor had against the creditor.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Right&amp;nbsp; to&amp;nbsp; share&amp;nbsp; reduction&lt;/b&gt;:&amp;nbsp;&amp;nbsp; The surety has right to claim proportionate reduction in his liability if the principal debtor becomes insolvent.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1780" y="500" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XR_XnTw_H_InsvNZEY-1" value="principal debtor will make good to what the surety pays w.r.t to him" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="210" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
