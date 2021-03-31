@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T17:54:21.343Z" agent="5.0 (X11)" etag="Z3xxYnkAoK_hNk6l2FLk" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T18:06:06.893Z" agent="5.0 (X11)" etag="MZoyVq7ooY8CxMh5ivrf" version="14.5.3" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="2557" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -859,8 +859,32 @@
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-22" value="&lt;div&gt;who can make NI?&lt;/div&gt;&lt;div&gt;a. Every person who is capable of contracting&lt;/div&gt;&lt;div&gt;b. Ever person through duly authorised agent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="1000" y="460" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-24" target="T8Qy5xVO5aiKiSidc6-y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-24" value="LIABILITY" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1080" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-26" target="T8Qy5xVO5aiKiSidc6-y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-26" value="&lt;u&gt;&lt;b&gt;Minor&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-27" target="T8Qy5xVO5aiKiSidc6-y-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-27" value="&lt;div&gt;A minor may draw, indorse, deliver and negotiate a NI that do not bind the minor but all other parties&lt;/div&gt;&amp;gt;&amp;gt; A&amp;nbsp; minors&amp;nbsp; agreement&amp;nbsp; is&amp;nbsp; void&amp;nbsp; and&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; when&amp;nbsp; he&amp;nbsp; attains&amp;nbsp; the&amp;nbsp; age&amp;nbsp; of&amp;nbsp; maturity." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="660" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" source="T8Qy5xVO5aiKiSidc6-y-31" target="T8Qy5xVO5aiKiSidc6-y-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-31" value="&lt;u&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-32" value="Every&amp;nbsp; person,&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; incurring&amp;nbsp; liability,&amp;nbsp; may&amp;nbsp; bind&amp;nbsp; himself to a&amp;nbsp; duly authorized agent acting in his name." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="800" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
