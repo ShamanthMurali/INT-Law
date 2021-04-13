@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T18:06:06.893Z" agent="5.0 (X11)" etag="MZoyVq7ooY8CxMh5ivrf" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T12:41:15.876Z" agent="5.0 (X11)" etag="CGChsrJwmbji8HGB0xS5" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="2557" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,41 +788,41 @@
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-66" value="&lt;div&gt;A bill or note which is payable:&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;a) After a fixed period or &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) After sight or &lt;br&gt;&lt;/div&gt;&lt;div&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp; On a specified day or &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) On the happening of an event which is certain to happen is known as time instrument.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="5drDq3LZ6sMYXzu9rgkf-65" vertex="1">
           <mxGeometry y="40" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5drDq3LZ6sMYXzu9rgkf-69" target="T8Qy5xVO5aiKiSidc6-y-5">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5drDq3LZ6sMYXzu9rgkf-69" target="T8Qy5xVO5aiKiSidc6-y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-2" target="T8Qy5xVO5aiKiSidc6-y-15">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-2" target="T8Qy5xVO5aiKiSidc6-y-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-2" value="&lt;div&gt;a. if the bill date is in the middle of the month &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; then just add the maturity months to the date + 3 days of grace&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. if the date falls on the&lt;u&gt;&lt;b&gt; last date of the month&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; then consider the last day on the maturity month + 3 days of grace&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. date-31/7/21, 2 months, due date= 30/9/21(i.e not 1/10/21)+ 3 days, maturity date= 3/10/21.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-2" value="&lt;div&gt;a. if the bill date is in the middle of the month &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; then just add the maturity months to the date + 3 days of grace&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. if the date falls on the&lt;u&gt;&lt;b&gt; last date of the month&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; then consider the last day on the maturity month + 3 days of grace&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. date-31/7/21, 2 months, due date= 30/9/21(i.e not 1/10/21)+ 3 days, maturity date= 3/10/21.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="740" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-5" target="T8Qy5xVO5aiKiSidc6-y-6">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-5" target="T8Qy5xVO5aiKiSidc6-y-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-5" target="T8Qy5xVO5aiKiSidc6-y-8">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-5" target="T8Qy5xVO5aiKiSidc6-y-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Maturity calculation" treeRoot="1" id="T8Qy5xVO5aiKiSidc6-y-5">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="300" y="600" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-6" target="T8Qy5xVO5aiKiSidc6-y-2">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-6" target="T8Qy5xVO5aiKiSidc6-y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-6" value="&lt;div&gt;When maturity period is in&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Months&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-6" value="&lt;div&gt;When maturity period is in&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Months&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-8" target="T8Qy5xVO5aiKiSidc6-y-9">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-8" target="T8Qy5xVO5aiKiSidc6-y-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-8" value="&lt;div&gt;When maturity period is in&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Days&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-8" value="&lt;div&gt;When maturity period is in&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Days&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-9" target="T8Qy5xVO5aiKiSidc6-y-15">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-9" target="T8Qy5xVO5aiKiSidc6-y-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="920" />
@@ -830,7 +830,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-9" value="&lt;div&gt;1. no need to add grace days&lt;/div&gt;&lt;div&gt;2. count proper days&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;payment&amp;nbsp; is&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; excluding&amp;nbsp; the day from which the time begins to run. &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-9" value="&lt;div&gt;1. no need to add grace days&lt;/div&gt;&lt;div&gt;2. count proper days&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;payment&amp;nbsp; is&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; excluding&amp;nbsp; the day from which the time begins to run. &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="740" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-69" value="&lt;div&gt;AT SIGHT”&lt;/div&gt;&lt;div&gt; “ON PRESENTMENT”&lt;/div&gt;&lt;div&gt; “AFTER SIGHT”&lt;/div&gt;" style="swimlane;startSize=60;rounded=1;html=1;arcSize=0;" parent="1" vertex="1" collapsed="1">
@@ -841,50 +841,62 @@
         <mxCell id="5drDq3LZ6sMYXzu9rgkf-70" value="&lt;div&gt;at sight, on presentment = on demand&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;after sight = the counting of due date starts from the date the bill is accepted, not from the date it is drawn.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="5drDq3LZ6sMYXzu9rgkf-69" vertex="1">
           <mxGeometry y="60" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Holiday&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;When&amp;nbsp; the&amp;nbsp; day&amp;nbsp; on&amp;nbsp; which&amp;nbsp; a&amp;nbsp; promissory&amp;nbsp; note&amp;nbsp; or&amp;nbsp; bill&amp;nbsp; of&amp;nbsp; exchange&amp;nbsp; is&amp;nbsp; at&amp;nbsp; maturity&amp;nbsp; is&amp;nbsp; a&amp;nbsp; public holiday(includes sunday), the instrument shall be deemed to be due on&amp;nbsp; the next preceding business day.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Holiday&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;When&amp;nbsp; the&amp;nbsp; day&amp;nbsp; on&amp;nbsp; which&amp;nbsp; a&amp;nbsp; promissory&amp;nbsp; note&amp;nbsp; or&amp;nbsp; bill&amp;nbsp; of&amp;nbsp; exchange&amp;nbsp; is&amp;nbsp; at&amp;nbsp; maturity&amp;nbsp; is&amp;nbsp; a&amp;nbsp; public holiday(includes sunday), the instrument shall be deemed to be due on&amp;nbsp; the next preceding business day.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
           <mxGeometry x="205" y="940" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Transfer&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="700" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-21" target="T8Qy5xVO5aiKiSidc6-y-22">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-20" target="Pn3iyi7s_gW7q1WEYVDc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-21" value="&lt;u&gt;&lt;b&gt;Parties&lt;/b&gt;&lt;/u&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-22" target="T8Qy5xVO5aiKiSidc6-y-24">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-20" target="Pn3iyi7s_gW7q1WEYVDc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-22" value="&lt;div&gt;who can make NI?&lt;/div&gt;&lt;div&gt;a. Every person who is capable of contracting&lt;/div&gt;&lt;div&gt;b. Ever person through duly authorised agent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="460" width="280" height="60" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Transfer&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="920" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-24" target="T8Qy5xVO5aiKiSidc6-y-26">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-21" target="T8Qy5xVO5aiKiSidc6-y-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-24" value="LIABILITY" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="540" width="120" height="40" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-21" value="&lt;u&gt;&lt;b&gt;Parties&lt;/b&gt;&lt;/u&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-26" target="T8Qy5xVO5aiKiSidc6-y-27">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-22" target="T8Qy5xVO5aiKiSidc6-y-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-26" value="&lt;u&gt;&lt;b&gt;Minor&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="600" width="120" height="40" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-22" value="&lt;div&gt;who can make NI?&lt;/div&gt;&lt;div&gt;a. Every person who is capable of contracting&lt;/div&gt;&lt;div&gt;b. Ever person through duly authorised agent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="440" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" parent="1" source="T8Qy5xVO5aiKiSidc6-y-27" target="T8Qy5xVO5aiKiSidc6-y-31">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-24" target="T8Qy5xVO5aiKiSidc6-y-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-27" value="&lt;div&gt;A minor may draw, indorse, deliver and negotiate a NI that do not bind the minor but all other parties&lt;/div&gt;&amp;gt;&amp;gt; A&amp;nbsp; minors&amp;nbsp; agreement&amp;nbsp; is&amp;nbsp; void&amp;nbsp; and&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; when&amp;nbsp; he&amp;nbsp; attains&amp;nbsp; the&amp;nbsp; age&amp;nbsp; of&amp;nbsp; maturity." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="660" width="280" height="60" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-24" value="LIABILITY" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" edge="1" source="T8Qy5xVO5aiKiSidc6-y-31" target="T8Qy5xVO5aiKiSidc6-y-32" parent="1">
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-26" target="T8Qy5xVO5aiKiSidc6-y-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-31" value="&lt;u&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="740" width="120" height="40" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-26" value="&lt;u&gt;&lt;b&gt;Minor&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-32" value="Every&amp;nbsp; person,&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; incurring&amp;nbsp; liability,&amp;nbsp; may&amp;nbsp; bind&amp;nbsp; himself to a&amp;nbsp; duly authorized agent acting in his name." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="800" width="280" height="40" as="geometry" />
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-27" target="T8Qy5xVO5aiKiSidc6-y-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-27" value="&lt;div&gt;A minor may draw, indorse, deliver and negotiate a NI that do not bind the minor but all other parties&lt;/div&gt;&amp;gt;&amp;gt; A&amp;nbsp; minors&amp;nbsp; agreement&amp;nbsp; is&amp;nbsp; void&amp;nbsp; and&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; when&amp;nbsp; he&amp;nbsp; attains&amp;nbsp; the&amp;nbsp; age&amp;nbsp; of&amp;nbsp; maturity." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="640" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-31" target="T8Qy5xVO5aiKiSidc6-y-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-31" value="&lt;u&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Qy5xVO5aiKiSidc6-y-32" value="Every&amp;nbsp; person,&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; incurring&amp;nbsp; liability,&amp;nbsp; may&amp;nbsp; bind&amp;nbsp; himself to a&amp;nbsp; duly authorized agent acting in his name." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="780" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-1" value="When payable to bearer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-3" value="When payable to order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
