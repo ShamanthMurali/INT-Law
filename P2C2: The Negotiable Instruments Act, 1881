@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T13:08:26.276Z" agent="5.0 (X11)" etag="hZPuDRc0KXtoJDWw4UxT" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T13:18:31.711Z" agent="5.0 (X11)" etag="lN5pp02RLX_oii24LZsi" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="2938" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -851,46 +851,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Transfer&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="820" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="955" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-21" target="T8Qy5xVO5aiKiSidc6-y-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-21" value="&lt;u&gt;&lt;b&gt;Parties&lt;/b&gt;&lt;/u&gt;&lt;div&gt;of NI&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="2700" y="325" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-22" target="T8Qy5xVO5aiKiSidc6-y-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-22" value="&lt;div&gt;who can make NI?&lt;/div&gt;&lt;div&gt;a. Every person who is capable of contracting&lt;/div&gt;&lt;div&gt;b. Ever person through duly authorised agent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="440" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-24" target="T8Qy5xVO5aiKiSidc6-y-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2620" y="385" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-24" value="LIABILITY" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="520" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-26" target="T8Qy5xVO5aiKiSidc6-y-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2700" y="465" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-26" value="&lt;u&gt;&lt;b&gt;Minor&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="580" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-27" target="T8Qy5xVO5aiKiSidc6-y-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2700" y="525" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-27" value="&lt;div&gt;A minor may draw, indorse, deliver and negotiate a NI that do not bind the minor but all other parties&lt;/div&gt;&amp;gt;&amp;gt; A&amp;nbsp; minors&amp;nbsp; agreement&amp;nbsp; is&amp;nbsp; void&amp;nbsp; and&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; ratified&amp;nbsp; when&amp;nbsp; he&amp;nbsp; attains&amp;nbsp; the&amp;nbsp; age&amp;nbsp; of&amp;nbsp; maturity." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="640" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T8Qy5xVO5aiKiSidc6-y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;" parent="1" source="T8Qy5xVO5aiKiSidc6-y-31" target="T8Qy5xVO5aiKiSidc6-y-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2620" y="585" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-31" value="&lt;u&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="2700" y="665" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-32" value="Every&amp;nbsp; person,&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; incurring&amp;nbsp; liability,&amp;nbsp; may&amp;nbsp; bind&amp;nbsp; himself to a&amp;nbsp; duly authorized agent acting in his name." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="780" width="280" height="40" as="geometry" />
+          <mxGeometry x="2620" y="725" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-1" target="Pn3iyi7s_gW7q1WEYVDc-6">
           <mxGeometry relative="1" as="geometry" />
@@ -898,79 +886,18 @@
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-1" value="When payable to bearer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-3" target="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-3" target="Pn3iyi7s_gW7q1WEYVDc-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-3" value="When payable to order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="1235" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-5" value="&lt;div&gt;Endorsement &lt;br&gt;&lt;/div&gt;&lt;div&gt;and delivery &lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="520" width="670" height="420" as="geometry">
-            <mxRectangle x="940" y="520" width="120" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry y="40" width="670" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-18" value="&lt;div&gt;When&amp;nbsp; the&amp;nbsp; maker&amp;nbsp; or&amp;nbsp; holder&amp;nbsp; of&amp;nbsp; a&amp;nbsp; negotiable&amp;nbsp; instrument&amp;nbsp; signs&amp;nbsp; the&amp;nbsp; same&amp;nbsp; otherwise than as such maker, &lt;br&gt;&lt;/div&gt;&lt;div&gt;for the purpose of negotiation, on the back of the NI it is said to be indorsed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry y="40" width="670" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-20" value="Types of indorsment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="280" y="100" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-21" target="Pn3iyi7s_gW7q1WEYVDc-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-21" value="Indorsement in Blank&amp;nbsp; (only&amp;nbsp; signature)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-22" target="Pn3iyi7s_gW7q1WEYVDc-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-22" value="&lt;div&gt;Indorsement in Full&lt;/div&gt;&lt;div&gt;(name and signature)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-23" target="Pn3iyi7s_gW7q1WEYVDc-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-23" value="&lt;div&gt;Partial&lt;/div&gt;&lt;div&gt; indorsement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5" source="Pn3iyi7s_gW7q1WEYVDc-24" target="Pn3iyi7s_gW7q1WEYVDc-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-24" value="Restrictive Indorsement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-29" value="&lt;div&gt;Where&amp;nbsp; the&amp;nbsp; indorser&amp;nbsp; just&amp;nbsp; puts&amp;nbsp; his&amp;nbsp; signature&amp;nbsp; without&amp;nbsp; specifying&amp;nbsp; the&amp;nbsp; indorsee,&amp;nbsp; the&amp;nbsp; indorsement&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; in&amp;nbsp; blank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; when this is done the NI becomes a bearer instrument even if it was initially payable to order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="25" y="220" width="150" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-31" value="Where&amp;nbsp; along&amp;nbsp; with&amp;nbsp; indorser&#39;s&amp;nbsp; signature,&amp;nbsp; the&amp;nbsp; name&amp;nbsp; of&amp;nbsp; the&amp;nbsp; indorsee&amp;nbsp; is&amp;nbsp; specified" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="185" y="220" width="150" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="345" y="220" width="150" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-40" target="Pn3iyi7s_gW7q1WEYVDc-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1370" y="730" as="sourcePoint" />
-            <mxPoint x="1370" y="750" as="targetPoint" />
+            <mxPoint x="1295" y="560" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-37" value="restricts or excludes the right of the indorsee to further transfer the instrument" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-5">
-          <mxGeometry x="505" y="220" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-6" target="Pn3iyi7s_gW7q1WEYVDc-9">
           <mxGeometry relative="1" as="geometry" />
@@ -995,6 +922,96 @@
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-14" value="The contract on a negotiable instrument until&amp;nbsp; delivery remains&amp;nbsp; incomplete and revocable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-18" target="Pn3iyi7s_gW7q1WEYVDc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-18" value="&lt;div&gt;When&amp;nbsp; the&amp;nbsp; maker&amp;nbsp; or&amp;nbsp; holder&amp;nbsp; of&amp;nbsp; a&amp;nbsp; negotiable&amp;nbsp; instrument&amp;nbsp; signs&amp;nbsp; the&amp;nbsp; same&amp;nbsp; otherwise than as such maker, &lt;br&gt;&lt;/div&gt;&lt;div&gt;for the purpose of negotiation, on the back of the NI it is said to be indorsed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="600" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-20" target="Pn3iyi7s_gW7q1WEYVDc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-20" value="Types of indorsment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="1235" y="660" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-21" target="Pn3iyi7s_gW7q1WEYVDc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-21" value="Indorsement in Blank&amp;nbsp; (only&amp;nbsp; signature)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-22" target="Pn3iyi7s_gW7q1WEYVDc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-22" value="&lt;div&gt;Indorsement in Full&lt;/div&gt;&lt;div&gt;(name and signature)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-23" target="Pn3iyi7s_gW7q1WEYVDc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-23" value="&lt;div&gt;Partial&lt;/div&gt;&lt;div&gt; indorsement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-24" target="Pn3iyi7s_gW7q1WEYVDc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-24" value="Restrictive Indorsement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-29" value="&lt;div&gt;Where&amp;nbsp; the&amp;nbsp; indorser&amp;nbsp; just&amp;nbsp; puts&amp;nbsp; his&amp;nbsp; signature&amp;nbsp; without&amp;nbsp; specifying&amp;nbsp; the&amp;nbsp; indorsee,&amp;nbsp; the&amp;nbsp; indorsement&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; in&amp;nbsp; blank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; when this is done the NI becomes a bearer instrument even if it was initially payable to order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="900" y="775" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-31" value="Where&amp;nbsp; along&amp;nbsp; with&amp;nbsp; indorser&#39;s&amp;nbsp; signature,&amp;nbsp; the&amp;nbsp; name&amp;nbsp; of&amp;nbsp; the&amp;nbsp; indorsee&amp;nbsp; is&amp;nbsp; specified" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="775" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="775" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-37" value="restricts or excludes the right of the indorsee to further transfer the instrument" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="775" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-40" value="&lt;div&gt;Endorsement &lt;br&gt;&lt;/div&gt;&lt;div&gt;and delivery &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-43" target="Pn3iyi7s_gW7q1WEYVDc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-43" target="Pn3iyi7s_gW7q1WEYVDc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-43" target="Pn3iyi7s_gW7q1WEYVDc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-43" target="Pn3iyi7s_gW7q1WEYVDc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-43" value="Conditional&amp;nbsp; indorsement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-49" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="810" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-50" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="810" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-51" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="810" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-52" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="810" width="150" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
