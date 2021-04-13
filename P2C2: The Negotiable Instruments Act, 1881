@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T13:29:33.856Z" agent="5.0 (X11)" etag="PJk5hFBXfZXnIyN0AgXp" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T13:32:58.349Z" agent="5.0 (X11)" etag="PK2qndzb6qqDdMSJZyWf" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="2938" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -884,7 +884,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-1" value="When payable to bearer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="715" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-3" target="Pn3iyi7s_gW7q1WEYVDc-40">
           <mxGeometry relative="1" as="geometry">
@@ -906,22 +906,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-6" value="By delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="715" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-9" target="Pn3iyi7s_gW7q1WEYVDc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-9" value="Actual delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="635" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-10" target="Pn3iyi7s_gW7q1WEYVDc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-10" value="constructive delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="795" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-14" value="The contract on a negotiable instrument until&amp;nbsp; delivery remains&amp;nbsp; incomplete and revocable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="680" width="280" height="40" as="geometry" />
+          <mxGeometry x="635" y="680" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-18" target="Pn3iyi7s_gW7q1WEYVDc-20">
           <mxGeometry relative="1" as="geometry" />
@@ -977,7 +977,7 @@
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-31" value="Where&amp;nbsp; along&amp;nbsp; with&amp;nbsp; indorser&#39;s&amp;nbsp; signature,&amp;nbsp; the&amp;nbsp; name&amp;nbsp; of&amp;nbsp; the&amp;nbsp; indorsee&amp;nbsp; is&amp;nbsp; specified" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1060" y="775" width="150" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount.&lt;/div&gt;&lt;div&gt;not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount. not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1220" y="775" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-37" value="restricts or excludes the right of the indorsee to further transfer the instrument" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
