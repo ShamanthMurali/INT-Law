@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T12:41:36.682Z" agent="5.0 (X11)" etag="6-539ey4RwNvDXn2syy6" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T12:42:51.526Z" agent="5.0 (X11)" etag="NVp-jJPeQT362f5wDPYI" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="2732" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -904,11 +904,23 @@
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-3" value="When payable to order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-5" value="Endorsement and delivery " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-6" target="Pn3iyi7s_gW7q1WEYVDc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-6" target="Pn3iyi7s_gW7q1WEYVDc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-6" value="By delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-9" value="Actual delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-10" value="constructive delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
