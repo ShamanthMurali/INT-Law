@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T12:41:15.876Z" agent="5.0 (X11)" etag="CGChsrJwmbji8HGB0xS5" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T12:41:36.682Z" agent="5.0 (X11)" etag="6-539ey4RwNvDXn2syy6" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="2938" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2732" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,11 +892,23 @@
         <mxCell id="T8Qy5xVO5aiKiSidc6-y-32" value="Every&amp;nbsp; person,&amp;nbsp; capable&amp;nbsp; of&amp;nbsp; incurring&amp;nbsp; liability,&amp;nbsp; may&amp;nbsp; bind&amp;nbsp; himself to a&amp;nbsp; duly authorized agent acting in his name." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=60;" parent="1" vertex="1">
           <mxGeometry x="1640" y="780" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-1" target="Pn3iyi7s_gW7q1WEYVDc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-1" value="When payable to bearer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-3" target="Pn3iyi7s_gW7q1WEYVDc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-3" value="When payable to order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
