@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T17:24:44.071Z" agent="5.0 (X11)" etag="LHkX2diTwNbMmMZ6DL8w" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T17:51:48.165Z" agent="5.0 (X11)" etag="QycbZEXZ85W8-fqgBncn" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
-    <mxGraphModel dx="2938" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1037,13 +1037,32 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-64" value="Essentials" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1020" width="200" height="200" as="geometry">
-            <mxRectangle x="1450" y="1020" width="120" height="40" as="alternateBounds" />
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-64" target="Pn3iyi7s_gW7q1WEYVDc-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-64" value="Essentials" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1470" y="1200" width="120" height="40" as="geometry">
+            <mxRectangle x="1450" y="1020" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-65" value="&lt;div&gt;1. Signature&amp;nbsp; of&amp;nbsp; indorser&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-64">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-65" value="&lt;div&gt;1. Signature&amp;nbsp; of&amp;nbsp; indorser&lt;/div&gt;&lt;div&gt;2. Who&amp;nbsp; may&amp;nbsp; indorse&amp;nbsp; or&amp;nbsp; negotiate&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Effect of indorsement&lt;/div&gt;&lt;div&gt;(Conditional or restrictive)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-64">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-66" value="INSTRUMENT OBTAINED BY UNLAWFUL&#xa; MEANS OR FOR UNLAWFUL CONSIDERATION" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1420" y="1360" width="330" height="40" as="geometry">
+            <mxRectangle x="1420" y="1360" width="410" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-67" value="&lt;div&gt;1. When a negotiable instrument has been lost, or&amp;nbsp; has been obtained from any maker, acceptor or holder thereof by means of &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;an offence &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;or fraud, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;or for an unlawful consideration,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;then any person who gets possession of such an instrument &lt;u&gt;&lt;b&gt;cannot&lt;/b&gt;&lt;/u&gt; claim the or receive the amount from the maker,&amp;nbsp; acceptor&amp;nbsp; or&amp;nbsp; holder,&amp;nbsp; or&amp;nbsp; from&amp;nbsp; any&amp;nbsp; party&amp;nbsp; prior&amp;nbsp; to&amp;nbsp; such&amp;nbsp; holder,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;unless&lt;/b&gt;, if the party received such an instrument, in innocence or good faith and with out the knowledge of the unlawful consideration then it is valid. in this case the person responsible for the fraud shall indemnify the party in loss &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-66">
+          <mxGeometry y="40" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-73" value="INSTRUMENT ACQUIRED AFTER &#xa;DISHONOR OR WHEN OVERDUE" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1430" width="410" height="260" as="geometry">
+            <mxRectangle x="1420" y="1430" width="330" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-73">
+          <mxGeometry y="40" width="410" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
