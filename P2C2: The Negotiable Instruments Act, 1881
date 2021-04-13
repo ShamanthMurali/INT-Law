@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T13:32:58.349Z" agent="5.0 (X11)" etag="PK2qndzb6qqDdMSJZyWf" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T17:24:44.071Z" agent="5.0 (X11)" etag="LHkX2diTwNbMmMZ6DL8w" version="14.5.10" type="github">
   <diagram id="KtqBpbjLhAQHChUmW0vI" name="Page-1">
     <mxGraphModel dx="2938" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -971,13 +971,16 @@
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-24" value="Restrictive Indorsement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1395" y="715" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-29" target="Pn3iyi7s_gW7q1WEYVDc-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-29" value="&lt;div&gt;Where&amp;nbsp; the&amp;nbsp; indorser&amp;nbsp; just&amp;nbsp; puts&amp;nbsp; his&amp;nbsp; signature&amp;nbsp; without&amp;nbsp; specifying&amp;nbsp; the&amp;nbsp; indorsee,&amp;nbsp; the&amp;nbsp; indorsement&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; in&amp;nbsp; blank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; when this is done the NI becomes a bearer instrument even if it was initially payable to order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="900" y="775" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-31" value="Where&amp;nbsp; along&amp;nbsp; with&amp;nbsp; indorser&#39;s&amp;nbsp; signature,&amp;nbsp; the&amp;nbsp; name&amp;nbsp; of&amp;nbsp; the&amp;nbsp; indorsee&amp;nbsp; is&amp;nbsp; specified" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1060" y="775" width="150" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount. not valid in the law.&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-34" value="&lt;div&gt;Only transfer of a part of amount. not valid in the law.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. A is a holder of a bill for` 10000. A indorses it thus: “Pay B or or&amp;nbsp; der `&amp;nbsp; 5000”.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; partial&amp;nbsp; indorsement&amp;nbsp; and&amp;nbsp; invalid&amp;nbsp; for&amp;nbsp; the&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; negotiation.&lt;/div&gt;&lt;div&gt;&amp;gt; the remaining part may be negotiated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1220" y="775" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-37" value="restricts or excludes the right of the indorsee to further transfer the instrument" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
@@ -1012,6 +1015,35 @@
         </mxCell>
         <mxCell id="Pn3iyi7s_gW7q1WEYVDc-52" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Sans frais’ indorsement &lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Endorser relives himself &lt;br&gt;&lt;/div&gt;from the liability of any expenses arising on dishonor of NI (only expenses)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="2040" y="810" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-61" target="Pn3iyi7s_gW7q1WEYVDc-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="1120" />
+              <mxPoint x="1135" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-57" value="&lt;u&gt;&lt;b&gt;Conversation&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1020" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-61" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1060" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-62" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="Pn3iyi7s_gW7q1WEYVDc-57" target="Pn3iyi7s_gW7q1WEYVDc-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975.0344827586209" y="1040" as="sourcePoint" />
+            <mxPoint x="1135.034482758621" y="965" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-64" value="Essentials" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1020" width="200" height="200" as="geometry">
+            <mxRectangle x="1450" y="1020" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pn3iyi7s_gW7q1WEYVDc-65" value="&lt;div&gt;1. Signature&amp;nbsp; of&amp;nbsp; indorser&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pn3iyi7s_gW7q1WEYVDc-64">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
