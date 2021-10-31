@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T11:26:18.351Z" agent="5.0 (X11)" etag="Ff6DMWmS9ybCNLdyozCb" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T16:45:41.547Z" agent="5.0 (X11)" etag="jGpp-Isl8w7Nh47fp6D5" version="15.6.3" type="github">
   <diagram id="UIfCPAg6AZkDRlMzlhr-" name="Page-1">
-    <mxGraphModel dx="3066" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,14 +52,17 @@
         <mxCell id="ANzs_AkzaoY-4qBvGDim-17" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;" parent="1" vertex="1">
           <mxGeometry x="280" y="11290" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GTEfEdgbUivj1SXV76QD-1" value="PTP" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" vertex="1" parent="1">
+        <mxCell id="GTEfEdgbUivj1SXV76QD-1" value="PTP" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" parent="1" vertex="1">
           <mxGeometry x="-120" y="-99.72000000000003" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GTEfEdgbUivj1SXV76QD-2" value="RTP" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
+        <mxCell id="GTEfEdgbUivj1SXV76QD-2" value="RTP" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-100" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GTEfEdgbUivj1SXV76QD-3" value="MTP" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="GTEfEdgbUivj1SXV76QD-3" value="MTP" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-99.72000000000003" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Hw5UcPHVU5Vjovjazca-1" value="&lt;div&gt;Impact of the words &lt;u&gt;&lt;b&gt;“Means” and “Includes”&lt;/b&gt;&lt;/u&gt; in the definitions-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;When a word is defined to ‘&lt;b&gt;mean&lt;/b&gt;’ such and such, the definition is ‘prima facie’ restrictive &lt;/div&gt;and&amp;nbsp; exhaustive,&amp;nbsp; we&amp;nbsp; must&amp;nbsp; restrict&amp;nbsp; the&amp;nbsp; meaning&amp;nbsp; of&amp;nbsp; the&amp;nbsp; word&amp;nbsp; to&amp;nbsp; that&amp;nbsp; given&amp;nbsp; in&amp;nbsp; the&amp;nbsp; definition &lt;br&gt;&lt;div&gt;section.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;But&amp;nbsp; where&amp;nbsp; the&amp;nbsp; word&amp;nbsp; is&amp;nbsp; defined&amp;nbsp; to&amp;nbsp; ‘&lt;b&gt;include&lt;/b&gt;’&amp;nbsp; such&amp;nbsp; and&amp;nbsp; such,&amp;nbsp; the&amp;nbsp; definition is ‘prima facie’ &lt;br&gt;extensive,&amp;nbsp; here&amp;nbsp; the&amp;nbsp; word&amp;nbsp; defined&amp;nbsp; is&amp;nbsp; not&amp;nbsp; restricted&amp;nbsp; to&amp;nbsp; the&amp;nbsp; meaning&amp;nbsp; assigned&amp;nbsp; to&amp;nbsp; it&amp;nbsp; but&amp;nbsp; has &lt;br&gt;extensive&amp;nbsp; meaning&amp;nbsp; which&amp;nbsp; also&amp;nbsp; includes&amp;nbsp; the&amp;nbsp; meaning&amp;nbsp; assigned&amp;nbsp; to&amp;nbsp; it&amp;nbsp; in&amp;nbsp; the&amp;nbsp; definition &lt;br&gt;&lt;div&gt;section. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Example: &lt;br&gt;Definition&amp;nbsp; of&amp;nbsp; Director&amp;nbsp; [section&amp;nbsp; 2(34)&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Companies&amp;nbsp; Act,&amp;nbsp; 2013]—Director&amp;nbsp; means&amp;nbsp; a &lt;br&gt;director appointed to the board of a company. The word “means” suggests&amp;nbsp; exhaustive &lt;br&gt;definition. &lt;br&gt;Definition&amp;nbsp; of&amp;nbsp; Whole&amp;nbsp; time&amp;nbsp; director&amp;nbsp; [Section&amp;nbsp; 2(94)&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Companies&amp;nbsp; Act,&amp;nbsp; 2013] —Whole &lt;br&gt;time director includes a director in the whole time employment of the company. The word &lt;br&gt;“includes” suggests extensive definition. Other directors may be included in the category &lt;br&gt;of the whole time director. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="11075.85" width="610" height="304.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
