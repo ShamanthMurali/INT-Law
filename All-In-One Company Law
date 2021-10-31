@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T16:42:27.953Z" agent="5.0 (X11)" etag="fwszQQf1R_ccIkUK1Hsd" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T11:26:32.990Z" agent="5.0 (X11)" etag="n2fOSR_udSCxY-7DwPyz" version="15.6.2" type="github">
   <diagram id="1BF08DydH6a7O1mfr5jH" name="Page-1">
-    <mxGraphModel dx="1614" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,12 +296,30 @@
           <mxGeometry x="5723.8898225957055" y="39.72222222222222" width="760" height="90" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 20pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-f9de7b0d-7fff-71db-1782-c88adbe373cd&quot;&gt;Chapter 7 : Management And Administration&lt;br&gt;&lt;/span&gt;" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;highlight=0000ff&amp;edit=https%3A%2F%2Fapp.diagrams.net%2F%23HShamanthMurali%252FINT-Law%252Fmain%252FC7%253A%2520Management%2520%2526%2520Administration&amp;layers=1&amp;nav=1&amp;title=C7%3A%20Management%20%26%20Administration#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FShamanthMurali%2FINT-Law%2Fmain%2FC7%253A%2520Management%2520%2526%2520Administration" id="sDdJz30k8qdPdD7pOwsl-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="4119.995714285715" y="40" width="760" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="sDdJz30k8qdPdD7pOwsl-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+        <mxCell id="sDdJz30k8qdPdD7pOwsl-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" parent="1" vertex="1">
           <mxGeometry x="4120" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-3" value="PTP" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" vertex="1" parent="1">
+          <mxGeometry x="-320" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-4" value="RTP" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="39.72" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-5" value="MTP" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xJS34z8zZKl9Vc5GS9z-6" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
